@@ -1,24 +1,5 @@
 [
   {
-    "path": "posts/2021-05-07-champions-mini-series/",
-    "title": "Champions Mini-Series",
-    "description": "Open call for Openscapes Champions 2-month event series",
-    "author": [
-      {
-        "name": "Julie Lowndes & Erin Robinson",
-        "url": {}
-      }
-    ],
-    "date": "2021-05-07",
-    "categories": [
-      "champions cohort"
-    ],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-02-07T12:57:42-08:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2021-03-08-dr-dawn-wright-interview/",
     "title": "Dr. Dawn Wright Interview",
     "description": "Interview with Dr. Dawn Wright at MozFest",
@@ -34,7 +15,7 @@
     ],
     "contents": "\nJoin us for a conversation with Dr. Dawn Wright (@DeepSeaDawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This conversation will launch our Openscapes Community Calls! It’s all happening at MozFest, Mozilla’s Internet Festival. Please register for MozFest here: https://ti.to/Mozilla/mozilla-festival-2021\n\n\n\n\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-07T12:58:51-08:00",
+    "last_modified": "2021-02-07T13:33:06-08:00",
     "input_file": {}
   }
 ]

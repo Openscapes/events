@@ -6,7 +6,7 @@ author:
   - name: Julie Lowndes & Erin Robinson
     affiliation: MozFest
     url: "https://www.mozillafestival.org/en/tickets/"
-date: 03-08-2021
+date: 2021-03-08
 categories:
   - community calls
 output:

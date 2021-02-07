@@ -1,0 +1,31 @@
+---
+title: "Dr. Dawn Wright Interview"
+description: |
+  Interview with Dr. Dawn Wright at MozFest
+author:
+  - name: Julie Lowndes & Erin Robinson
+    affiliation: MozFest
+    url: "https://www.mozillafestival.org/en/tickets/"
+date: 03-08-2021
+categories:
+  - community calls
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Join us for a conversation with Dr. Dawn Wright ([\@DeepSeaDawn](https://twitter.com/DeepSeaDawn)) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This conversation will launch our Openscapes Community Calls! It's all happening at MozFest, Mozilla's Internet Festival. Please register for MozFest here: <https://ti.to/Mozilla/mozilla-festival-2021>
+
+<br> 
+
+```{r, eval=FALSE, out.width="25%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("dawn-wright.jpg")  
+```
+
+<br> 
+

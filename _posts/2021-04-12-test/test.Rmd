@@ -6,7 +6,7 @@ author:
   - name: Julie Lowndes
     affiliation: MozFest
     url: "https://www.mozillafestival.org/en/tickets/"
-date: 02-09-2021
+date: 04-12-2021
 categories:
   - community calls
 output:

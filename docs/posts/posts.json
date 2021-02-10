@@ -15,7 +15,26 @@
     ],
     "contents": "\nJoin us for a conversation with Dr. Dawn Wright (@DeepSeaDawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This conversation will launch our Openscapes Community Calls! It’s all happening at MozFest, Mozilla’s Internet Festival. Please register for MozFest here: https://ti.to/Mozilla/mozilla-festival-2021\n\n\n\n\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-07T13:33:06-08:00",
-    "input_file": {}
+    "last_modified": "2021-02-09T20:57:42-08:00",
+    "input_file": "dawn-wright.utf8.md"
+  },
+  {
+    "path": "posts/2021-04-12-bday/",
+    "title": "test",
+    "description": "Testings",
+    "author": [
+      {
+        "name": "Julie Lowndes",
+        "url": "https://www.mozillafestival.org/en/tickets/"
+      }
+    ],
+    "date": "2021-02-09",
+    "categories": [
+      "community calls"
+    ],
+    "contents": "\nTestings\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-09T20:58:24-08:00",
+    "input_file": "bday.utf8.md"
   }
 ]

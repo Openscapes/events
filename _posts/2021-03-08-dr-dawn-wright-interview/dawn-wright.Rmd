@@ -1,11 +1,8 @@
 ---
 title: "Interview with Dr. Dawn Wright"
-description: |
-  Interview with Dr. Dawn Wright at MozFest
+description: "Interview with Dr. Dawn Wright at MozFest"
 author:
   - name: Julie Lowndes & Erin Robinson
-    affiliation: MozFest
-    url: "https://www.mozillafestival.org/en/tickets/"
 date: 2021-03-08
 categories:
   - community calls
@@ -14,12 +11,21 @@ output:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Join us for a conversation with Dr. Dawn Wright ([\@DeepSeaDawn](https://twitter.com/DeepSeaDawn)) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This conversation will launch our Openscapes Community Calls! It's all happening at MozFest, Mozilla's Internet Festival. Please register for MozFest here: <https://ti.to/Mozilla/mozilla-festival-2021>
+**Date: March 8, 2021** *(ignore "published" date above)*  
+**Time: 10:15 PST** (UTC-8)  
+**Where: on Zoom at MozFest, Mozilla's Internet Festival**  
+**Join us: [register for MozFest](https://www.mozillafestival.org/en/tickets/)**
+
+Please join us for a conversation with Dr. Dawn Wright ([\@DeepSeaDawn](https://twitter.com/DeepSeaDawn)) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. 
+
+Dr. Wright is American geographer and oceanographer ([Wikipedia](https://en.wikipedia.org/wiki/Dawn_Wright)). She is [Chief Scientist at ESRI](https://www.esri.com/about/newsroom/author/dawnwright/) (the Environmental Systems Research Institute). 
+
+Dr. Wright is a role model to many in science, including us. We are so excited about this conversation, which will also launch Openscapes Community Calls. If you have questions you'd like to ask Dawn, please share them on Twitter by tagging [\@openscapes](https://twitter.com/openscapes).  
+
 
 <br> 
 

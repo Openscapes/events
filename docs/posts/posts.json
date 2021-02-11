@@ -1,40 +1,21 @@
 [
   {
-    "path": "posts/2021-04-12-test/",
-    "title": "test",
-    "description": "Testings",
-    "author": [
-      {
-        "name": "Julie Lowndes",
-        "url": "https://www.mozillafestival.org/en/tickets/"
-      }
-    ],
-    "date": "2021-04-12",
-    "categories": [
-      "community calls"
-    ],
-    "contents": "\nTestings\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-02-09T21:00:05-08:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2021-03-08-dr-dawn-wright-interview/",
     "title": "Interview with Dr. Dawn Wright",
     "description": "Interview with Dr. Dawn Wright at MozFest",
     "author": [
       {
         "name": "Julie Lowndes & Erin Robinson",
-        "url": "https://www.mozillafestival.org/en/tickets/"
+        "url": {}
       }
     ],
     "date": "2021-03-08",
     "categories": [
       "community calls"
     ],
-    "contents": "\nJoin us for a conversation with Dr. Dawn Wright (@DeepSeaDawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This conversation will launch our Openscapes Community Calls! It’s all happening at MozFest, Mozilla’s Internet Festival. Please register for MozFest here: https://ti.to/Mozilla/mozilla-festival-2021\n\n\n\n\n\n\n\n\n",
+    "contents": "\nDate: March 8, 2021 (ignore “published” date above)Time: 10:15 PST (UTC-8)Where: on Zoom at MozFest, Mozilla’s Internet FestivalJoin us: register for MozFest\nPlease join us for a conversation with Dr. Dawn Wright (@DeepSeaDawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change.\nDr. Wright is American geographer and oceanographer (Wikipedia). She is Chief Scientist at ESRI (the Environmental Systems Research Institute).\nDr. Wright is a role model to many in science, including us. We are so excited about this conversation, which will also launch Openscapes Community Calls. If you have questions you’d like to ask Dawn, please share them on Twitter by tagging @openscapes.\n\n\n\n\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-09T21:46:04-08:00",
-    "input_file": {}
+    "last_modified": "2021-02-10T18:00:01-08:00",
+    "input_file": "dawn-wright.utf8.md"
   }
 ]

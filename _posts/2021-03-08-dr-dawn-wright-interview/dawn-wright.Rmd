@@ -15,23 +15,25 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**Date: March 8, 2021** *(ignore "published" date above)*  
+**Date: March 8, 2021** *(please ignore "published" date above)*  
 **Time: 10:15 PST** (UTC-8)  
 **Where: on Zoom at MozFest, Mozilla's Internet Festival**  
 **Join us: [register for MozFest](https://www.mozillafestival.org/en/tickets/)**
 
 Please join us for a conversation with Dr. Dawn Wright ([\@DeepSeaDawn](https://twitter.com/DeepSeaDawn)) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. 
 
+<br> 
+
+```{r, out.width="45%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("dr-dawn-wright.jpg")  
+```
+
+<br> 
+
 Dr. Wright is American geographer and oceanographer ([Wikipedia](https://en.wikipedia.org/wiki/Dawn_Wright)). She is [Chief Scientist at ESRI](https://www.esri.com/about/newsroom/author/dawnwright/) (the Environmental Systems Research Institute). 
 
 Dr. Wright is a role model to many in science, including us. We are so excited about this conversation, which will also launch Openscapes Community Calls. If you have questions you'd like to ask Dawn, please share them on Twitter by tagging [\@openscapes](https://twitter.com/openscapes).  
 
 
-<br> 
 
-```{r, eval=FALSE, out.width="25%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
-knitr::include_graphics("dawn-wright.jpg")  
-```
-
-<br> 
 

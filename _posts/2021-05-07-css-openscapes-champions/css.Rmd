@@ -1,12 +1,13 @@
 ---
-title: "Champions Mini-Series"
+title: "CS&S Openscapes Champions"
 description: |
-  Open call for Openscapes Champions 2-month event series
+  Openscapes Champions Cohort sponsored by Code for Science and Society (CS&S)
 author:
   - name: Julie Lowndes & Erin Robinson
 date: 2021-05-07
 categories:
   - champions cohort
+  - registration open
 output:
   distill::distill_article:
     self_contained: false

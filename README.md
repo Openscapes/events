@@ -16,3 +16,10 @@ create_post(
   edit = interactive()
 )
 ```
+
+```r
+install.packages("devtools")
+devtools::install_github("rstudio/rmarkdown")
+devtools::install_github("yihui/knitr")
+devtools::install_github("rstudio/distill")
+```

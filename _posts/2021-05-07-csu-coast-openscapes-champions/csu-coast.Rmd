@@ -1,7 +1,6 @@
 ---
 title: "CSU-COAST Openscapes Champions"
-description: |
-  Openscapes Champions Cohort for the California State University Council on Ocean Affairs, Science & Technology (CSU COAST)
+description: "Openscapes Champions Cohort for the California State University Council on Ocean Affairs, Science & Technology (CSU COAST)"
 author:
   - name: Julie Lowndes & Erin Robinson
 date: 2021-05-07

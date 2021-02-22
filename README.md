@@ -6,6 +6,10 @@ Openscapes events: <https://openscapes.org/events>
 
 From <https://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/>
 
+writing text and `code`
+
+`print("hello")`
+
 ```r
 create_post(
   title, # mandatory

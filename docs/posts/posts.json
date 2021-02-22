@@ -1,25 +1,5 @@
 [
   {
-    "path": "posts/2021-05-07-css-openscapes-champions/",
-    "title": "CS&S Openscapes Champions Cohort",
-    "description": "Openscapes Champions Cohort sponsored by Code for Science and Society (CS&S)",
-    "author": [
-      {
-        "name": "Openscapes and Code for Science and Society",
-        "url": {}
-      }
-    ],
-    "date": "2021-05-07",
-    "categories": [
-      "mentorship opportunity",
-      "registration open"
-    ],
-    "contents": "\nThis is a professional development and leadership opportunity for data-intensive environmental research.\nOpenscapes helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities.\nCS&S Openscapes Champions is a professional development and leadership opportunity around open practices for data-driven science. This two-month remote program is not about teaching you to code. It is about changing your relationship with code and data, and cultivating a more collaborative and inclusive research group. You will participate as a team with others from your research group, learning how to reframe data analysis as a collaborative effort rather than an individual burden. You will be mentored to supercharge your research by leveraging open source tools (e.g. R/RStudio, GitHub) to make your research more efficient and your data analyses more reproducible. For more information and guidance about how to select your team, please visit openscapes.org/champions.\nProgram Overview: We will meet four times over two months, on alternating Fridays in 2021.\nDates: May 7, May 21, June 4, June 18\nTimes: 12:00-1:30pm PST\nWhere: remotely, via Zoom\nWho: Cohort of 6-8 environmental research teams. Each team consists of a team lead (faculty, lecturer, program manager, etc) and up to 4 team members of your choice (students, researchers, analysts, etc).\nExpected time commitment: 5hrs/month for 2 months, which accounts for a 3 hours/month of synchronous Zoom calls, and the remaining time for collaborating with your research group in between calls.\nNominate your team to participate\nNominate your team by filling out this [Google Form] by March 26, 2021. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by early April 2021.\nTODO: Image: Logos\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-02-22T13:48:08-08:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2021-05-07-csu-coast-openscapes-champions/",
     "title": "CSU-COAST Openscapes Champions",
     "description": "Openscapes Champions Cohort for the California State University Council on Ocean Affairs, Science & Technology (CSU COAST)",
@@ -36,7 +16,7 @@
     ],
     "contents": "\nTODO information from email\nTODO logos\nHow do I pick my team? https://openscapes.org/faq\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-22T13:03:42-08:00",
+    "last_modified": "2021-02-22T14:53:38-07:00",
     "input_file": {}
   },
   {
@@ -55,7 +35,7 @@
     ],
     "contents": "\nDate: March 8, 2021 (please ignore “published” date above)Time: 10:15 PST (UTC-8)Where: on Zoom at MozFest, Mozilla’s Internet FestivalJoin us: register for MozFest\nPlease join us for a conversation with Dr. Dawn Wright (@DeepSeaDawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change.\n\n\n\n\n\nDr. Wright is American geographer and oceanographer (Wikipedia). She is Chief Scientist at ESRI (the Environmental Systems Research Institute).\nDr. Wright is a role model to many in science, including us. We are so excited about this conversation, which will also launch Openscapes Community Calls. If you have questions you’d like to ask Dawn, please share them on Twitter by tagging @openscapes.\n\n\n\n",
     "preview": "posts/2021-03-08-dr-dawn-wright-interview/dr-dawn-wright.jpg",
-    "last_modified": "2021-02-18T06:58:03-08:00",
+    "last_modified": "2021-02-22T14:21:30-07:00",
     "input_file": {}
   }
 ]

@@ -3,7 +3,7 @@ title: "CS&S Openscapes Champions Cohort"
 description: |
   Openscapes Champions Cohort sponsored by Code for Science and Society (CS&S)
 author:
-  - name: Openscapes and Code for Science and Society
+  - name: "Openscapes and CS&S"
 date: 2021-05-07
 categories:
   - mentorship opportunity

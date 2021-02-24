@@ -32,9 +32,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Nominate your team to participate**
 
-Nominate your team by filling out this [Google Form] by March 26, 2021. This opportunity is open only to those affiliated with CSU COAST. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by early April 2021. 
+Nominate your team by filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc7dY2GXvaV_dCmwMJte2uRTxT17GvaGB63k8I2J98IZ-fHQQ/viewform?usp=sf_link) by March 26, 2021. This opportunity is open only to those affiliated with CSU COAST. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by early April 2021. 
 
-Questions? Contact Openscapes: `openscapes at nceas.ucsb.edu`
 
 <br> 
 

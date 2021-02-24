@@ -5,20 +5,41 @@ author:
   - name: Openscapes and CSU COAST
 date: 2021-05-07
 categories:
-  - champions cohort
+  - mentorship opportunity
   - registration open
 output:
   distill::distill_article:
     self_contained: false
-draft: TRUE    
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-TODO information from email
+**This is a professional development and leadership opportunity for marine research groups to explore open data science practices.**
 
-TODO logos
+**Openscapes** helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities.
 
-How do I pick my team? <https://openscapes.org/faq>
+**CSU-COAST Openscapes Champions** is a professional development and leadership opportunity around open practices for data-driven science. This two-month remote program is not about teaching you to code. It is about changing your relationship with code and data, and through shared practices, cultivating a more collaborative and inclusive research group. You will participate as a team with others from your research group, learning how to reframe data analysis as a collaborative effort rather than an individual burden. You will be mentored to supercharge your research by leveraging open source tools (e.g. R/RStudio, GitHub) to make your research more efficient and your data analyses more reproducible. For more information and guidance about how to select your team, please visit [openscapes.org/champions](https://www.openscapes.org/champions/).
+
+**Program Overview:** We will meet four times over two months, on alternating Fridays in 2021.
+
+- **Dates: **May 7, May 21, June 4, June 18
+- **Times: **12:00-1:30pm PST 
+- **Where:** remotely, via Zoom
+- **Who: **Cohort of 6-8 CSU-COAST lab groups. Each team consists of a team lead (faculty or PI etc) and up to 4 team members of your choice (graduate students, undergraduates, technicians, etc). 
+- **Expected time commitment:** 5hrs/month for 2 months, which accounts for a 3 hours/month of synchronous Zoom calls, and the remaining time for collaborating with your research group in between calls.
+
+**Nominate your team to participate**
+
+Nominate your team by filling out this [Google Form] by March 26, 2021. This opportunity is open only to those affiliated with CSU COAST. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by early April 2021. 
+
+Questions? Contact Openscapes: `openscapes at nceas.ucsb.edu`
+
+<br> 
+
+```{r, out.width="20%", preview=TRUE}
+knitr::include_graphics("COAST.png")  
+```
+
+<br> 

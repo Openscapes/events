@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **This is a professional development and leadership opportunity for marine research groups to explore open data science practices.**
 
-**Openscapes** helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities.
+[**Openscapes**](https://openscapes.org) helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities.
 
 **CSU-COAST Openscapes Champions** is a professional development and leadership opportunity around open practices for data-driven science. This two-month remote program is not about teaching you to code. It is about changing your relationship with code and data, and through shared practices, cultivating a more collaborative and inclusive research group. You will participate as a team with others from your research group, learning how to reframe data analysis as a collaborative effort rather than an individual burden. You will be mentored to supercharge your research by leveraging open source tools (e.g. R/RStudio, GitHub) to make your research more efficient and your data analyses more reproducible. For more information and guidance about how to select your team, please visit [openscapes.org/champions](https://www.openscapes.org/champions/).
 

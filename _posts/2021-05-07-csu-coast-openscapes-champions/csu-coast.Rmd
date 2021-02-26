@@ -1,8 +1,8 @@
 ---
-title: "CSU COAST Openscapes Champions Cohort"
-description: "Openscapes Champions Cohort for the California State University Council on Ocean Affairs, Science & Technology (CSU COAST)"
+title: "COAST Openscapes Champions Cohort"
+description: "Openscapes Champions Cohort for the California State University (CSU) Council on Ocean Affairs, Science & Technology (COAST)"
 author:
-  - name: Openscapes and CSU COAST
+  - name: Openscapes and COAST
 date: 2021-05-07
 categories:
   - mentorship opportunity

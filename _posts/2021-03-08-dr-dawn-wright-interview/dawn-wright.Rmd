@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Date: March 8, 2021**  
 **Time: 10:15 PST** (UTC-8)  
 **Where: on Zoom at MozFest, Mozilla's Internet Festival**  
-**Join us: [register for MozFest](https://www.mozillafestival.org/en/tickets/)**
+**Join us: [registration required](https://schedule.mozillafestival.org/session/Z3JAWA-1)** (space is limited!)
 
 Please join us for a conversation with Dr. Dawn Wright ([\@DeepSeaDawn](https://twitter.com/DeepSeaDawn)) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. 
 

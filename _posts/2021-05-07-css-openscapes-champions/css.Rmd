@@ -1,7 +1,6 @@
 ---
-title: "CS&S Openscapes Champions Cohort"
-description: |
-  Openscapes Champions Cohort sponsored by Code for Science and Society (CS&S)
+title: "Openscapes Champions: CS&S Cohort"
+description: "Champions Cohort sponsored by Code for Science and Society (CS&S) in May-June 2021"
 author:
   - name: "Openscapes and CS&S"
 date: 2021-05-07
@@ -23,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [**Openscapes**](https://openscapes.org) helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. 
 
-**CS&S Openscapes Champions** is a professional development and leadership opportunity around open practices for data-driven science. This two-month remote program is not about teaching you to code. It is about changing your relationship with code and data, and cultivating a more collaborative and inclusive research group. You will participate as a team with others from your research group, learning how to reframe data analysis as a collaborative effort rather than an individual burden. You will be mentored to supercharge your research by leveraging open source tools (e.g. R/RStudio, GitHub) to make your research more efficient and your data analyses more reproducible. For more information and guidance about how to select your team, please visit [openscapes.org/champions](https://www.openscapes.org/champions/).
+**Openscapes Champions** is a professional development and leadership opportunity around open practices for data-driven science. This two-month remote program is not about teaching you to code. It is about changing your relationship with code and data, and cultivating a more collaborative and inclusive research group. You will participate as a team with others from your research group, learning how to reframe data analysis as a collaborative effort rather than an individual burden. You will be mentored to supercharge your research by leveraging open source tools (e.g. R/RStudio, GitHub) to make your research more efficient and your data analyses more reproducible. For more information and guidance about how to select your team, please visit [openscapes.org/champions](https://www.openscapes.org/champions/).
 
 **Program Overview:** We will meet four times over two months, on alternating Fridays in 2021.
 

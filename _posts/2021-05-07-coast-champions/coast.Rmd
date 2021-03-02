@@ -40,5 +40,5 @@ Nominate your team by filling out this [Google Form](https://docs.google.com/for
 ```{r, out.width="20%", preview=TRUE}
 knitr::include_graphics("COAST.png")  
 ```
-Openscapes is operated by the National Center for Ecological Analysis and Synthesis ([NCEAS](https://nceas.ucsb.edu)). This opportunity is funded by [COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast). 
+This opportunity is funded by [COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast). 
 <br> 

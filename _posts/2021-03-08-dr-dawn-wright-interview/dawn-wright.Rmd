@@ -2,7 +2,7 @@
 title: "Interview with Dr. Dawn Wright"
 description: "Interview with Dr. Dawn Wright at MozFest"
 author:
-  - name: Openscapes
+  - name: Openscapes and Mozilla
 date: 2021-03-08
 categories:
   - community calls

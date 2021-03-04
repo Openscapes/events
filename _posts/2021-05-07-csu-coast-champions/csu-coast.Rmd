@@ -1,6 +1,6 @@
 ---
-title: "Openscapes Champions: COAST Cohort"
-description: "Champions Cohort for COAST research groups in May-June 2021"
+title: "Openscapes Champions: CSU COAST Cohort"
+description: "Champions Cohort for CSU COAST research groups in May-June 2021"
 author:
   - name: Openscapes and COAST
 date: 2021-05-07
@@ -16,18 +16,19 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**This is a professional development and leadership opportunity for [COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast)-affiliated research groups to explore open data science practices.**
+**This is a professional development and leadership opportunity for [CSU COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast)-affiliated research groups to explore open data science practices.**
 
-[**Openscapes**](https://openscapes.org) helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. This opportunity is funded by **The Council on Ocean Affairs, Science & Technology** [**(COAST)**](https://www2.calstate.edu/impact-of-the-csu/research/coast), which supports researchers and affiliates in the California State University system. 
+[**Openscapes**](https://openscapes.org) helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. This opportunity is funded by **The California State University Council on Ocean Affairs, Science & Technology** [**(COAST)**](https://www2.calstate.edu/impact-of-the-csu/research/coast), which supports marine and coastal research by CSU faculty members and students. 
 
 **Openscapes Champions** is a cohort-based mentorship program that empowers science teams with open data science tools and grows the community of practice in the research group, institution, and beyond. This two-month remote program will help you establish shared, reproducible practices for data analysis that help make your research group more efficient and inclusive. You will participate with others from your research group as a team, as a cohort with your peers. Together, you will learn how to reframe data analysis as a collaborative effort rather than an individual burden, through exploring open data science tools and community practices (e.g. R/RStudio, GitHub). For more information and guidance about selecting your team, please visit [openscapes.org/champions](https://www.openscapes.org/champions/).
 
-**Program Overview:** We will meet four times over two months, on alternating Fridays in 2021.
+**Cohort Overview:** We will meet four times over two months, on alternating Fridays in 2021.
 
 - **Dates:** May 7, May 21, June 4, June 18
 - **Times:** 12:00-1:30pm PST 
 - **Where:** remotely, via Zoom
-- **Who:** Cohort of 7 COAST research teams. Each team consists of a team lead (faculty or PI) and up to 4 team members of your choice (graduate students, undergraduates, technicians, etc). 
+- **Who:** Cohort of 7 CSU COAST research teams. Each team consists of a team lead (faculty or PI) and up to 4 team members of your choice (graduate students, undergraduates, technicians, etc). 
+- **Cost:** Free; this opportunity is sponsored by COAST
 - **Expected time commitment:** In addition to 3 hours/month over Zoom as a full Champions Cohort, teams will meet to share and practice concepts with their full research group. The total expected time commitment is 5hrs/month over two months.
 
 **Nominate your team to participate**
@@ -40,5 +41,5 @@ Nominate your team by filling out this [Google Form](https://docs.google.com/for
 ```{r, out.width="20%", preview=TRUE}
 knitr::include_graphics("COAST.png")  
 ```
-This opportunity is funded by [COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast). 
+This opportunity is funded by [CSU COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast). 
 <br> 

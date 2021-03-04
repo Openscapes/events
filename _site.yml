@@ -2,6 +2,7 @@ name: "events"
 title: "Openscapes Events"
 description: |
   Events
+base_url: https://openscapes.github.io/events
 output_dir: "docs"
 navbar:
   logo: images/openscapes_hex.png

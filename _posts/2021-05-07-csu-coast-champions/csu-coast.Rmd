@@ -2,7 +2,7 @@
 title: "Openscapes Champions: CSU COAST Cohort"
 description: "Champions Cohort for CSU COAST research groups in May-June 2021"
 author:
-  - name: Openscapes and COAST
+  - name: Openscapes and CSU COAST
 date: 2021-05-07
 categories:
   - mentorship opportunity

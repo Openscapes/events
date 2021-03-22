@@ -38,8 +38,8 @@ Nominate your team by filling out this [Google Form](https://docs.google.com/for
 
 <br> 
 
-```{r, out.width="20%", preview=TRUE}
-knitr::include_graphics("COAST.png")  
+```{r, out.width="40%", preview=TRUE}
+knitr::include_graphics("COAST-white.png")  
 ```
 This opportunity is funded by [CSU COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast). 
 <br> 

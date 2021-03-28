@@ -1,7 +1,7 @@
 ---
 title: "Interview with Dr. Dawn Wright"
 description: |
-  Interview with Dr. Dawn Wright at MozFest
+  Interview with Dr. Dawn Wright at MozFest. View event summary
 author:
   - name: Openscapes and Mozilla
 date: 2021-03-08
@@ -17,6 +17,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+**[View event summary](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)**  
 **Date: March 8, 2021**  
 **Time: 10:15am PST** (UTC-8)  
 **Where: on Zoom at MozFest, Mozilla's Internet Festival**  

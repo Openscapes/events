@@ -1,0 +1,39 @@
+---
+title: "A chat with Tara Robertson"
+description: |
+  Tara Robertson works with leaders to make companies more diverse, equitable & inclusive
+author:
+  - name: Openscapes
+date: 2021-05-25
+categories:
+  - community calls
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<!---**[View event summary](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)**  --->
+**Date: May 25, 2021**  
+**Time: 10:00am PST** (UTC-8)  
+**Where: on Zoom**  
+**Join us: [registration required](TODO)**
+
+Please join us for a conversation with Tara Robertson ([\@tararobertson](https://twitter.com/tararobertson)) about working with Openscapes to improve approaches promoting diversity, equity, and inclusion in open data science. 
+
+
+```{r, out.width="45%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
+knitr::include_graphics("tara-robertson.png")  
+```
+
+
+[Tara Robertson](https://tararobertson.ca/) is a diversity, equity, and inclusion consultant working with leaders to make companies make inclusive and innovative products and services that the world needs. Tara is an intersectional feminist who uses data and research to advocate for equality and inclusion. She bring over 12 years experience leading change in open source technology communities, including 3 years leading Diversity and Inclusion at Mozilla. 
+
+
+
+
+

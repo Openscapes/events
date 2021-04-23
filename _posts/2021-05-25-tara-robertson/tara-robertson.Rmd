@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <!---**[View event summary](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)**  --->
 **Date: May 25, 2021**  
 **Time: 10:00am PST** (UTC-8)  
-**Where: online**  
+**Where: Spatial Chat**  
 **Join us: link coming soon**
 
 

@@ -26,6 +26,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Please join us for a conversation with Tara Robertson ([\@tararobertson](https://twitter.com/tararobertson)) about working with Openscapes to improve approaches promoting diversity, equity, and inclusion in open data science.
 
+This event is supported through the [Code for Science & Society](https://codeforscience.org/) funding we received, which explicitly supports events that promote inclusion and broaden participation in open data science that drives scholarship, Erin and Julie, Openscapes co-directors, engaged Tara Robertson, a diversity, equity, and inclusion consultant, as a thought partner and teacher for us as we continue to prioritize and improve approaches to promote diversity, equity and inclusion in Openscapes.
+
+In this conversation, we will reflect on what we’ve done together like creating an Openscapes lesson on psychological safety, and our lessons learned (spoiler: it's never perfect or done). 
+
 ```{r, out.width="45%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
 knitr::include_graphics("tara-robertson.png")  
 ```

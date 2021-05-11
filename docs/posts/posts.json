@@ -1,5 +1,27 @@
 [
   {
+    "path": "posts/2021-07-12-sortee/",
+    "title": "SORTEE Conference",
+    "description": "Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference keynote by Julie Lowndes",
+    "author": [
+      {
+        "name": "Openscapes and SORTEE",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-12",
+    "categories": [
+      "conference",
+      "registration open"
+    ],
+    "contents": "\nDate: July 12, 2021SORTEE website: sortee.org/eventsSubmit proposals until June 1\nSORTEE is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Julie Lowndes is presenting a keynote talk on July 12 at the inaugural conference and is proud to be a part of this community.\n\n\n\n\n\n\n",
+    "preview": "posts/2021-07-12-sortee/sortee-logo.png",
+    "last_modified": "2021-05-10T21:35:02-07:00",
+    "input_file": {},
+    "preview_width": 1063,
+    "preview_height": 385
+  },
+  {
     "path": "posts/2021-06-05-cascadiar/",
     "title": "CascadiaR Conference",
     "description": "\"Open science as a movement and the art of Openscapes\" keynote by Julie Lowndes and Allison Horst",

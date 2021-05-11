@@ -7,7 +7,18 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>SORTEE Conference</title>
+      <dc:creator>Openscapes and SORTEE</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-07-12-sortee</link>
+      <description>Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference keynote by Julie Lowndes</description>
+      <category>conference</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2021-07-12-sortee</guid>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-07-12-sortee/sortee-logo.png" medium="image" type="image/png" width="1063" height="385"/>
+    </item>
     <item>
       <title>CascadiaR Conference</title>
       <dc:creator>Openscapes and CascadiaR</dc:creator>

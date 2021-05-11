@@ -7,7 +7,18 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CascadiaR Conference</title>
+      <dc:creator>Openscapes and CascadiaR</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</link>
+      <description>"Open science as a movement and the art of Openscapes" keynote by Julie Lowndes and Allison Horst</description>
+      <category>conference</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</guid>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-06-05-cascadiar/cascadiar_2021.png" medium="image" type="image/png" width="758" height="524"/>
+    </item>
     <item>
       <title>A chat with Tara Robertson</title>
       <dc:creator>Openscapes</dc:creator>

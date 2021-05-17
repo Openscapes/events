@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Date: May 25, 2021**\
 **Time: 10:00am PST** (UTC-7)\
-**Where: Spatial Chat**\
+**Where: Zoom**\
 **Join us: [Sign up on Eventbrite](https://www.eventbrite.com/e/openscapes-community-call-with-tara-robertson-tickets-154045595523?aff=ebdsoporgprofile)**
 
 Please join us for a conversation with Tara Robertson ([\@tararobertson](https://twitter.com/tararobertson)) about working with Openscapes to improve approaches promoting diversity, equity, and inclusion in open data science.

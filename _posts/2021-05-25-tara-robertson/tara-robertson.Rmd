@@ -1,7 +1,7 @@
 ---
 title: "A chat with Tara Robertson"
 description: |
-  Tara Robertson works with leaders to make companies more diverse, equitable & inclusive
+  Tara Robertson works with leaders to make companies more diverse, equitable & inclusive. View event summary
 author:
   - name: Openscapes
 date: 2021-05-25
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <!---**[View event summary](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)**  --->
-
+**[View event summary & video](https://www.openscapes.org/blog/2021/05/27/tara-robertson/)**  
 **Date: May 25, 2021**\
 **Time: 10:00am PST** (UTC-7)\
 **Where: Zoom**\

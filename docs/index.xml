@@ -7,7 +7,18 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>NASA Openscapes Champions Cohort</title>
+      <dc:creator>Openscapes and NASA</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-08-13-nasa-champions</link>
+      <description>Mentorship and professional development opportunity for research teams using data from NASA Distributed Active Archive Centers (DAACs) interested in open science and migrating their analytical workflows to the cloud.</description>
+      <category>mentorship opportunity</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2021-08-13-nasa-champions</guid>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-08-13-nasa-champions/nasa-openscapes.png" medium="image" type="image/png" width="894" height="478"/>
+    </item>
     <item>
       <title>SORTEE Conference</title>
       <dc:creator>Openscapes and SORTEE</dc:creator>
@@ -47,7 +58,7 @@
       <link>https://openscapes.github.io/events/posts/2021-05-25-tara-robertson</link>
       <description>Tara Robertson works with leaders to make companies more diverse, equitable &amp; inclusive</description>
       <category>community calls</category>
-      <category>registration open</category>
+      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-05-25-tara-robertson</guid>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-05-25-tara-robertson/tara-robertson.png" medium="image" type="image/png" width="3272" height="2232"/>

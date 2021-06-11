@@ -8,7 +8,7 @@ author:
 date: 2021-06-05
 categories:
   - conference
-  - registration open
+  - event completed
 output:
   distill::distill_article:
     self_contained: false
@@ -24,6 +24,8 @@ knitr::opts_chunk$set(echo = FALSE)
 **Register: [CascadiaR Eventbrite](https://www.eventbrite.com/e/cascadia-r-conf-2021-tickets-149156317561)**
 
 CascadiaR Conference is a regional R conference for the Pacific Northwest on June 4-5 2021. Julie Lowndes and Allison Horst will be co-presenting a keynote talk on June 5. There is a great lineup of speakers and we are excited to be a part of it! 
+
+Slides available at [openscapes.org/media](https://openscapes.org/media).
 
 ```{r, out.width="65%", out.extra='style="background-color: white; padding:2px; display: inline-block;"', preview=TRUE}
 knitr::include_graphics("cascadiar_2021.png")  

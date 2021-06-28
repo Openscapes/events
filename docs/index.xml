@@ -7,18 +7,7 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>NASA Openscapes Champions Cohort</title>
-      <dc:creator>Openscapes and NASA</dc:creator>
-      <link>https://openscapes.github.io/events/posts/2021-08-13-nasa-champions</link>
-      <description>Mentorship and professional development opportunity for research teams using data from NASA Distributed Active Archive Centers (DAACs) interested in open science and migrating their analytical workflows to the cloud.</description>
-      <category>mentorship opportunity</category>
-      <category>registration open</category>
-      <guid>https://openscapes.github.io/events/posts/2021-08-13-nasa-champions</guid>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://openscapes.github.io/events/posts/2021-08-13-nasa-champions/nasa-openscapes.png" medium="image" type="image/png" width="894" height="478"/>
-    </item>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>SORTEE Conference</title>
       <dc:creator>Openscapes and SORTEE</dc:creator>
@@ -69,7 +58,7 @@
       <link>https://openscapes.github.io/events/posts/2021-05-07-coast-champions</link>
       <description>Champions Cohort for CSU COAST research groups in May-June 2021</description>
       <category>mentorship opportunity</category>
-      <category>registration closed</category>
+      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-05-07-coast-champions</guid>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-05-07-coast-champions/COAST-white.png" medium="image" type="image/png" width="580" height="354"/>
@@ -80,7 +69,7 @@
       <link>https://openscapes.github.io/events/posts/2021-05-07-css-champions</link>
       <description>Champions Cohort sponsored by CS&amp;S in May-June 2021</description>
       <category>mentorship opportunity</category>
-      <category>registration closed</category>
+      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-05-07-css-champions</guid>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-05-07-css-champions/css-white.png" medium="image" type="image/png" width="1118" height="580"/>

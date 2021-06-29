@@ -23,6 +23,4 @@ knitr::opts_chunk$set(echo = FALSE)
 **Join us: (<https://pangeo.io/pangeo-showcase.html>)\
 [Slides](https://docs.google.com/presentation/d/17XcJSxoE3_-0PqYgQ0l7NctniBNUxaZ5Zo0hjL-bjJo/edit)**
 
-Please join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase.
-
-<br>The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.
+Please join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase. The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.

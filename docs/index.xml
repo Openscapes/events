@@ -20,6 +20,16 @@
       <media:content url="https://openscapes.github.io/events/posts/2021-07-12-sortee/sortee-logo.png" medium="image" type="image/png" width="1063" height="385"/>
     </item>
     <item>
+      <title>Pangeo Showcase</title>
+      <dc:creator>Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-06-29-2021-06-30-pangeo-showcase</link>
+      <description>Julie and Erin are presenting about the NASA Openscapes Framework Project</description>
+      <category>NASA openscapes framework</category>
+      <category>community calls</category>
+      <guid>https://openscapes.github.io/events/posts/2021-06-29-2021-06-30-pangeo-showcase</guid>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CascadiaR Conference</title>
       <dc:creator>Openscapes and CascadiaR</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</link>

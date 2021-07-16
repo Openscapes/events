@@ -1,0 +1,26 @@
+---
+title: "Pangeo Showcase"
+description: |
+  Julie Lowndes and Erin Robinson present "Better Science for Future Us: Supporting NASA Earth science research teams’ migration to the cloud with Openscapes"
+author:
+  - name: Openscapes 
+date: 06-30-2021
+categories:
+  - NASA openscapes framework
+  - community calls
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Date: June 30, 2021**\
+**Time: 9am PST** (UTC-8)\
+**Where: on Zoom at Pangeo Showcase**\
+**Join us: (<https://pangeo.io/pangeo-showcase.html>)\
+[Slides](https://docs.google.com/presentation/d/17XcJSxoE3_-0PqYgQ0l7NctniBNUxaZ5Zo0hjL-bjJo/edit)**
+
+Please join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase. The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.

@@ -36,10 +36,12 @@
       "NASA openscapes framework",
       "community calls"
     ],
-    "contents": "\nDate: June 30, 2021Time: 9am PST (UTC-8)Where: on Zoom at Pangeo ShowcaseJoin us: (https://pangeo.io/pangeo-showcase.html)Slides\nPlease join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase. The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-07-23T15:29:16-06:00",
-    "input_file": "index.knit.md"
+    "contents": "\nDate: June 30, 2021Time: 9am PST (UTC-8)Where: on Zoom at Pangeo ShowcaseJoin us: (https://pangeo.io/pangeo-showcase.html)Slides\nPlease join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase. The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.\n\n\n\n\n\n\n",
+    "preview": "posts/2021-06-30-pangeo-showcase/images/pangeologo.png",
+    "last_modified": "2021-07-23T15:33:47-06:00",
+    "input_file": "index.knit.md",
+    "preview_width": 385,
+    "preview_height": 63
   },
   {
     "path": "posts/2021-06-05-cascadiar/",

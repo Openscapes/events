@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://openscapes.github.io/events/</loc>
-    <lastmod>2021-02-07T13:30:05-08:00</lastmod>
+    <lastmod>2021-07-23T15:16:38-06:00</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/events/posts/2021-07-12-sortee/</loc>
     <lastmod>2021-07-23T09:21:39-07:00</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/events/posts/2021-06-29-2021-06-30-pangeo-showcase/</loc>
-    <lastmod>2021-06-29T15:45:55-06:00</lastmod>
+    <loc>https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase/</loc>
+    <lastmod>2021-07-23T15:26:26-06:00</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/events/posts/2021-06-05-cascadiar/</loc>

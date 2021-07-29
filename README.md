@@ -1,6 +1,10 @@
 # events
 Openscapes events: <https://openscapes.org/events>
 
+Create an event post: 
+
+create_post(title="nwfsc", date="2021-09-17" )
+
 
 ## Distill tips
 

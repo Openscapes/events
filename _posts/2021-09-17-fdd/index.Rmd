@@ -39,6 +39,8 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Cost:** Free; this opportunity is sponsored by FDD through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).
 * **Expected time commitment:** In addition to 3 hours/month over Zoom as a full Champions Cohort, participants will meet independently to further discuss topics with their research group. The minimum expected time commitment is 5hrs/month for 2 months.
 
+
+
 **Nominate your team to participate**
 
 Nominate your team by filling out this [Google Form] by August 20, 2021. This opportunity is open to those affiliated with teams using FDD in the Northeast US. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by late August 2021. 

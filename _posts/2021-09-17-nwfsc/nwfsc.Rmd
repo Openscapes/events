@@ -11,6 +11,7 @@ output:
     self_contained: false
 ---
 
+**hi! this is a test**
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

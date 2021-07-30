@@ -2,10 +2,10 @@
   "articles": [
     {
       "path": "index.html",
-      "title": "Upcoming Events",
+      "title": "Openscapes Events",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-07-29T17:49:28-07:00"
+      "last_modified": "2021-07-29T18:12:38-07:00"
     }
   ],
   "collections": ["posts/posts.json"]

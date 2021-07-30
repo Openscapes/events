@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Events"
+title: "Openscapes Events"
 site: distill::distill_website
 listing: posts
 ---

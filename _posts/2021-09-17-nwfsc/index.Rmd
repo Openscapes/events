@@ -1,5 +1,5 @@
 ---
-title: "Openscapes Champions: NWFSC Cohort"
+title: "Openscapes Champions: NWFSC Cohort #2"
 description: "Openscapes Champions Cohort for the NOAA Northwest Fishery Science Center (NWFSC)"
 author:
   - name: Openscapes and NWFSC
@@ -45,7 +45,7 @@ knitr::include_graphics("NOAA_logo.png")
 * **Times:** 11:00-12:30 pm PST 
 * **Where:** remotely, via Zoom
 * **Who:** Cohort of 7 NOAA research groups. Each team consists of a team lead (PI, project lead, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc). 
-* **Cost:** Free; this opportunity is sponsored by NWFSC
+* **Cost:** This opportunity is sponsored by NWFSC and other NOAA offices.
 * **Expected time commitment:** The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.
 
 ## Nominate your team to participate

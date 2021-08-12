@@ -43,7 +43,7 @@ knitr::include_graphics("fdd-logos.png")
 **Our FDD Cohort will meet four times over two months, on alternating Fridays.**
 
 * **Dates: **Sep 17, Oct 1, Oct 15, Oct 29, 2021
-* **Times: **12:00-1:30 pm EST 
+* **Times: **12:00-1:30 pm EDT 
 * **Where:** remotely, via Zoom
 * **Who: **Cohort of 7 FDD user teams (or research groups). Each team consists of a team lead (PI, project supervisor, or faculty, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc). 
 * **Cost:** Free; this opportunity is sponsored by FDD through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).

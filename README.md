@@ -1,6 +1,13 @@
 # events
 Openscapes events: <https://openscapes.org/events>
 
+Note: to avoid [date issues](https://github.com/rstudio/distill/issues/315), install from github: 
+
+```r
+# install.packages("devtools")
+devtools::install_github("rstudio/distill")
+```
+
 Create an event post: 
 
 create_post(title="nwfsc", date="2021-09-17" )

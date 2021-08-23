@@ -1,6 +1,6 @@
 ---
-title: "Openscapes Champions: NWFSC Cohort #2"
-description: "Openscapes Champions Cohort for the NOAA Northwest Fishery Science Center (NWFSC)"
+title: "Openscapes Champions: NOAA NMFS Cohort"
+description: "Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS)"
 author:
   - name: Openscapes and NWFSC
     url: {}
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **[Openscapes Champions](https://www.openscapes.org/champions/)** is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. 
 
-**This opportunity is funded by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).**
+**This opportunity is funded in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).**
 
 <br>
 
@@ -39,7 +39,7 @@ knitr::include_graphics("NOAA_logo.png")
 
 ## Cohort details
 
-**Our NWFSC Cohort will meet four times over two months, on alternating Fridays.**
+**Our NMFS Cohort will meet four times over two months, on alternating Fridays.**
 
 * **Dates:** Sep 17, Oct 1, Oct 15, Oct 29, 2021
 * **Times:** 11:00-12:30 pm PST 

@@ -1,7 +1,7 @@
 ---
 title: "R Markdown Chat with Alison Hill"
 description: |
-  Dr. Alison Hill is the product manager for data science communication at RStudio (and is known as the R Markdown Whisperer)
+  Dr. Alison Hill is the product manager for data science communication at RStudio
 author:
   - name: Openscapes and RStudio
     url: {}
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 Please join us for a conversation with Dr. Alison Hill ([\@apreshill](https://twitter.com/apreshill)) about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We'll invite others to share their R Markdown stories and questions, whether you are curious about using R Markdown for research or have examples of how you're already using it.
 
 
-```{r, out.width="45%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"', preview=TRUE}
+```{r, out.width="45%", fig.align='center', preview=TRUE}
 knitr::include_graphics("apreshill.jpg")  
 ```
 

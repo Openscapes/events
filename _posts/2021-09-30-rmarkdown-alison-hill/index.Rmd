@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Date: September 30, 2021**\
 **Time: 12:00pm PT** (UTC-7)\
 **Where: Zoom**\
-**Join us: Sign up on Eventbrite - Link coming soon**
+**Join us: Free event - sign up [through Eventbrite](https://www.eventbrite.com/e/openscapes-community-call-with-alison-hill-tickets-170328857197)**
 
 Please join us for a conversation with Dr. Alison Hill ([\@apreshill](https://twitter.com/apreshill)) about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We'll invite others to share their R Markdown stories and questions, whether you are curious about using R Markdown for research or have examples of how you're already using it.
 

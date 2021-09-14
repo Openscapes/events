@@ -20,61 +20,6 @@
       <media:content url="https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill/apreshill.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
-      <title>Openscapes Champions: FDD Cohort</title>
-      <dc:creator>Openscapes and FDD</dc:creator>
-      <link>https://openscapes.github.io/events/posts/2021-09-17-fdd</link>
-      <description>Openscapes Champions Cohort for Northeast Fishery Dependent Data Users (FDD)</description>
-      <category>mentorship opportunity</category>
-      <category>registration closed</category>
-      <guid>https://openscapes.github.io/events/posts/2021-09-17-fdd</guid>
-      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://openscapes.github.io/events/posts/2021-09-17-fdd/fdd-logos.png" medium="image" type="image/png" width="1262" height="758"/>
-    </item>
-    <item>
-      <title>Openscapes Champions: NOAA NMFS Cohort</title>
-      <dc:creator>Openscapes and NWFSC</dc:creator>
-      <link>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</link>
-      <description>Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS)</description>
-      <category>mentorship opportunity</category>
-      <category>registration closed</category>
-      <guid>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</guid>
-      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://openscapes.github.io/events/posts/2021-09-17-nwfsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>
-    </item>
-    <item>
-      <title>SORTEE Conference</title>
-      <dc:creator>Openscapes and SORTEE</dc:creator>
-      <link>https://openscapes.github.io/events/posts/2021-07-12-sortee</link>
-      <description>Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference keynote by Julie Lowndes.</description>
-      <category>conference</category>
-      <category>event completed</category>
-      <guid>https://openscapes.github.io/events/posts/2021-07-12-sortee</guid>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://openscapes.github.io/events/posts/2021-07-12-sortee/sortee-logo.png" medium="image" type="image/png" width="1063" height="385"/>
-    </item>
-    <item>
-      <title>Pangeo Showcase</title>
-      <dc:creator>Openscapes</dc:creator>
-      <link>https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase</link>
-      <description>Julie Lowndes and Erin Robinson present "Better Science for Future Us: Supporting NASA Earth science research teams’ migration to the cloud with Openscapes"</description>
-      <category>NASA openscapes framework</category>
-      <category>community calls</category>
-      <guid>https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase</guid>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase/images/pangeologo.png" medium="image" type="image/png" width="385" height="63"/>
-    </item>
-    <item>
-      <title>CascadiaR Conference</title>
-      <dc:creator>Openscapes and CascadiaR</dc:creator>
-      <link>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</link>
-      <description>"Open science as a movement and the art of Openscapes" keynote by Julie Lowndes and Allison Horst</description>
-      <category>conference</category>
-      <category>event completed</category>
-      <guid>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</guid>
-      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://openscapes.github.io/events/posts/2021-06-05-cascadiar/cascadiar_2021.png" medium="image" type="image/png" width="758" height="524"/>
-    </item>
-    <item>
       <title>Nature Webcast</title>
       <dc:creator>Openscapes and Nature</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-06-04-nature-webcast</link>

@@ -16,118 +16,8 @@
     ],
     "contents": "\n\nDate: September 30, 2021Time: 12:00pm PT (UTC-7)Where: ZoomJoin us: Sign up on Eventbrite - Link coming soon\nPlease join us for a conversation with Dr. Alison Hill (@apreshill) about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We’ll invite others to share their R Markdown stories and questions, whether you are curious about using R Markdown for research or have examples of how you’re already using it.\n\n\n\nDr. Alison Hill is a data scientist, behavioral scientist, and award-winning educator. She works on products that make it easier and more delightful for data scientists to communicate. She is also a co-developer of the palmerpenguins, distill, and blogdown R packages, as well an author and international keynote speaker.\n\n\n\n",
     "preview": "posts/2021-09-30-rmarkdown-alison-hill/apreshill.jpg",
-    "last_modified": "2021-09-10T05:01:17-07:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2021-09-17-fdd/",
-    "title": "Openscapes Champions: FDD Cohort",
-    "description": "Openscapes Champions Cohort for Northeast Fishery Dependent Data Users (FDD)",
-    "author": [
-      {
-        "name": "Openscapes and FDD",
-        "url": {}
-      }
-    ],
-    "date": "2021-09-17",
-    "categories": [
-      "mentorship opportunity",
-      "registration closed"
-    ],
-    "contents": "\n\nContents\nProgram overview\nCohort details\nNominate your team to participate\n\nProgram overview\nThis is a professional development and leadership opportunity for FDD research groups to explore open data science practices.\nOpenscapes is an approach for doing better science in less time1. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science2, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nFishery Dependent Data (FDD) represent a complex mix of information collected to facilitate managing the region’s living marine resources. In the Northeast, data flow from individual businesses and/or scientific samplers to the region’s scientific and management organizations. This web of information can be difficult to access as much of the content is confidential in its raw form. Further, many of the codes and systems used to store these data are poorly documented, and even routine analyses are not commonly shared among data users. Currently, FDD are therefore difficult to integrate into scientific advice for ecosystem based fisheries management. Analysts tend to be unfamiliar with the data or hesitant to explore their potential, and data can be viewed with skepticism rather than leveraged in new and innovative ways. There is a need to begin to provide access, documentation, and cultivate a community of practice that focuses on using these data to their full potential.\nThis opportunity is funded through NOAA Fisheries Northeast Fisheries Science Center (NEFSC) and a grant from the Fisheries Information System Program through an award to UMass Dartmouth-SMAST through CINAR. It is coordinated by Gavin Fay (UMassD-SMAST), Andy Jones (NOAA NEFSC), and Rachel Baum (UMassD Claire T. Carney Library).\n\n\n\nCohort details\nOur FDD Cohort will meet four times over two months, on alternating Fridays.\nDates: Sep 17, Oct 1, Oct 15, Oct 29, 2021\nTimes: 12:00-1:30 pm EDT\nWhere: remotely, via Zoom\nWho: Cohort of 7 FDD user teams (or research groups). Each team consists of a team lead (PI, project supervisor, or faculty, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc).\nCost: Free; this opportunity is sponsored by FDD through an award to UMass Dartmouth-SMAST through CINAR.\nExpected time commitment: The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.\nNominate your team to participate\nNominate your team by filling out this Google Form by August 20, 2021. This opportunity is open to those affiliated with teams using FDD in the Northeast US. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by late August 2021.\nLearn more about the Openscapes Champions Program and FAQs about forming your team. Questions? Contact Openscapes: openscapes at nceas.ucsb.edu\nnature.com/articles/s41559-017-0160↩︎\nblogs.scientificamerican.com/observations/open-software-means-kinder-science\n\n↩︎\n",
-    "preview": "posts/2021-09-17-fdd/fdd-logos.png",
-    "last_modified": "2021-09-03T11:26:16-07:00",
-    "input_file": {},
-    "preview_width": 1262,
-    "preview_height": 758
-  },
-  {
-    "path": "posts/2021-09-17-nwfsc/",
-    "title": "Openscapes Champions: NOAA NMFS Cohort",
-    "description": "Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS)",
-    "author": [
-      {
-        "name": "Openscapes and NWFSC",
-        "url": {}
-      }
-    ],
-    "date": "2021-09-17",
-    "categories": [
-      "mentorship opportunity",
-      "registration closed"
-    ],
-    "contents": "\n\nContents\nProgram overview\nCohort details\nNominate your team to participate\n\nProgram overview\nThis is a professional development and leadership opportunity for NOAA research groups to explore open data science practices.\nOpenscapes is an approach for doing better science in less time1. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science2, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nThis opportunity is funded in part and coordinated by NOAA Northwest Fisheries Science Center (NWFSC).\n\n\n\n\nCohort details\nOur NMFS Cohort will meet four times over two months, on alternating Fridays.\nDates: Sep 17, Oct 1, Oct 15, Oct 29, 2021\nTimes: 11:00-12:30 pm PST\nWhere: remotely, via Zoom\nWho: Cohort of 7 NOAA research groups. Each team consists of a team lead (PI, project lead, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc).\nCost: This opportunity is sponsored by NWFSC and other NOAA offices.\nExpected time commitment: The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.\nNominate your team to participate\nNominate your team by filling out this Google Form by August 20, 2021. This opportunity is open only to those affiliated with NOAA NMFS. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2021.\nLearn more about the Openscapes Champions Program and FAQs about forming your team. Questions? Contact Openscapes: openscapes at nceas.ucsb.edu\nnature.com/articles/s41559-017-0160↩︎\nblogs.scientificamerican.com/observations/open-software-means-kinder-science\n\n↩︎\n",
-    "preview": "posts/2021-09-17-nwfsc/NOAA_logo.png",
-    "last_modified": "2021-09-03T11:26:16-07:00",
-    "input_file": {},
-    "preview_width": 857,
-    "preview_height": 355
-  },
-  {
-    "path": "posts/2021-07-12-sortee/",
-    "title": "SORTEE Conference",
-    "description": "Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference keynote by Julie Lowndes.",
-    "author": [
-      {
-        "name": "Openscapes and SORTEE",
-        "url": {}
-      }
-    ],
-    "date": "2021-07-12",
-    "categories": [
-      "conference",
-      "event completed"
-    ],
-    "contents": "\nSlides and recording Date: July 12, 2021SORTEE website: sortee.org/events\nSORTEE is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Julie Lowndes is presenting a keynote talk on July 12 at the inaugural conference and is proud to be a part of this community.\n\n\n\n\n\n\n",
-    "preview": "posts/2021-07-12-sortee/sortee-logo.png",
-    "last_modified": "2021-09-03T11:26:16-07:00",
-    "input_file": {},
-    "preview_width": 1063,
-    "preview_height": 385
-  },
-  {
-    "path": "posts/2021-06-30-pangeo-showcase/",
-    "title": "Pangeo Showcase",
-    "description": "Julie Lowndes and Erin Robinson present \"Better Science for Future Us: Supporting NASA Earth science research teams’ migration to the cloud with Openscapes\"",
-    "author": [
-      {
-        "name": "Openscapes",
-        "url": {}
-      }
-    ],
-    "date": "2021-06-30",
-    "categories": [
-      "NASA openscapes framework",
-      "community calls"
-    ],
-    "contents": "\nDate: June 30, 2021Time: 9am PST (UTC-8)Where: on Zoom at Pangeo ShowcaseJoin us: (https://pangeo.io/pangeo-showcase.html)Slides\nPlease join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase. The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.\n\n\n\n\n\n\n",
-    "preview": "posts/2021-06-30-pangeo-showcase/images/pangeologo.png",
-    "last_modified": "2021-09-03T11:26:16-07:00",
-    "input_file": {},
-    "preview_width": 385,
-    "preview_height": 63
-  },
-  {
-    "path": "posts/2021-06-05-cascadiar/",
-    "title": "CascadiaR Conference",
-    "description": "\"Open science as a movement and the art of Openscapes\" keynote by Julie Lowndes and Allison Horst",
-    "author": [
-      {
-        "name": "Openscapes and CascadiaR",
-        "url": {}
-      }
-    ],
-    "date": "2021-06-05",
-    "categories": [
-      "conference",
-      "event completed"
-    ],
-    "contents": "\nDate: June 5, 2021CascadiaR website: cascadiarconf.comRegister: CascadiaR Eventbrite\nCascadiaR Conference is a regional R conference for the Pacific Northwest on June 4-5 2021. Julie Lowndes and Allison Horst will be co-presenting a keynote talk on June 5. There is a great lineup of speakers and we are excited to be a part of it!\nSlides available at openscapes.org/media.\n\n\n\nTitle: Open science as a movement and the art of Openscapes\nAbstract: The open science movement is “a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding” (Ramachandran et al 2021). We’ve felt included in this movement through the #rstats community, and argue that data science is a powerful entryway to welcome researchers to open science – one that transforms open science from an aspirational idea to a tangible daily benefit for efficiency, reproducibility, and collaboration. We will share how Openscapes is helping to onboard more research teams to the open science movement, in part through artwork to represent and develop ideas to make open science more inclusive and kind.\nJulia Stewart Lowndes @juliesquid is a marine data scientist and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS). As founding director of Openscapes (created during her Mozilla Fellowship) she champions kinder, better science in less time and empowers science teams with skillsets and mindsets for open, reproducible research. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. She is a Carpentries instructor and co-founder of Eco-Data-Science and R-Ladies Santa Barbara.\nAllison Horst @allison_horst is an Assistant Teaching Professor at the Bren School of Environmental Science and Management at UC Santa Barbara, where she has been teaching environmental data science, math and data analysis courses since 2012. Through her artwork, Allison illustrates data science concepts, R packages and functions, workflows and mindsets to welcome and support R learners, and was RStudio’s Artist-in-Residence from 2019 - 2020. She co-founded and is an active member of the UCSB TidyTuesday coding club and R-Ladies Santa Barbara. She has also created all artwork for Openscapes and was a mentee in the inaugural Champions Cohort!\n\n\n\n",
-    "preview": "posts/2021-06-05-cascadiar/cascadiar_2021.png",
-    "last_modified": "2021-09-03T11:26:16-07:00",
-    "input_file": {},
-    "preview_width": 758,
-    "preview_height": 524
+    "last_modified": "2021-09-14T15:32:05-07:00",
+    "input_file": "index.knit.md"
   },
   {
     "path": "posts/2021-06-04-nature-webcast/",
@@ -168,8 +58,8 @@
     ],
     "contents": "\n\nView event summary & videoDate: May 25, 2021Time: 10:00am PST (UTC-7)Where: ZoomJoin us: Sign up on Eventbrite\nPlease join us for a conversation with Tara Robertson (@tararobertson) about working with Openscapes to improve approaches promoting diversity, equity, and inclusion in open data science.\nThis event is supported through the Code for Science & Society funding we received, which explicitly supports events that promote inclusion and broaden participation in open data science that drives scholarship, Erin and Julie, Openscapes co-directors, engaged Tara Robertson, a diversity, equity, and inclusion consultant, as a thought partner and teacher for us as we continue to prioritize and improve approaches to promote diversity, equity and inclusion in Openscapes.\nIn this conversation, we will reflect on what we’ve done together like creating an Openscapes lesson on psychological safety, and our lessons learned (spoiler: it’s never perfect or done).\n\n\n\nTara Robertson is a diversity, equity, and inclusion consultant working with leaders to make companies make inclusive and innovative products and services that the world needs. Tara is an intersectional feminist who uses data and research to advocate for equality and inclusion. She bring over 12 years experience leading change in open source technology communities, including 3 years leading Diversity and Inclusion at Mozilla.\n\n\n\n",
     "preview": "posts/2021-05-25-tara-robertson/tara-robertson.png",
-    "last_modified": "2021-09-03T11:26:16-07:00",
-    "input_file": {},
+    "last_modified": "2021-09-14T15:31:49-07:00",
+    "input_file": "tara-robertson.knit.md",
     "preview_width": 3272,
     "preview_height": 2232
   },

@@ -63,5 +63,71 @@
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase/images/pangeologo.png" medium="image" type="image/png" width="385" height="63"/>
     </item>
+    <item>
+      <title>CascadiaR Conference</title>
+      <dc:creator>Openscapes and CascadiaR</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</link>
+      <description>"Open science as a movement and the art of Openscapes" keynote by Julie Lowndes and Allison Horst</description>
+      <category>conference</category>
+      <category>event completed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</guid>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-06-05-cascadiar/cascadiar_2021.png" medium="image" type="image/png" width="758" height="524"/>
+    </item>
+    <item>
+      <title>Nature Webcast</title>
+      <dc:creator>Openscapes and Nature</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-06-04-nature-webcast</link>
+      <description>"How to start learning to code in research" with Jeff Perkel, Julie Lowndes, and JooYoung Seo</description>
+      <category>webinar</category>
+      <category>event completed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-06-04-nature-webcast</guid>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-06-04-nature-webcast/nature-webcast.png" medium="image" type="image/png" width="848" height="236"/>
+    </item>
+    <item>
+      <title>A chat with Tara Robertson</title>
+      <dc:creator>Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-05-25-tara-robertson</link>
+      <description>Tara Robertson works with leaders to make companies more diverse, equitable &amp; inclusive. View event summary</description>
+      <category>community calls</category>
+      <category>event completed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-05-25-tara-robertson</guid>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-05-25-tara-robertson/tara-robertson.png" medium="image" type="image/png" width="3272" height="2232"/>
+    </item>
+    <item>
+      <title>Openscapes Champions: CSU COAST Cohort</title>
+      <dc:creator>Openscapes and CSU COAST</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-05-07-coast-champions</link>
+      <description>Champions Cohort for CSU COAST research groups in May-June 2021</description>
+      <category>mentorship opportunity</category>
+      <category>event completed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-05-07-coast-champions</guid>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-05-07-coast-champions/COAST-white.png" medium="image" type="image/png" width="580" height="354"/>
+    </item>
+    <item>
+      <title>Openscapes Champions: CS&amp;S Cohort</title>
+      <dc:creator>Openscapes and CS&amp;S</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-05-07-css-champions</link>
+      <description>Champions Cohort sponsored by CS&amp;S in May-June 2021</description>
+      <category>mentorship opportunity</category>
+      <category>event completed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-05-07-css-champions</guid>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-05-07-css-champions/css-white.png" medium="image" type="image/png" width="1118" height="580"/>
+    </item>
+    <item>
+      <title>Interview with Dr. Dawn Wright</title>
+      <dc:creator>Openscapes and Mozilla</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview</link>
+      <description>Interview with Dr. Dawn Wright at MozFest. View event summary</description>
+      <category>community calls</category>
+      <category>event completed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview</guid>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview/dr-dawn-wright.jpg" medium="image" type="image/jpeg"/>
+    </item>
   </channel>
 </rss>

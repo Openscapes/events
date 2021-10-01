@@ -14,9 +14,10 @@
       <link>https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon</link>
       <description>Openscapes will be featured as part of the inaugural FASEB DataWorks! Salon.</description>
       <category>registration open</category>
+      <category>community calls</category>
       <guid>https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon</guid>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon/FASEB.jpeg" medium="image" type="image/jpeg"/>
+      <media:content url="https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon/faseb.png" medium="image" type="image/png" width="809" height="448"/>
     </item>
     <item>
       <title>R Markdown Chat with Alison Hill</title>
@@ -24,7 +25,7 @@
       <link>https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill</link>
       <description>Dr. Alison Hill is the product manager for data science communication at RStudio</description>
       <category>community calls</category>
-      <category>registration open</category>
+      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill</guid>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill/apreshill.jpg" medium="image" type="image/jpeg"/>

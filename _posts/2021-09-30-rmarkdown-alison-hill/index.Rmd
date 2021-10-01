@@ -8,7 +8,7 @@ author:
 date: 09-30-2021
 categories: 
   - community calls
-  - registration open
+  - event completed
 output:
   distill::distill_article:
     self_contained: false
@@ -19,11 +19,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<!---****[View event summary & video](https://www.openscapes.org/blog/2021/05/27/tara-robertson/)**  **  --->
+**[View event video](https://us02web.zoom.us/rec/share/l7YYZaoHYFYqJzA2dpHtAZIyIXnTW16LrQ0GfbAvAcgoZfg8MQov4kZz3Y9hvXoX.F2c__DAfleQSg3oV)**  
 **Date: September 30, 2021**\
 **Time: 12:00pm PT** (UTC-7)\
 **Where: Zoom**\
-**Join us: Free event - sign up [through Eventbrite](https://www.eventbrite.com/e/openscapes-community-call-with-alison-hill-tickets-170328857197)**
+**Free event.**
 
 Please join us for a conversation with Dr. Alison Hill ([\@apreshill](https://twitter.com/apreshill)) about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We'll invite others to share their R Markdown stories and questions, whether you are curious about using R Markdown for research or have examples of how you're already using it.
 

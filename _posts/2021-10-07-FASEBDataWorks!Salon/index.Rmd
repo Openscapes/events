@@ -8,6 +8,7 @@ author:
 date: 10-07-2021
 categories: 
   - registration open
+  - community calls
 output:
   distill::distill_article:
     self_contained: false
@@ -29,7 +30,7 @@ We are sharing the Openscapes Mindset and participants will explore strategies t
 
 
 ```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("FASEB.jpeg")  
+knitr::include_graphics("faseb.png")  
 ```
 
-[FASEB DataWorks!](https://www.faseb.org/Science-Policy-and-Advocacy/Science-Policy-Research-Issues/Data-Science-and-Informatics/Data-Sharing-and-Reuse)is an intentionally open and collaborative approach to promoting culture change in the biological and biomedical sciences through conversation spaces, training, peer support, and prizes. Their goal is to transform the way research is performed and recognized. 
+[FASEB DataWorks!](https://www.faseb.org/Science-Policy-and-Advocacy/Science-Policy-Research-Issues/Data-Science-and-Informatics/Data-Sharing-and-Reuse) is an intentionally open and collaborative approach to promoting culture change in the biological and biomedical sciences through conversation spaces, training, peer support, and prizes. Their goal is to transform the way research is performed and recognized. 

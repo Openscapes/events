@@ -7,7 +7,17 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Openscapes Mindset at FASEB DataWorks! Salon</title>
+      <dc:creator>Openscapes and FASEB</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon</link>
+      <description>Openscapes will be featured as part of the inaugural FASEB DataWorks! Salon.</description>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon</guid>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon/FASEB.jpeg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>R Markdown Chat with Alison Hill</title>
       <dc:creator>Openscapes and RStudio</dc:creator>

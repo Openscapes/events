@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2021-10-07-FASEBDataWorks!Salon/",
+    "title": "Openscapes Mindset at FASEB DataWorks! Salon",
+    "description": "Openscapes will be featured as part of the inaugural FASEB DataWorks! Salon.",
+    "author": [
+      {
+        "name": "Openscapes and FASEB",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-07",
+    "categories": [
+      "registration open"
+    ],
+    "contents": "\n\nDate: October 7, 2021Time: 10:00am PT (UTC-7)Where: ZoomJoin us: Free event - sign up through Zoom\nPlease join us for the inaugural FASEB DataWorks! Data Salon. It will be an interactive event highlighting our partnership with the Federation for American Societies of Experimental Biology (FASEB). We are sharing the Openscapes Mindset and participants will explore strategies to instill data-sharing practices within a research team, with the discussion informing the FASEB DataWorks! Fellows program.\n\n\n\nFASEB DataWorks!is an intentionally open and collaborative approach to promoting culture change in the biological and biomedical sciences through conversation spaces, training, peer support, and prizes. Their goal is to transform the way research is performed and recognized.\n\n\n\n",
+    "preview": "posts/2021-10-07-FASEBDataWorks!Salon/FASEB.jpeg",
+    "last_modified": "2021-10-01T17:17:06-06:00",
+    "input_file": "index.knit.md"
+  },
+  {
     "path": "posts/2021-09-30-rmarkdown-alison-hill/",
     "title": "R Markdown Chat with Alison Hill",
     "description": "Dr. Alison Hill is the product manager for data science communication at RStudio",

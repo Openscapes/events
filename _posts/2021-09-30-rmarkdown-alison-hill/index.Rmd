@@ -19,7 +19,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**[View event video](https://us02web.zoom.us/rec/share/l7YYZaoHYFYqJzA2dpHtAZIyIXnTW16LrQ0GfbAvAcgoZfg8MQov4kZz3Y9hvXoX.F2c__DAfleQSg3oV)**  
+**[View event video](https://youtu.be/79m1zaugEqE)**  
 **Date: September 30, 2021**\
 **Time: 12:00pm PT** (UTC-7)\
 **Where: Zoom**\

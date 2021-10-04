@@ -10,7 +10,7 @@ devtools::install_github("rstudio/distill")
 
 Create an event post: 
 
-create_post(title="nwfsc", date="2021-09-17" )
+`distill::create_post(title="nwfsc", date="2021-09-17")`
 
 
 ## Distill tips

@@ -3,7 +3,7 @@ title: "SORTEE Conference"
 description: |
   Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference keynote by Julie Lowndes. 
 author:
-  - name: Openscapes and SORTEE
+  - name: SORTEE
     url: {}
 date: 2021-07-12
 categories:

@@ -7,14 +7,26 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>NASA Open Source Science Workshop</title>
+      <dc:creator>NASA</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-10-14-nasa-open-source-science-workshop</link>
+      <description>NASA's Open Source Science for Data Processing and Archives Workshop</description>
+      <category>workshop</category>
+      <category>NASA Openscapes Framework</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2021-10-14-nasa-open-source-science-workshop</guid>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-10-14-nasa-open-source-science-workshop/nasa-science.png" medium="image" type="image/png" width="466" height="164"/>
+    </item>
     <item>
       <title>Openscapes Mindset at FASEB DataWorks! Salon</title>
-      <dc:creator>Openscapes and FASEB</dc:creator>
+      <dc:creator>FASEB and Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon</link>
       <description>Openscapes will be featured as part of the inaugural FASEB DataWorks! Salon.</description>
       <category>registration open</category>
-      <category>community calls</category>
+      <category>community call</category>
       <guid>https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon</guid>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon/faseb.png" medium="image" type="image/png" width="809" height="448"/>
@@ -24,7 +36,7 @@
       <dc:creator>Openscapes and RStudio</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill</link>
       <description>Dr. Alison Hill is the product manager for data science communication at RStudio</description>
-      <category>community calls</category>
+      <category>community call</category>
       <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill</guid>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
@@ -35,7 +47,7 @@
       <dc:creator>Openscapes and FDD</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-09-17-fdd</link>
       <description>Openscapes Champions Cohort for Northeast Fishery Dependent Data Users (FDD)</description>
-      <category>mentorship opportunity</category>
+      <category>Champions Cohort</category>
       <category>registration closed</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-17-fdd</guid>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
@@ -46,7 +58,7 @@
       <dc:creator>Openscapes and NWFSC</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</link>
       <description>Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS)</description>
-      <category>mentorship opportunity</category>
+      <category>Champions Cohort</category>
       <category>registration closed</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</guid>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
@@ -54,7 +66,7 @@
     </item>
     <item>
       <title>SORTEE Conference</title>
-      <dc:creator>Openscapes and SORTEE</dc:creator>
+      <dc:creator>SORTEE</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-07-12-sortee</link>
       <description>Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) Conference keynote by Julie Lowndes.</description>
       <category>conference</category>
@@ -65,18 +77,18 @@
     </item>
     <item>
       <title>Pangeo Showcase</title>
-      <dc:creator>Openscapes</dc:creator>
+      <dc:creator>Pangeo and Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase</link>
       <description>Julie Lowndes and Erin Robinson present "Better Science for Future Us: Supporting NASA Earth science research teams’ migration to the cloud with Openscapes"</description>
-      <category>NASA openscapes framework</category>
-      <category>community calls</category>
+      <category>NASA Openscapes Framework</category>
+      <category>community call</category>
       <guid>https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase</guid>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase/images/pangeologo.png" medium="image" type="image/png" width="385" height="63"/>
     </item>
     <item>
       <title>CascadiaR Conference</title>
-      <dc:creator>Openscapes and CascadiaR</dc:creator>
+      <dc:creator>CascadiaR</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-06-05-cascadiar</link>
       <description>"Open science as a movement and the art of Openscapes" keynote by Julie Lowndes and Allison Horst</description>
       <category>conference</category>
@@ -87,7 +99,7 @@
     </item>
     <item>
       <title>Nature Webcast</title>
-      <dc:creator>Openscapes and Nature</dc:creator>
+      <dc:creator>Nature</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-06-04-nature-webcast</link>
       <description>"How to start learning to code in research" with Jeff Perkel, Julie Lowndes, and JooYoung Seo</description>
       <category>webinar</category>
@@ -101,7 +113,7 @@
       <dc:creator>Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-05-25-tara-robertson</link>
       <description>Tara Robertson works with leaders to make companies more diverse, equitable &amp; inclusive. View event summary</description>
-      <category>community calls</category>
+      <category>community call</category>
       <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-05-25-tara-robertson</guid>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
@@ -112,7 +124,7 @@
       <dc:creator>Openscapes and CSU COAST</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-05-07-coast-champions</link>
       <description>Champions Cohort for CSU COAST research groups in May-June 2021</description>
-      <category>mentorship opportunity</category>
+      <category>Champions Cohort</category>
       <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-05-07-coast-champions</guid>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
@@ -123,7 +135,7 @@
       <dc:creator>Openscapes and CS&amp;S</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-05-07-css-champions</link>
       <description>Champions Cohort sponsored by CS&amp;S in May-June 2021</description>
-      <category>mentorship opportunity</category>
+      <category>Champions Cohort</category>
       <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-05-07-css-champions</guid>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
@@ -131,10 +143,10 @@
     </item>
     <item>
       <title>Interview with Dr. Dawn Wright</title>
-      <dc:creator>Openscapes and Mozilla</dc:creator>
+      <dc:creator>Mozilla and Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview</link>
       <description>Interview with Dr. Dawn Wright at MozFest. View event summary</description>
-      <category>community calls</category>
+      <category>community call</category>
       <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview</guid>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>

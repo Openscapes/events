@@ -3,7 +3,7 @@ title: "Nature Webcast"
 description: |
   "How to start learning to code in research" with Jeff Perkel, Julie Lowndes, and JooYoung Seo
 author:
-  - name: Openscapes and Nature
+  - name: Nature
 date: 2021-06-04
 categories:
   - webinar

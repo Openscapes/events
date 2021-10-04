@@ -3,7 +3,7 @@ title: "CascadiaR Conference"
 description: |
   "Open science as a movement and the art of Openscapes" keynote by Julie Lowndes and Allison Horst
 author:
-  - name: Openscapes and CascadiaR
+  - name: CascadiaR
     url: {}
 date: 2021-06-05
 categories:

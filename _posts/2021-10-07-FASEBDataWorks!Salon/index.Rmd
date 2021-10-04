@@ -3,12 +3,12 @@ title: "Openscapes Mindset at FASEB DataWorks! Salon"
 description: |
   Openscapes will be featured as part of the inaugural FASEB DataWorks! Salon. 
 author:
-  - name: Openscapes and FASEB
+  - name: FASEB and Openscapes
     url: {}
 date: 10-07-2021
 categories: 
   - registration open
-  - community calls
+  - community call
 output:
   distill::distill_article:
     self_contained: false

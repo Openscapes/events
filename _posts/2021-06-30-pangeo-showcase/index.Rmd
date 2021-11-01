@@ -7,7 +7,7 @@ author:
 date: 06-30-2021
 categories:
   - NASA Openscapes Framework
-  - community call
+  - community talk
 output:
   distill::distill_article:
     self_contained: false

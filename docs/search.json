@@ -5,7 +5,11 @@
       "title": "Openscapes Events",
       "author": [],
       "contents": "\n\n\n\n",
+<<<<<<< HEAD
       "last_modified": "2021-11-01T13:32:53-07:00"
+=======
+      "last_modified": "2021-11-01T19:10:21+00:00"
+>>>>>>> 0d0306c0c99ef118fcb686ebae0c590f0a3d75e8
     }
   ],
   "collections": ["posts/posts.json"]

@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Where: Zoom**\
 **Free event. Please register via [eventbrite](https://www.eventbrite.com/e/openscapes-community-call-on-open-leadership-tickets-200431906227)**
 
-Please join us for a conversation with [Abby Cabunoc Mayes](https://twitter.com/abbycabs) and [Chad Sansing](https://twitter.com/chadsansing) of Mozilla about open leadership, the Mozilla Open Leaders program, and how it was designed and iterated. We'll discuss ideas and lessons learned from Moz OL, as well as from Openscapes, Open Life Science, Open Post Academics, and Open Hardware, and invite others to share as well!
+Please join us for a conversation with [Abby Cabunoc Mayes](https://twitter.com/abbycabs) and [Chad Sansing](https://twitter.com/chadsansing) of Mozilla about open leadership, the Mozilla Open Leaders program, and how it was designed and iterated. We'll discuss ideas and lessons learned from Moz OL, as well as from Openscapes, [Open Life Science](https://openlifesci.org/), [Open Post Academics](https://openpostac.org/), and Open Hardware, and invite others to share as well!
 
 
 ```{r, out.width="45%", fig.align='center', preview=TRUE}

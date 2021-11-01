@@ -1,5 +1,27 @@
 [
   {
+    "path": "posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/",
+    "title": "An Open Leadership Chat with Abby Cabunoc Mayes and Chad Sansing",
+    "description": "Abby Cabunoc Mayes and Chad Sansing lead open source programs at Mozilla, including Mozilla Open Leaders",
+    "author": [
+      {
+        "name": "Openscapes and Mozilla",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-09",
+    "categories": [
+      "community call",
+      "registration open"
+    ],
+    "contents": "\nDate: December 09, 2021Time: 10:00-11:00am PT (UTC-7)Where: ZoomFree event. Please register via eventbrite\nPlease join us for a conversation with Abby Cabunoc Mayes and Chad Sansing of Mozilla about open leadership, the Mozilla Open Leaders program, and how it was designed and iterated. We’ll discuss ideas and lessons learned from Moz OL, as well as from Openscapes, Open Life Science, Open Post Academics, and Open Hardware, and invite others to share as well!\n\n\n\nAbby Cabunoc Mayes leads open source and AI programs at Mozilla, and is founder of Mozilla Open Leaders. She is making openness the norm in innovation and research.\nChad Sansing is program manager on the MozFest team at Mozilla, work on facilitation, leadership, and movement-building with our internet health and trustworthy AI communities.\n\n\n\n",
+    "preview": "posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/moz-movement-building.png",
+    "last_modified": "2021-11-01T13:32:48-07:00",
+    "input_file": {},
+    "preview_width": 1732,
+    "preview_height": 898
+  },
+  {
     "path": "posts/2021-10-14-nasa-open-source-science-workshop/",
     "title": "NASA Open Source Science Workshop",
     "description": "NASA's Open Source Science for Data Processing and Archives Workshop",

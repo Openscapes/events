@@ -33,4 +33,4 @@ knitr::include_graphics("moz-movement-building.png")
 
 [**Abby Cabunoc Mayes**](http://acabunoc.github.io/) leads open source and AI programs at Mozilla, and is founder of Mozilla Open Leaders. She is making openness the norm in innovation and research.
 
-[**Chad Sansing**](https://about.me/chadsansing) is program manager on the MozFest team at Mozilla, work on facilitation, leadership, and movement-building with our internet health and trustworthy AI communities. 
+[**Chad Sansing**](https://about.me/chadsansing) is a program manager on the MozFest team at Mozilla. He works on facilitation, leadership, and movement-building with our internet health and trustworthy AI communities.

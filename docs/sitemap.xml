@@ -2,12 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://openscapes.github.io/events/</loc>
-<<<<<<< HEAD
     <lastmod>2021-09-18T11:37:28-07:00</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/events/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/</loc>
-    <lastmod>2021-11-01T13:42:47-07:00</lastmod>
+    <lastmod>2021-11-02T05:45:59-07:00</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/events/posts/2021-10-14-nasa-open-source-science-workshop/</loc>
@@ -60,64 +59,5 @@
   <url>
     <loc>https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview/</loc>
     <lastmod>2021-10-04T14:48:58-07:00</lastmod>
-=======
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-10-14-nasa-open-source-science-workshop/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-10-07-FASEBDataWorks!Salon/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-09-30-rmarkdown-alison-hill/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-09-17-fdd/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-09-17-nwfsc/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-07-12-sortee/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-06-30-pangeo-showcase/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-06-05-cascadiar/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-06-04-nature-webcast/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-05-25-tara-robertson/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-05-07-coast-champions/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-05-07-css-champions/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview/</loc>
-    <lastmod>2021-11-01T20:35:26+00:00</lastmod>
->>>>>>> 8af466aaf8a57131662deb853655f5393e05c948
   </url>
 </urlset>

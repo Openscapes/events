@@ -7,7 +7,19 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>AGU: Open Science In Action</title>
+      <dc:creator>AGU and Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-12-17-agu-open-science-in-action</link>
+      <description>An innovation session at the American Geophysical Union (AGU) annual conference</description>
+      <category>conference</category>
+      <category>NASA Openscapes Framework</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2021-12-17-agu-open-science-in-action</guid>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-12-17-agu-open-science-in-action/agu.png" medium="image" type="image/png" width="381" height="132"/>
+    </item>
     <item>
       <title>An Open Leadership Chat with Abby Cabunoc Mayes and Chad Sansing</title>
       <dc:creator>Openscapes and Mozilla</dc:creator>

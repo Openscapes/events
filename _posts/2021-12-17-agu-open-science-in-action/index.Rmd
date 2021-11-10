@@ -1,7 +1,7 @@
 ---
 title: "AGU: Open Science In Action"
 description: |
-  An innovation session at the American Geophysical Union (AGU) annual conference
+  An innovation session at the American Geophysical Union (AGU) fall conference
 author:
   - name: AGU and Openscapes
     url: {}

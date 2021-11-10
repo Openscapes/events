@@ -20,7 +20,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**Cloud Hackathon: Transitioning Earthdata Workflows to the Cloud,** co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center ([PO.DAAC](https://podaac.jpl.nasa.gov/)), National Snow and Ice Data Center DAAC ([NSIDC DAAC](https://nsidc.org/daac)), Land Processes Distributed Active Archive Center ([LP.DAAC](https://lpdaac.usgs.gov/)), with support provided by [ASDC DAAC](https://asdc.larc.nasa.gov/), [GES DISC](https://disc.gsfc.nasa.gov/) and [NASA Openscapes](https://nasa-openscapes.github.io/).
+**Cloud Hackathon: Transitioning Earthdata Workflows to the Cloud,** co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center ([PO.DAAC](https://podaac.jpl.nasa.gov/)), National Snow and Ice Data Center DAAC ([NSIDC DAAC](https://nsidc.org/daac)), Land Processes Distributed Active Archive Center ([LP.DAAC](https://lpdaac.usgs.gov/)), with support provided by [ASDC DAAC](https://asdc.larc.nasa.gov/), [GES DISC](https://disc.gsfc.nasa.gov/), [IMPACT](https://impact.earthdata.nasa.gov/) and [NASA Openscapes](https://nasa-openscapes.github.io/).
 
 ```{r, out.width="45%", fig.align='center', preview=TRUE}
 knitr::include_graphics("https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png")  

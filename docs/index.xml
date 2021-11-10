@@ -20,6 +20,18 @@
       <media:content url="https://openscapes.github.io/events/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/moz-movement-building.png" medium="image" type="image/png" width="1732" height="898"/>
     </item>
     <item>
+      <title>NASA Cloud Hackathon</title>
+      <dc:creator>NASA Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-11-15-nasa-cloud-hackathon</link>
+      <description>Transitioning Earthdata Workflows to the Cloud</description>
+      <category>workshop</category>
+      <category>NASA Openscapes Framework</category>
+      <category>registration closed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-11-15-nasa-cloud-hackathon</guid>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png" medium="image" type="image/png"/>
+    </item>
+    <item>
       <title>NASA Open Source Science Workshop</title>
       <dc:creator>NASA</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-10-14-nasa-open-source-science-workshop</link>

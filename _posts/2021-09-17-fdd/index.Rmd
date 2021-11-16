@@ -7,7 +7,7 @@ author:
 date: 09-17-2021
 categories:
   - Champions Cohort
-  - registration closed
+  - event completed
 output:
   distill::distill_article:
     self_contained: false

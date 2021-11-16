@@ -187,11 +187,11 @@
     "date": "2021-09-17",
     "categories": [
       "Champions Cohort",
-      "registration closed"
+      "event completed"
     ],
     "contents": "\n\nContents\nProgram overview\nCohort details\nNominate your team to participate\n\nProgram overview\nThis is a professional development and leadership opportunity for FDD research groups to explore open data science practices.\nOpenscapes is an approach for doing better science in less time1. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science2, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nFishery Dependent Data (FDD) represent a complex mix of information collected to facilitate managing the region’s living marine resources. In the Northeast, data flow from individual businesses and/or scientific samplers to the region’s scientific and management organizations. This web of information can be difficult to access as much of the content is confidential in its raw form. Further, many of the codes and systems used to store these data are poorly documented, and even routine analyses are not commonly shared among data users. Currently, FDD are therefore difficult to integrate into scientific advice for ecosystem based fisheries management. Analysts tend to be unfamiliar with the data or hesitant to explore their potential, and data can be viewed with skepticism rather than leveraged in new and innovative ways. There is a need to begin to provide access, documentation, and cultivate a community of practice that focuses on using these data to their full potential.\nThis opportunity is funded through NOAA Fisheries Northeast Fisheries Science Center (NEFSC) and a grant from the Fisheries Information System Program through an award to UMass Dartmouth-SMAST through CINAR. It is coordinated by Gavin Fay (UMassD-SMAST), Andy Jones (NOAA NEFSC), and Rachel Baum (UMassD Claire T. Carney Library).\n\n\n\nCohort details\nOur FDD Cohort will meet four times over two months, on alternating Fridays.\nDates: Sep 17, Oct 1, Oct 15, Oct 29, 2021\nTimes: 12:00-1:30 pm EDT\nWhere: remotely, via Zoom\nWho: Cohort of 7 FDD user teams (or research groups). Each team consists of a team lead (PI, project supervisor, or faculty, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc).\nCost: Free; this opportunity is sponsored by FDD through an award to UMass Dartmouth-SMAST through CINAR.\nExpected time commitment: The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.\nNominate your team to participate\nNominate your team by filling out this Google Form by August 20, 2021. This opportunity is open to those affiliated with teams using FDD in the Northeast US. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation by late August 2021.\nLearn more about the Openscapes Champions Program and FAQs about forming your team. Questions? Contact Openscapes: openscapes at nceas.ucsb.edu\nnature.com/articles/s41559-017-0160↩︎\nblogs.scientificamerican.com/observations/open-software-means-kinder-science\n\n↩︎\n",
     "preview": "posts/2021-09-17-fdd/fdd-logos.png",
-    "last_modified": "2021-10-04T14:50:46-07:00",
+    "last_modified": "2021-11-16T08:40:57-08:00",
     "input_file": {},
     "preview_width": 1262,
     "preview_height": 758
@@ -209,14 +209,36 @@
     "date": "2021-09-17",
     "categories": [
       "Champions Cohort",
-      "registration closed"
+      "event completed"
     ],
     "contents": "\n\nContents\nProgram overview\nCohort details\nNominate your team to participate\n\nProgram overview\nThis is a professional development and leadership opportunity for NOAA research groups to explore open data science practices.\nOpenscapes is an approach for doing better science in less time1. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science2, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nThis opportunity is funded in part and coordinated by NOAA Northwest Fisheries Science Center (NWFSC).\n\n\n\n\nCohort details\nOur NMFS Cohort will meet four times over two months, on alternating Fridays.\nDates: Sep 17, Oct 1, Oct 15, Oct 29, 2021\nTimes: 11:00-12:30 pm PST\nWhere: remotely, via Zoom\nWho: Cohort of 7 NOAA research groups. Each team consists of a team lead (PI, project lead, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc).\nCost: This opportunity is sponsored by NWFSC and other NOAA offices.\nExpected time commitment: The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.\nNominate your team to participate\nNominate your team by filling out this Google Form by August 20, 2021. This opportunity is open only to those affiliated with NOAA NMFS. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2021.\nLearn more about the Openscapes Champions Program and FAQs about forming your team. Questions? Contact Openscapes: openscapes at nceas.ucsb.edu\nnature.com/articles/s41559-017-0160↩︎\nblogs.scientificamerican.com/observations/open-software-means-kinder-science\n\n↩︎\n",
     "preview": "posts/2021-09-17-nwfsc/NOAA_logo.png",
-    "last_modified": "2021-10-04T14:51:01-07:00",
+    "last_modified": "2021-11-16T08:41:34-08:00",
     "input_file": {},
     "preview_width": 857,
     "preview_height": 355
+  },
+  {
+    "path": "posts/2021-09-09-sasi/",
+    "title": "Openscapes Champions: SASI Cohort",
+    "description": "A Champions Cohort for the Symbiosis in Aquatic Systems Initiative (SASI)",
+    "author": [
+      {
+        "name": "GBMF and Openscapes",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-09",
+    "categories": [
+      "Champions Cohort",
+      "registration closed"
+    ],
+    "contents": "\nThis is a Cohort for the Symbiosis in Aquatic Systems Initiative (SASI), funded by the Gordon and Betty Moore Foundation. We are co-leading with protocols.io.\nLearn more about Openscapes and the Champions Program: https://openscapes.org, and about this cohort at https://openscapes.github.io/2021-sasi.\n\n\n\n\n\n\n",
+    "preview": "posts/2021-09-09-sasi/gbmf-protocols.png",
+    "last_modified": "2021-11-16T08:40:15-08:00",
+    "input_file": {},
+    "preview_width": 726,
+    "preview_height": 426
   },
   {
     "path": "posts/2021-07-12-sortee/",

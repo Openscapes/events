@@ -107,7 +107,7 @@
       <link>https://openscapes.github.io/events/posts/2021-09-17-fdd</link>
       <description>Openscapes Champions Cohort for Northeast Fishery Dependent Data Users (FDD)</description>
       <category>Champions Cohort</category>
-      <category>registration closed</category>
+      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-17-fdd</guid>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-09-17-fdd/fdd-logos.png" medium="image" type="image/png" width="1262" height="758"/>
@@ -118,10 +118,21 @@
       <link>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</link>
       <description>Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS)</description>
       <category>Champions Cohort</category>
-      <category>registration closed</category>
+      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</guid>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-09-17-nwfsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>
+    </item>
+    <item>
+      <title>Openscapes Champions: SASI Cohort</title>
+      <dc:creator>GBMF and Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-09-09-sasi</link>
+      <description>A Champions Cohort for the Symbiosis in Aquatic Systems Initiative (SASI)</description>
+      <category>Champions Cohort</category>
+      <category>registration closed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-09-09-sasi</guid>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-09-09-sasi/gbmf-protocols.png" medium="image" type="image/png" width="726" height="426"/>
     </item>
     <item>
       <title>SORTEE Conference</title>

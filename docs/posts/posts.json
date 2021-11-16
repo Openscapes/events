@@ -68,6 +68,27 @@
     "preview_height": 898
   },
   {
+    "path": "posts/2021-12-08-nasem-accelerating-analysis-geographic-change/",
+    "title": "NASEM: Accelerating the Analysis of Geographic Change",
+    "description": "National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee.",
+    "author": [
+      {
+        "name": "AGU and Openscapes",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-08",
+    "categories": [
+      "workshop",
+      "NASA Openscapes Framework",
+      "registration open"
+    ],
+    "contents": "\nDate: December 08, 2021\nWe will be presenting about the NASA Openscapes framework at NASEM’s meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee. For full information, agenda, and registration, please see the NASEM meeting webpage.\n\n\n\nExcerpt from the NASEM meeting webpage:\n\nIn this meeting, we will discuss ways to approach and leverage novel geospatial data, analytics and platforms to understand and assess rapid and profound geographic change. We will discuss the geospatial data science, infrastructure and resource challenges, focusing on human displacement, movement and migration due to sudden and dramatic physical and human events.\n\n\n\n\n",
+    "preview": "posts/2021-12-08-nasem-accelerating-analysis-geographic-change/nasem-geo-meeting.jpg",
+    "last_modified": "2021-11-15T12:04:35-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-11-15-nasa-cloud-hackathon/",
     "title": "NASA Cloud Hackathon",
     "description": "Transitioning Earthdata Workflows to the Cloud",

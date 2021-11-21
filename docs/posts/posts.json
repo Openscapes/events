@@ -10,11 +10,15 @@
       }
     ],
     "date": "2022-03-04",
-    "categories": [],
+    "categories": [
+      "Champions Cohort",
+      "NASA Openscapes Framework",
+      "registration open"
+    ],
     "contents": "\nThis is a mentorship and professional development opportunity for research teams; please see nasa-openscapes.github.io/champions for details.\n\n\n\n\n\n\n\n",
     "preview": "posts/2022-03-04-nasa/nasa-openscapes.png",
-    "last_modified": "2021-11-20T20:28:16-08:00",
-    "input_file": "index.knit.md",
+    "last_modified": "2021-11-21T09:00:22-08:00",
+    "input_file": {},
     "preview_width": 894,
     "preview_height": 478
   },

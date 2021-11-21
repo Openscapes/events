@@ -6,7 +6,9 @@ author:
   - name: Openscapes and NASA
     url: {}
 date: 2022-03-04
+categories:
   - Champions Cohort
+  - NASA Openscapes Framework
   - registration open
 output:
   distill::distill_article:

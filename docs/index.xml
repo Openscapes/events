@@ -212,6 +212,17 @@
       <media:content url="https://openscapes.github.io/events/posts/2021-05-07-css-champions/css-white.png" medium="image" type="image/png" width="1118" height="580"/>
     </item>
     <item>
+      <title>Openscapes Champions: NOAA NWFSC Cohort</title>
+      <dc:creator>Openscapes and NWFSC</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-03-12-nwfsc</link>
+      <description>"Openscapes Champions Cohort for the NOAA Northwest Fisheries Science Center (NWFSC)"</description>
+      <category>Champions Cohort</category>
+      <category>event completed</category>
+      <guid>https://openscapes.github.io/events/posts/2021-03-12-nwfsc</guid>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-03-12-nwfsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>
+    </item>
+    <item>
       <title>Interview with Dr. Dawn Wright</title>
       <dc:creator>Mozilla and Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview</link>

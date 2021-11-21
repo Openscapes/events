@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2022-03-04-nasa/",
+    "title": "NASA Openscapes Champions Cohort",
+    "description": "Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.",
+    "author": [
+      {
+        "name": "Openscapes and NASA",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-04",
+    "categories": [],
+    "contents": "\nThis is a mentorship and professional development opportunity for research teams; please see nasa-openscapes.github.io/champions for details.\n\n\n\n\n\n\n\n",
+    "preview": "posts/2022-03-04-nasa/nasa-openscapes.png",
+    "last_modified": "2021-11-20T20:28:16-08:00",
+    "input_file": "index.knit.md",
+    "preview_width": 894,
+    "preview_height": 478
+  },
+  {
     "path": "posts/2021-12-17-agu-open-science-in-action/",
     "title": "AGU: Open Science In Action",
     "description": "An innovation session at the American Geophysical Union (AGU) fall conference",

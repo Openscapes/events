@@ -1,7 +1,7 @@
 ---
 title: "Openscapes Champions: NOAA NWFSC Cohort"
 description: |
-   "Openscapes Champions Cohort for the NOAA Northwest Fisheries Science Center (NWFSC)"
+   Openscapes Champions Cohort for the NOAA Northwest Fisheries Science Center (NWFSC)
 author:
   - name: Openscapes and NWFSC
     url: {}

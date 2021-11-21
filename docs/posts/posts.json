@@ -420,7 +420,7 @@
   {
     "path": "posts/2021-03-12-nwfsc/",
     "title": "Openscapes Champions: NOAA NWFSC Cohort",
-    "description": "\"Openscapes Champions Cohort for the NOAA Northwest Fisheries Science Center (NWFSC)\"",
+    "description": "Openscapes Champions Cohort for the NOAA Northwest Fisheries Science Center (NWFSC)",
     "author": [
       {
         "name": "Openscapes and NWFSC",
@@ -434,7 +434,7 @@
     ],
     "contents": "\nThis is a professional development and leadership opportunity for NWFSC researchers to explore open data science practices.\nOpenscapes Champions is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nThis opportunity is funded and coordinated by NOAA Northwest Fisheries Science Center (NWFSC).\n\n\n\n\n\n\n",
     "preview": "posts/2021-03-12-nwfsc/NOAA_logo.png",
-    "last_modified": "2021-11-20T19:52:22-08:00",
+    "last_modified": "2021-11-21T09:01:26-08:00",
     "input_file": {},
     "preview_width": 857,
     "preview_height": 355

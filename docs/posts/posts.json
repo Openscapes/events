@@ -23,6 +23,26 @@
     "preview_height": 478
   },
   {
+    "path": "posts/2022-01-28-faseb/",
+    "title": "FASEB Openscapes Champions Cohort",
+    "description": "Openscapes Champions Cohort for research teams in the biological and biomedical sciences, supported by the Federation of American Societies of Experimental Biology, FASEB, as part of its DataWorks! initiative.",
+    "author": [
+      {
+        "name": "Openscapes and FASEB",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-28",
+    "categories": [
+      "Champions Cohort",
+      "registration open"
+    ],
+    "contents": "\nThis is a professional development and leadership opportunity for research groups in the biological and biomedical sciences to develop leadership in open research data practices. This opportunity is sponsored by the Federation of American Societies of Experimental Biology, FASEB, as part of its DataWorks! initiative.\nLearn more & nominate your team:faseb-dataworks.github.io/2022-openscapes-champions/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-11-23T10:22:50-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-12-17-agu-open-science-in-action/",
     "title": "AGU: Open Science In Action",
     "description": "An innovation session at the American Geophysical Union (AGU) fall conference",

@@ -68,6 +68,16 @@
       <media:content url="https://openscapes.github.io/events/posts/2021-12-08-nasem-accelerating-analysis-geographic-change/nasem-geo-meeting.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
+      <title>UCSB Data Science Summit</title>
+      <dc:creator>Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2021-12-03-ucsb-ds-summit</link>
+      <description>Keynote at the University of California Santa Barbara (UCSB) Data Science Summit.</description>
+      <category>conference</category>
+      <guid>https://openscapes.github.io/events/posts/2021-12-03-ucsb-ds-summit</guid>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2021-12-03-ucsb-ds-summit/ucsb-logo.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
       <title>NASA Cloud Hackathon</title>
       <dc:creator>NASA Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-11-15-nasa-cloud-hackathon</link>

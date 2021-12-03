@@ -112,6 +112,25 @@
     "input_file": {}
   },
   {
+    "path": "posts/2021-12-03-ucsb-ds-summit/",
+    "title": "UCSB Data Science Summit",
+    "description": "Keynote at the University of California Santa Barbara (UCSB) Data Science Summit.",
+    "author": [
+      {
+        "name": "Openscapes",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-03",
+    "categories": [
+      "conference"
+    ],
+    "contents": "\nDate: December 3, 2021UCSB Data Science Summit website: https://datascience.ucsb.edu/summit21\nWe will be presenting a keynote “Openscapes: Better Science for Future Us” at the 2021 inaugural UCSB Data Science Summit and are excited to learn more with/from the UCSB community!\n\n\n\nFrom the event website:\nThe Data Science Landscape at UCSB: How do you fit in? Where do we go next?\nData driven science is ubiquitous at the University of California, Santa Barbara (UCSB), but data science efforts on campus remain largely siloed, leaving many on campus wondering “How do I fit in?” Find out where you fit among the data science practitioners, researchers, and educators from across campus. This summit will identify strategies for facilitating an interdisciplinary, collaborative future for data science at UCSB.\n\n\n\n",
+    "preview": "posts/2021-12-03-ucsb-ds-summit/ucsb-logo.jpg",
+    "last_modified": "2021-12-02T21:03:28-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-11-15-nasa-cloud-hackathon/",
     "title": "NASA Cloud Hackathon",
     "description": "Transitioning Earthdata Workflows to the Cloud",

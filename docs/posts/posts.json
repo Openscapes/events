@@ -59,11 +59,11 @@
     "categories": [
       "workshop",
       "NASA Openscapes Framework",
-      "registration open"
+      "event completed"
     ],
     "contents": "\nEnabling Analysis in the Cloud Using NASA Earth Science Data, co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center (PO.DAAC), National Snow and Ice Data Center DAAC (NSIDC DAAC), Land Processes Distributed Active Archive Center (LP.DAAC), ASDC DAAC, GES DISC, IMPACT and NASA Openscapes.\nLearn more and register: https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/124026.\n\n\n\nAbstract:\nIn this workshop, representatives from NASA’s ESDS and EOSDIS DAACs (data centers) will provide an overview of the ESDS cloud vision, discuss what this means for data users, and guide participants through demonstrations highlighting data discovery, accessibility, and usability on and off the cloud. These demonstrations will include science and applications user stories, and will highlight example workflows from the atmosphere, ocean, hydrology, cryosphere, and land disciplines. In addition, the workshop will highlight ESDS efforts in the fields of artificial intelligence (AI) and machine learning (ML) and show how these techniques in novel applications can be applied to EOSDIS data. Participants will leave having a better understanding of how NASA Earthdata Cloud data and services can best be leveraged and integrated within their work across a variety of disciplines and data types.\nCome learn about ESDS’s strategic vision to develop and operate multiple components of EOSDIS in a commercial cloud environment and to support data users as they transition to cloud computing.\n\n\n\n",
     "preview": "posts/2021-12-12-agu-enabling-analysis-in-the-cloud/../2021-12-17-agu-open-science-in-action/agu.png",
-    "last_modified": "2021-11-10T06:46:22-08:00",
+    "last_modified": "2021-12-14T08:48:59-08:00",
     "input_file": {},
     "preview_width": 381,
     "preview_height": 132

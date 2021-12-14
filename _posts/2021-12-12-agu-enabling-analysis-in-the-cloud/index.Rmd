@@ -9,7 +9,7 @@ date: 2021-12-12
 categories: 
   - workshop
   - NASA Openscapes Framework
-  - registration open
+  - event completed
 output:
   distill::distill_article:
     self_contained: false

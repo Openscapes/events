@@ -1,0 +1,21 @@
+---
+title: "ESIP: Data for All People"
+description: |
+  A short description of the post.
+author:
+  - name: Openscapes and NASA
+    url: {}
+date: 2022-01-21
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science
+
+

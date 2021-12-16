@@ -25,6 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Blog summaries**:
 
 - <https://earthdata.nasa.gov/learn/articles/2021-cloud-hackathon>
+- <https://podaac.jpl.nasa.gov/announcements/2021-12-15-The-2021-Cloud-Hackathon>
 
 ```{r, out.width="45%", fig.align='center', preview=TRUE}
 knitr::include_graphics("https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png")  

@@ -21,13 +21,25 @@
       <media:content url="https://openscapes.github.io/events/posts/2022-03-04-nasa/nasa-openscapes.png" medium="image" type="image/png" width="894" height="478"/>
     </item>
     <item>
+      <title>ESIP: Planning for the Year of Open Science</title>
+      <dc:creator>ESIP and Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2022-01-21-esip-winter-2022</link>
+      <description>An session at the Earth Science Information Partners (ESIP) winter conference</description>
+      <category>conference</category>
+      <category>NASA Openscapes Framework</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2022-01-21-esip-winter-2022</guid>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2022-01-21-esip-winter-2022/esip-logo.png" medium="image" type="image/png" width="2400" height="1246"/>
+    </item>
+    <item>
       <title>AGU: Open Science In Action</title>
       <dc:creator>AGU and Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2021-12-17-agu-open-science-in-action</link>
       <description>An innovation session at the American Geophysical Union (AGU) fall conference</description>
       <category>conference</category>
       <category>NASA Openscapes Framework</category>
-      <category>registration open</category>
+      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-12-17-agu-open-science-in-action</guid>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-12-17-agu-open-science-in-action/agu.png" medium="image" type="image/png" width="381" height="132"/>

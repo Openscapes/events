@@ -23,6 +23,29 @@
     "preview_height": 478
   },
   {
+    "path": "posts/2022-01-21-esip-winter-2022/",
+    "title": "ESIP: Planning for the Year of Open Science",
+    "description": "An session at the Earth Science Information Partners (ESIP) winter conference",
+    "author": [
+      {
+        "name": "ESIP and Openscapes",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-21",
+    "categories": [
+      "conference",
+      "NASA Openscapes Framework",
+      "registration open"
+    ],
+    "contents": "\nThis session will bring together a diverse set of leaders across the U.S. government to highlight open science contributions that support data generation to data use and understanding and to identify a common agenda that the collective is moving forward. We aim to support open practices and community building that accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Researchers and researcher support staff from NOAA Fisheries, California EPA, and NASA Openscapes (LP DAAC, NSIDC) will share vignettes about open science in government and how we can support and connect open science work sna strengthen channels for inter- and cross-agency learning as we prepare for the Year of Open Science 2023.\nhttps://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science\n\n\n\n\n\n\n",
+    "preview": "posts/2022-01-21-esip-winter-2022/esip-logo.png",
+    "last_modified": "2022-01-20T10:57:27-08:00",
+    "input_file": {},
+    "preview_width": 2400,
+    "preview_height": 1246
+  },
+  {
     "path": "posts/2021-12-17-agu-open-science-in-action/",
     "title": "AGU: Open Science In Action",
     "description": "An innovation session at the American Geophysical Union (AGU) fall conference",
@@ -36,11 +59,11 @@
     "categories": [
       "conference",
       "NASA Openscapes Framework",
-      "registration open"
+      "event completed"
     ],
     "contents": "\nWe will be presenting an invited paper “Open Project Design: Lessons from the NASA Openscapes Framework” virtually at the 2021 American Geophysical Union (AGU) annual conference, in a session “Open Science In Action” convened by Dr. Chelle Gentemann and colleagues.\nLearn more and register: https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122142\n\n\n\nAbstract\nOpen source software is about more than code: it’s about welcoming a broadening audience to a shared vision and planning for sustainability. We’ll cover considerations for open project design focused on inclusion, community building, web presence, and technology choices, sharing strategies from the NASA Openscapes Framework as an example. The NASA Openscapes Framework (https://nasa-openscapes.github.io) is supporting scientific researchers using NASA Earthdata from Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud. Through the Openscapes approach, which builds on collaborative open design and software from open source communities, including Mozilla, RStudio, The Carpentries, and Pangeo, we are currently working with a cross-DAAC mentor community to co-create learning resources and strengthen empathy-centered teaching practices to empower research teams through this migration to the cloud. We are focusing on building community across teams through identifying common goals and developing shared processes while also developing technical skills for contributing, review, and teaching. This session will explore open project design and lessons learned thus far through the NASA Openscapes Framework while also providing practical strategies for participants.\n\n\n\n",
     "preview": "posts/2021-12-17-agu-open-science-in-action/agu.png",
-    "last_modified": "2021-11-10T06:40:56-08:00",
+    "last_modified": "2022-01-20T10:38:09-08:00",
     "input_file": {},
     "preview_width": 381,
     "preview_height": 132

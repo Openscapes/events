@@ -12,13 +12,12 @@
     "date": "2022-03-04",
     "categories": [
       "Champions Cohort",
-      "NASA Openscapes Framework",
-      "registration open"
+      "NASA Openscapes Framework"
     ],
-    "contents": "\nThis is a mentorship and professional development opportunity for research teams; please see nasa-openscapes.github.io/champions for details.\n\n\n\n\n\n\n\n",
+    "contents": "\nThis is a mentorship and professional development opportunity for\nresearch teams; please see nasa-openscapes.github.io/champions\nfor details.\n\n\n\n\n\n\n\n",
     "preview": "posts/2022-03-04-nasa/nasa-openscapes.png",
-    "last_modified": "2021-11-21T09:00:22-08:00",
-    "input_file": {},
+    "last_modified": "2022-02-10T11:11:08-08:00",
+    "input_file": "index.knit.md",
     "preview_width": 894,
     "preview_height": 478
   },
@@ -36,12 +35,12 @@
     "categories": [
       "conference",
       "NASA Openscapes Framework",
-      "registration open"
+      "event completed"
     ],
-    "contents": "\nThis session will bring together a diverse set of leaders across the U.S. government to highlight open science contributions that support data generation to data use and understanding and to identify a common agenda that the collective is moving forward. We aim to support open practices and community building that accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Researchers and researcher support staff from NOAA Fisheries, California EPA, and NASA Openscapes (LP DAAC, NSIDC) will share vignettes about open science in government and how we can support and connect open science work sna strengthen channels for inter- and cross-agency learning as we prepare for the Year of Open Science 2023.\nhttps://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science\n\n\n\n\n\n\n",
+    "contents": "\nThis session will bring together a diverse set of leaders across the\nU.S. government to highlight open science contributions that support\ndata generation to data use and understanding and to identify a common\nagenda that the collective is moving forward. We aim to support open\npractices and community building that accelerate data-driven solutions\nand increase diversity, equity, inclusion, and belonging in science.\nResearchers and researcher support staff from NOAA Fisheries, California\nEPA, and NASA Openscapes (LP DAAC, NSIDC) will share vignettes about\nopen science in government and how we can support and connect open\nscience work sna strengthen channels for inter- and cross-agency\nlearning as we prepare for the Year of Open Science 2023.\nhttps://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science\n\n\n\n\n\n\n",
     "preview": "posts/2022-01-21-esip-winter-2022/esip-logo.png",
-    "last_modified": "2022-01-20T10:57:27-08:00",
-    "input_file": {},
+    "last_modified": "2022-02-10T11:11:17-08:00",
+    "input_file": "index.knit.md",
     "preview_width": 2400,
     "preview_height": 1246
   },

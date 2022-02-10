@@ -9,7 +9,7 @@ date: 2022-01-21
 categories: 
   - conference
   - NASA Openscapes Framework
-  - registration open
+  - event completed
 output:
   distill::distill_article:
     self_contained: false

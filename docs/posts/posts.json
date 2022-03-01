@@ -522,5 +522,27 @@
     "preview": "posts/2021-03-08-dr-dawn-wright-interview/dr-dawn-wright.jpg",
     "last_modified": "2021-10-04T14:48:58-07:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2020-02-20-noaa-nefsc/",
+    "title": "Openscapes Champions: NOAA NEFSC Cohort",
+    "description": "Openscapes Champions Cohort for the NOAA Northeast Fisheries Science Center (NEFSC)",
+    "author": [
+      {
+        "name": "Openscapes and NEFSC",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-20",
+    "categories": [
+      "Champions Cohort",
+      "NOAA Fisheries"
+    ],
+    "contents": "\nThis is a mentorship and professional development opportunity for\nresearch teams; please see the following for details:\nOur\nfirst Openscapes workshop\nOur\nOpenscapes experience: the Fay Lab\n\n\n\n\n\n\n",
+    "preview": "posts/2020-02-20-noaa-nefsc/../2021-09-17-nwfsc/NOAA_logo.png",
+    "last_modified": "2022-03-01T10:21:10-08:00",
+    "input_file": "index.knit.md",
+    "preview_width": 857,
+    "preview_height": 355
   }
 ]

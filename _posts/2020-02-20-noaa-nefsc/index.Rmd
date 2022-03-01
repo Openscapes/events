@@ -1,0 +1,28 @@
+---
+title: "Openscapes Champions: NOAA NEFSC Cohort"
+description: "Openscapes Champions Cohort for the NOAA Northeast Fisheries Science Center (NEFSC)"
+author:
+  - name: Openscapes and NEFSC
+    url: {}
+date: 2020-02-20
+categories:
+  - Champions Cohort
+  - NOAA Fisheries
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is a mentorship and professional development opportunity for research teams; please see the following for details:
+
+- [Our first Openscapes workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
+- [Our Openscapes experience: the Fay Lab](https://www.openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/)
+
+```{r, out.width="40%", fig.align='center', preview=TRUE}
+knitr::include_graphics("../2021-09-17-nwfsc/NOAA_logo.png")  
+```
+

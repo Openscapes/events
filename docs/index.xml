@@ -278,5 +278,16 @@
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview/dr-dawn-wright.jpg" medium="image" type="image/jpeg"/>
     </item>
+    <item>
+      <title>Openscapes Champions: NOAA NEFSC Cohort</title>
+      <dc:creator>Openscapes and NEFSC</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2020-02-20-noaa-nefsc</link>
+      <description>Openscapes Champions Cohort for the NOAA Northeast Fisheries Science Center (NEFSC)</description>
+      <category>Champions Cohort</category>
+      <category>NOAA Fisheries</category>
+      <guid>https://openscapes.github.io/events/posts/2020-02-20-noaa-nefsc</guid>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2020-02-20-noaa-nefsc/../2021-09-17-nwfsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>
+    </item>
   </channel>
 </rss>

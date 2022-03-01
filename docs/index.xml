@@ -20,6 +20,17 @@
       <media:content url="https://openscapes.github.io/events/posts/2022-03-04-nasa/nasa-openscapes.png" medium="image" type="image/png" width="894" height="478"/>
     </item>
     <item>
+      <title>Openscapes Champions: NOAA AFSC Cohort</title>
+      <dc:creator>Openscapes and AFSC</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2022-01-28-noaa-afsc</link>
+      <description>Openscapes Champions Cohort for the NOAA Alaska Fisheries Science Center (AFSC)</description>
+      <category>Champions Cohort</category>
+      <category>NOAA Fisheries</category>
+      <guid>https://openscapes.github.io/events/posts/2022-01-28-noaa-afsc</guid>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2022-01-28-noaa-afsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>
+    </item>
+    <item>
       <title>ESIP: Planning for the Year of Open Science</title>
       <dc:creator>ESIP and Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2022-01-21-esip-winter-2022</link>
@@ -141,7 +152,7 @@
       <link>https://openscapes.github.io/events/posts/2021-09-17-fdd</link>
       <description>Openscapes Champions Cohort for Northeast Fishery Dependent Data Users (FDD)</description>
       <category>Champions Cohort</category>
-      <category>event completed</category>
+      <category>NOAA Fisheries</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-17-fdd</guid>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-09-17-fdd/fdd-logos.png" medium="image" type="image/png" width="1262" height="758"/>
@@ -152,7 +163,7 @@
       <link>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</link>
       <description>Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS)</description>
       <category>Champions Cohort</category>
-      <category>event completed</category>
+      <category>NOAA Fisheries</category>
       <guid>https://openscapes.github.io/events/posts/2021-09-17-nwfsc</guid>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-09-17-nwfsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>
@@ -251,7 +262,7 @@
       <link>https://openscapes.github.io/events/posts/2021-03-12-nwfsc</link>
       <description>Openscapes Champions Cohort for the NOAA Northwest Fisheries Science Center (NWFSC)</description>
       <category>Champions Cohort</category>
-      <category>event completed</category>
+      <category>NOAA Fisheries</category>
       <guid>https://openscapes.github.io/events/posts/2021-03-12-nwfsc</guid>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-03-12-nwfsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>

@@ -8,7 +8,7 @@ author:
 date: 2021-03-12
 categories:
   - Champions Cohort
-  - event completed
+  - NOAA Fisheries
 output:
   distill::distill_article:
     self_contained: false

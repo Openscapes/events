@@ -12,6 +12,8 @@ categories:
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
+    toc_depth: 3
 ---
 
 
@@ -19,9 +21,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Cohort Summary 
 This is a Cohort for the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the [Gordon and Betty Moore Foundation](https://www.moore.org/). We are co-leading with [protocols.io](https://www.protocols.io/).
 
-Learn more about Openscapes and the Champions Program: <https://openscapes.org>, and about this cohort at <https://openscapes.github.io/2021-sasi>.
+**Website and participating teams:**
+
+- <https://openscapes.github.io/2021-sasi>
+
+
+## Program Overview
+
+Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
 ```{r, out.width="50%", fig.align='center', preview=TRUE}
 knitr::include_graphics("gbmf-protocols.png")  

@@ -9,7 +9,6 @@ date: 2021-12-08
 categories: 
   - workshop
   - NASA Openscapes Framework
-  - event completed
 output:
   distill::distill_article:
     self_contained: false

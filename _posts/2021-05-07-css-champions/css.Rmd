@@ -6,20 +6,39 @@ author:
 date: 2021-05-07
 categories:
   - Champions Cohort
-  - event completed
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
+    toc_depth: 3    
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**This is a professional development and leadership opportunity for environmental research groups to explore open data science practices.**
+## Cohort Summary 
+Sponsored by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/)
 
-### Overview
+**Participating teams:** 
+
+- University of California Davis — Kiva Oken's research group
+- Kenai Watershed Forum — Benjamin Meyer, Maura Schumacher, and Galen Hecht
+- Environment and Climate Change Canada — Martin Jean and Alexandra Audet
+- University of South Florida — Nancy Williams’ research group
+- Tribes and the Exchange Network — Lydia Scheer, Angie Reed, Lisa Gover, Melinda Ronca-Battista, and Natasha Fulton
+- University of Washington — Jacqueline Padilla-Gamino’s research group
+- University of North Carolina Chapel Hill — Janet Nye’s research group
+- University of British Columbia — Cole Burton’s research group 
+
+**Related blog posts**: 
+
+- [CS&S Champions Cohort Takeaways: Seaside Chats, data access, resilient teams](https://www.openscapes.org/blog/2021/07/13/css-cohort/)
+
+
+## Program Overview
+
+**This is a professional development and leadership opportunity for environmental research groups to explore open data science practices.**
 
 [**Openscapes**](https://openscapes.org) is an approach for doing better science in less time. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. This opportunity is funded by [**Code for Science and Society (CS&S)**](https://eventfund.codeforscience.org/), whose event fund supports events that promote inclusion and broaden participation in open data science that drives scholarship. 
 

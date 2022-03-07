@@ -6,8 +6,7 @@ author:
   - name: Nature
 date: 2021-06-04
 categories:
-  - webinar
-  - event completed
+  - community talk
 output:
   distill::distill_article:
     self_contained: false

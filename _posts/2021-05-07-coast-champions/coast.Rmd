@@ -6,15 +6,38 @@ author:
 date: 2021-05-07
 categories:
   - Champions Cohort
-  - event completed
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
+    toc_depth: 3    
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Cohort Summary
+
+Sponsored by [The California State University Council on Ocean Affairs, Science & Technology (CSU-COAST)](https://www2.calstate.edu/impact-of-the-csu/research/coast)
+
+**Participating teams:** 
+
+- San Francisco State University (SFSU) — Karina Nielsen’s Coastal Ecosystems research group 
+- Cal Poly San Luis Obispo (Cal Poly SLO) — Ben Ruttenberg’s research group  
+- Cal Poly Pomona (CPP) — Jeremy Claisse’s research group 
+- California State University Monterey Bay (CSUMB) — Alison Haupt’s research group
+- California State University Monterey Bay (CSUMB) — Cheryl Logan’s research group 
+- California State University Northridge (CSUN) — Nyssa Silbiger research group 
+- California State University Northridge (CSUN) — Kerry Nickol's research group 
+
+**Related blog posts**: 
+
+- [Our Openscapes Cohort: CSU-COAST](https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/)
+- [Our Supercharge Experience: The Logan Lab](https://www.openscapes.org/blog/2021/05/11/logan-lab-experience/)
+
+
+## Program Overview
 
 **This is a professional development and leadership opportunity for [CSU COAST](https://www2.calstate.edu/impact-of-the-csu/research/coast)-affiliated research groups to explore open data science practices.**
 

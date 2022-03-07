@@ -20,6 +20,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Cohort Summary
+This Cohort had research teams across four NOAA Fisheries Science Centers: Northwest, Northeast, Southeast, Alaska. Sponsored in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).
+
+**Website and participating teams:**
+
+- <https://openscapes.github.io/2021-noaa-nmfs>
+
+**Related blog posts**: 
+
+- [Strengthening scientific workflow and team collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/)
+
 ## Program overview
 
 **This is a professional development and leadership opportunity for NOAA research groups to explore open data science practices.**

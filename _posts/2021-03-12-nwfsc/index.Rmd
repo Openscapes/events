@@ -12,12 +12,33 @@ categories:
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
+    toc_depth: 3    
 ---
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Cohort Summary
+
+Sponsored by NOAA NWFSC, coordinated by Eric Ward and Mary Hunsicker  
+(National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)
+
+**Related blog posts**: 
+
+- [NOAA NWFSC Openscapes Champions Cohort](https://www.openscapes.org/blog/2020/05/03/noaa-nwfsc-champions/)
+
+**Participating teams:** 
+
+- Conservation Biology division
+- Environmental and Fisheries Science division
+- Fish Ecology division
+- Fishery Resource Analysis and Monitoring division
+
+
+## Program Overview
 
 **This is a professional development and leadership opportunity for NWFSC researchers to explore open data science practices.**
 

@@ -15,10 +15,17 @@ output:
     toc_depth: 3
 ---
 
+## Cohort Summary 
+Sponsored through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)) and a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+**Website and participating teams:**
+
+- <https://openscapes.github.io/2021-fdd/>
+
+**Related blog posts**: 
+
+- [Identifying common approaches and needs for fisheries dependent data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/)
+
 
 ## Program overview
 

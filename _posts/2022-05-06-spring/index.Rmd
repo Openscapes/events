@@ -21,11 +21,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Program overview
 
-**This is a professional development and leadership opportunity for environmental and Earth research groups to develop open data science practices.**
+**This is a professional development and leadership opportunity for environmental and Earth science research groups to develop open data science practices.**
 
 **[Openscapes](https://openscapes.org)** is an approach for doing better science in less time[^1]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science[^2], enabling increased efficiency and resilience for teams so that their work has more enduring impact. 
 
 **[Openscapes Champions](https://www.openscapes.org/champions/)** is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. 
+
+**The 2022 Spring Cohort is an open call for research teams**, meaning teams do not need to be affiliated with any organization to attend, and participation is free. Learn more about [previous Champions Cohorts'](https://openscapes.github.io/events/#category:Champions_Cohort) achievements (blogs linked from each page), in particular the [CS&S Cohort](https://www.openscapes.org/blog/2021/07/13/css-cohort/) where we piloted the open call in 2021.
 
 
 ```{r, out.width="50%", fig.align='center', preview=TRUE}

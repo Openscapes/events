@@ -1,7 +1,6 @@
 ---
-title: "Openscapes Champions: Open Call Cohort"
+title: "Openscapes Champions: Spring Cohort"
 description: " Openscapes Champions Cohort for environmental and Earth science teams"
-draft: true
 author:
   - name: Openscapes
     url: {}
@@ -30,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ```{r, out.width="50%", fig.align='center', preview=TRUE}
-# knitr::include_graphics("fdd-logos.png")  
+knitr::include_graphics("2022-spring-flowers.jpg")  
 ```
 
 
@@ -47,7 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Nominate your team to participate
 
-Nominate your team by filling out this [Google Form](TODO) by April 1, 2022. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation in early April 2022. 
+Nominate your team by filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScg85USS-QwSj8xa9hwBeJfXV-u971Z9DeOUZEunIA7rUamwA/viewform?usp=sf_link) by April 1, 2022. Please submit one nomination per team, preferably by the team lead (faculty, project manager. principal investigator, etc). We will confirm participation in early April 2022. 
 
 Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [FAQs about forming your team](https://openscapes.org/faq). Questions? Contact Openscapes: openscapes at nceas.ucsb.edu
 

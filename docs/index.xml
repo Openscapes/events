@@ -7,7 +7,18 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Openscapes Champions: Spring Cohort</title>
+      <dc:creator>Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2022-05-06-spring</link>
+      <description>Openscapes Champions Cohort for environmental and Earth science teams</description>
+      <category>Champions Cohort</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2022-05-06-spring</guid>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2022-05-06-spring/2022-spring-flowers.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>NASA Openscapes Champions Cohort</title>
       <dc:creator>Openscapes and NASA</dc:creator>

@@ -20,6 +20,17 @@
       <media:content url="https://openscapes.github.io/events/posts/2022-05-06-spring/2022-spring-flowers.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
+      <title>A Qualitative Data Analysis Chat with Beth Duckles</title>
+      <dc:creator>Openscapes</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles</link>
+      <description>A casual conversation with Dr. Beth Duckles to discuss qualitative data analysis</description>
+      <category>community call</category>
+      <category>registration open</category>
+      <guid>https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles</guid>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles/duckles.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
       <title>NASA Openscapes Champions Cohort</title>
       <dc:creator>Openscapes and NASA</dc:creator>
       <link>https://openscapes.github.io/events/posts/2022-03-04-nasa</link>
@@ -83,7 +94,6 @@
       <link>https://openscapes.github.io/events/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing</link>
       <description>Abby Cabunoc Mayes and Chad Sansing lead open source programs at Mozilla, including Mozilla Open Leaders</description>
       <category>community call</category>
-      <category>event completed</category>
       <guid>https://openscapes.github.io/events/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing</guid>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/moz-movement-building.png" medium="image" type="image/png" width="1732" height="898"/>

@@ -20,6 +20,26 @@
     "input_file": {}
   },
   {
+    "path": "posts/2022-04-08-qda-beth-duckles/",
+    "title": "A Qualitative Data Analysis Chat with Beth Duckles",
+    "description": "A casual conversation with Dr. Beth Duckles to discuss qualitative data analysis",
+    "author": [
+      {
+        "name": "Openscapes",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-08",
+    "categories": [
+      "community call",
+      "registration open"
+    ],
+    "contents": "\nDate: April 8, 2022Time: 11:00-11:50am PT (UTC-7)Where: ZoomFree event, registration COMING SOON through eventbrite\n \nPlease join us for a conversation with Dr. Beth Duckles, a research\nconsultant and social scientist who helps technologists, designers and\nscientists gather and use human-centered data. We’ll discuss qualitative\ndata analysis - what it is and how it can be used for evaluation.\n\n\n\n\n\n\n",
+    "preview": "posts/2022-04-08-qda-beth-duckles/duckles.jpg",
+    "last_modified": "2022-03-21T15:36:58-07:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-03-04-nasa/",
     "title": "NASA Openscapes Champions Cohort",
     "description": "Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.",
@@ -144,12 +164,11 @@
     ],
     "date": "2021-12-09",
     "categories": [
-      "community call",
-      "event completed"
+      "community call"
     ],
-    "contents": "\nDate: December 09, 2021Time: 10:00-11:00am PT (UTC-7)Where: ZoomFree event, registration through eventbrite. Video Recording\nPlease join us for a conversation with Abby Cabunoc Mayes and Chad Sansing of Mozilla about open leadership, the Mozilla Open Leaders program, and how it was designed and iterated. We’ll discuss ideas and lessons learned from Moz OL, as well as from Openscapes, Open Life Science, Open Post Academics, and Open Hardware, and invite others to share as well!\n\n\n\nAbby Cabunoc Mayes leads Mozilla’s developer-focused trustworthy AI strategy around MozFest and open source. Abby founded Mozilla Open Leaders and works to make openness the norm research and innovation.\nChad Sansing is a program manager on the MozFest team at Mozilla. He works on facilitation, leadership, and movement-building with our internet health and trustworthy AI communities.\n\n\n\n",
+    "contents": "\nDate: December 09, 2021Time: 10:00-11:00am PT (UTC-7)Where: ZoomFree event, registration through eventbrite. Video\nRecording\nPlease join us for a conversation with Abby Cabunoc Mayes and Chad Sansing of Mozilla about\nopen leadership, the Mozilla Open Leaders program, and how it was\ndesigned and iterated. We’ll discuss ideas and lessons learned from Moz\nOL, as well as from Openscapes, Open\nLife Science, Open Post\nAcademics, and Open Hardware, and invite others to share as\nwell!\n\n\n\nAbby Cabunoc\nMayes leads Mozilla’s developer-focused trustworthy AI\nstrategy around MozFest and open source. Abby founded Mozilla Open\nLeaders and works to make openness the norm research and innovation.\nChad\nSansing is a program manager on the MozFest team at\nMozilla. He works on facilitation, leadership, and movement-building\nwith our internet health and trustworthy AI communities.\n\n\n\n",
     "preview": "posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/moz-movement-building.png",
-    "last_modified": "2021-12-09T15:19:26-08:00",
+    "last_modified": "2022-03-21T15:28:43-07:00",
     "input_file": {},
     "preview_width": 1732,
     "preview_height": 898

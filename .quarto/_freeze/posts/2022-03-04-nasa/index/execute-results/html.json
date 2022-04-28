@@ -1,0 +1,12 @@
+{
+  "hash": "61ee4b520d095bf2181913751802904d",
+  "result": {
+    "markdown": "---\ntitle: \"NASA Openscapes Champions Cohort\"\ndescription: |\n  Openscapes Champions Cohort for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud.\nauthor:\n  - name: Openscapes and NASA\n    url: {}\ndate: 2022-03-04\ncategories:\n  - Champions Cohort\n  - NASA Openscapes Framework\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\nThis is a mentorship and professional development opportunity for research teams; please see [**nasa-openscapes.github.io/champions**](https://nasa-openscapes.github.io/champions) for details.\n\n<br>\n\n::: {.cell layout-align=\"center\" preview='true'}\n::: {.cell-output-display}\n![](nasa-openscapes.png){fig-align='center' width=40%}\n:::\n:::",
+    "supporting": [],
+    "filters": [],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

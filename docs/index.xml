@@ -7,14 +7,24 @@
     <description>Events
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Openscapes Champions: NOAA SEFSC Cohort</title>
+      <dc:creator>Openscapes and SEFSC</dc:creator>
+      <link>https://openscapes.github.io/events/posts/2022-06-30-sefsc</link>
+      <description>Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS) Southeast Fisheries Science Center (SEFSC)</description>
+      <category>Champions Cohort</category>
+      <category>NOAA Fisheries</category>
+      <guid>https://openscapes.github.io/events/posts/2022-06-30-sefsc</guid>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://openscapes.github.io/events/posts/2022-06-30-sefsc/NOAA_logo.png" medium="image" type="image/png" width="857" height="355"/>
+    </item>
     <item>
       <title>A Qualitative Data Analysis Chat with Beth Duckles</title>
       <dc:creator>Openscapes</dc:creator>
       <link>https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles</link>
       <description>A casual conversation with Beth Duckles, PhD to discuss qualitative data analysis</description>
       <category>community call</category>
-      <category>registration open</category>
       <guid>https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles</guid>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       <media:content url="https://openscapes.github.io/events/posts/2022-04-08-qda-beth-duckles/duckles.jpg" medium="image" type="image/jpeg"/>

@@ -1,0 +1,34 @@
+---
+title: "Hello Quarto!"
+description: |
+  An introduction to Quarto for blah blah with Julie Lowndes and Aaron Friesz
+author:
+  - name: Openscapes
+    url: {}
+date: 06-09-2022
+categories: 
+  - community call
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Date: June 9, 2022**\
+**Time: 3:30-5:00 PT** (UTC-7)\
+**Where: Zoom**\
+**Free event, [registration through eventbrite](https://www.eventbrite.com/e/openscapes-community-call-qualitative-data-analysis-chat-with-beth-duckles-tickets-300170978477) **
+<!---[**Video Recording**]() --->
+
+Please join us for a blah blah to Quarto with Julie Lowndes, co-Director of Openscapes and Aaron Friesz, Science Coordination Lead at NASA’s Land Processes Distributed Active Archive Center (LP DAAC). In the first hour, Julie will … presentation, demo, and Q & A. For those who can stay for another 30 minutes, we’ll have informal chat and breakout rooms for blah blah
+
+This event is co-hosted by Openscapes and R-Ladies Santa Barbara.
+
+
+```{r, out.width="45%", fig.align='center', preview=TRUE}
+knitr::include_graphics("duckles.jpg")  
+```

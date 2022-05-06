@@ -9,10 +9,7 @@ date: 2021-10-14
 categories: 
   - workshop
   - NASA Openscapes Framework
-  - event completed
-output:
-  distill::distill_article:
-    self_contained: false
+image: "nasa-science.png"
 ---
 
 ```{r setup, include=FALSE}

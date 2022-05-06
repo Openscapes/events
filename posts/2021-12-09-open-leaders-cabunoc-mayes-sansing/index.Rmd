@@ -8,9 +8,7 @@ author:
 date: 12-09-2021
 categories: 
   - community call
-output:
-  distill::distill_article:
-    self_contained: false
+image: "moz-movement-building.png"
 ---
 
 

@@ -4,7 +4,7 @@ description: "Openscapes Champions Cohort for the NOAA National Marine Fisheries
 author:
   - name: Openscapes and NWFSC
     url: {}
-date: 09-17-2021
+date: 2021-09-17
 categories:
   - Champions Cohort
   - NOAA Fisheries

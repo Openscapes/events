@@ -4,7 +4,7 @@ description: " Openscapes Champions Cohort for Northeast Fishery Dependent Data 
 author:
   - name: Openscapes and FDD
     url: {}
-date: 09-17-2021
+date: 2021-09-17
 categories:
   - Champions Cohort
   - NOAA Fisheries

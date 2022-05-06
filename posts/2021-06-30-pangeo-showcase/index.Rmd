@@ -4,7 +4,7 @@ description: |
   Julie Lowndes and Erin Robinson present "Better Science for Future Us: Supporting NASA Earth science research teams’ migration to the cloud with Openscapes"
 author:
   - name: Pangeo and Openscapes 
-date: 06-30-2021
+date: 2021-06-30
 categories:
   - NASA Openscapes Framework
   - community talk

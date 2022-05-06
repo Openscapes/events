@@ -5,7 +5,7 @@ description: |
 author:
   - name: Openscapes and Mozilla
     url: {}
-date: 12-09-2021
+date: 2021-12-09
 categories: 
   - community call
 image: "moz-movement-building.png"

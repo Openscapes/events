@@ -9,10 +9,7 @@ date: 2021-12-12
 categories: 
   - workshop
   - NASA Openscapes Framework
-  - event completed
-output:
-  distill::distill_article:
-    self_contained: false
+image: "../2021-12-17-agu-open-science-in-action/agu.png"
 ---
 
 

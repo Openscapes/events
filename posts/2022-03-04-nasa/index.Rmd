@@ -9,9 +9,7 @@ date: 2022-03-04
 categories:
   - Champions Cohort
   - NASA Openscapes Framework
-output:
-  distill::distill_article:
-    self_contained: false
+image: "nasa-openscapes.png"   
 ---
 
 

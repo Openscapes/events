@@ -9,10 +9,7 @@ date: 2021-12-17
 categories: 
   - conference
   - NASA Openscapes Framework
-  - event completed
-output:
-  distill::distill_article:
-    self_contained: false
+image: "agu.png"
 ---
 
 

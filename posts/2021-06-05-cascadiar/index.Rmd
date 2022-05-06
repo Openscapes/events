@@ -8,10 +8,7 @@ author:
 date: 2021-06-05
 categories:
   - conference
-  - event completed
-output:
-  distill::distill_article:
-    self_contained: false
+image: "cascadiar_2021.png"
 ---
 
 

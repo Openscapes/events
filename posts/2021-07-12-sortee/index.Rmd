@@ -8,10 +8,7 @@ author:
 date: 2021-07-12
 categories:
   - conference
-  - event completed
-output:
-  distill::distill_article:
-    self_contained: false
+image: "sortee-logo.png"
 ---
 
 

@@ -8,11 +8,7 @@ author:
 date: 2019-01-21
 categories:
   - Champions Cohort
-output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
-    toc_depth: 3
+image: "Cohort1_zoom.png"
 ---
 
 ```{r setup, include=FALSE}

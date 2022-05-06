@@ -6,11 +6,7 @@ author:
 date: 2021-05-07
 categories:
   - Champions Cohort
-output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
-    toc_depth: 3    
+image: "COAST-white.png"  
 ---
 
 ```{r setup, include=FALSE}

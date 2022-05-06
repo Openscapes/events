@@ -8,11 +8,7 @@ author:
 date: 2021-09-09
 categories:
   - Champions Cohort
-output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
-    toc_depth: 3
+image: "gbmf-protocols.png"
 ---
 
 

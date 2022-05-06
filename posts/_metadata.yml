@@ -6,3 +6,9 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+# Add citation to every post
+# See https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/#notes-on-yaml-headers
+# Default fields for citation
+citation: true
+

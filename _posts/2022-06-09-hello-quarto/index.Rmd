@@ -1,7 +1,7 @@
 ---
 title: "Hello Quarto!"
 description: |
-  An introduction to Quarto for blah blah with Julie Lowndes and Aaron Friesz
+  A Quarto Chat with NASA Openscapes, co-hosted with RLadies Santa Barbara
 author:
   - name: Openscapes
     url: {}
@@ -13,7 +13,6 @@ output:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -21,14 +20,15 @@ knitr::opts_chunk$set(echo = FALSE)
 **Date: June 9, 2022**\
 **Time: 3:30-5:00 PT** (UTC-7)\
 **Where: Zoom**\
-**Free event, [registration through eventbrite](https://www.eventbrite.com/e/openscapes-community-call-qualitative-data-analysis-chat-with-beth-duckles-tickets-300170978477) **
-<!---[**Video Recording**]() --->
+**Free event, \[registration through eventbrite\] (TODO)** <!---[**Video Recording**]() --->
 
-Please join us for a blah blah to Quarto with Julie Lowndes, co-Director of Openscapes and Aaron Friesz, Science Coordination Lead at NASA’s Land Processes Distributed Active Archive Center (LP DAAC). In the first hour, Julie will … presentation, demo, and Q & A. For those who can stay for another 30 minutes, we’ll have informal chat and breakout rooms for blah blah
+Please join us for a chat about [Quarto](http://quarto.org/) - What is it? What does it look like? How do you use it, what can it do? How does it compare to RMarkdown? What does it mean for Python and Jupyter Notebooks? What about for open science, reproducibility, interoperability, and publishing?
 
-This event is co-hosted by Openscapes and R-Ladies Santa Barbara.
+Folks from [NASA Openscapes](https://nasa-openscapes.github.io) will share their experiences using Quarto to enable data-intensive open science on the cloud, in conversation with RLadies Santa Barbara. Following an hour of conversation, demoing, and community Q&A, we'll have another 20 minutes of informal chat and breakout rooms.
+
+This event is co-hosted by [Openscapes](https://openscapes.org) and [RLadies Santa Barbara](https://twitter.com/RLadiesSB).
 
 
 ```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("duckles.jpg")  
+knitr::include_graphics("nasa-openscapes-rladies.png")  
 ```

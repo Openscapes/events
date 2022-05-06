@@ -11,6 +11,7 @@ categories:
 output:
   distill::distill_article:
     self_contained: false
+draft: true    
 ---
 
 ```{r setup, include=FALSE}
@@ -20,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Date: June 9, 2022**\
 **Time: 3:30-5:00 PT** (UTC-7)\
 **Where: Zoom**\
-**Free event, \[registration through eventbrite\] (TODO)** <!---[**Video Recording**]() --->
+**Free event, [registration through eventbrite] (TODO)** <!---[**Video Recording**]() --->
 
 Please join us for a chat about [Quarto](http://quarto.org/) - What is it? What does it look like? How do you use it, what can it do? How does it compare to RMarkdown? What does it mean for Python and Jupyter Notebooks? What about for open science, reproducibility, interoperability, and publishing?
 

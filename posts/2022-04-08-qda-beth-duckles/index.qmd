@@ -8,13 +8,7 @@ description: |
 date: "2022-04-08"
 categories: 
   - community call
-<<<<<<< HEAD:posts/2022-04-08-qda-beth-duckles/index.qmd
 image: duckles.jpg  
-=======
-output:
-  distill::distill_article:
-    self_contained: false
->>>>>>> main:_posts/2022-04-08-qda-beth-duckles/qda-beth-duckles.Rmd
 ---
 
 

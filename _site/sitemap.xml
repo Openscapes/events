@@ -1,27 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openscapes.org/index.html</loc>
-    <lastmod>2022-05-10T19:19:18.699Z</lastmod>
+    <loc>https://openscapes.org/posts/2022-01-28-noaa-afsc/index.html</loc>
+    <lastmod>2022-05-10T19:39:34.271Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.org/posts/2022-04-08-qda-beth-duckles/index.html</loc>
-    <lastmod>2022-05-10T19:16:01.867Z</lastmod>
+    <loc>https://openscapes.org/posts/2021-12-03-ucsb-ds-summit/ucsb-ds-summit.html</loc>
+    <lastmod>2022-05-10T19:39:35.159Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.org/posts/2022-03-04-nasa/index.html</loc>
-    <lastmod>2022-05-10T18:25:17.739Z</lastmod>
+    <lastmod>2022-05-10T19:39:36.058Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.org/posts/2021-03-12-nwfsc/index.html</loc>
-    <lastmod>2022-05-10T18:29:29.707Z</lastmod>
+    <loc>https://openscapes.org/posts/2021-10-14-nasa-open-source-science-workshop/index.html</loc>
+    <lastmod>2022-05-10T19:39:36.626Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2019-01-21-inaugural/index.html</loc>
+    <lastmod>2022-05-10T19:39:37.184Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2020-02-20-noaa-nefsc/index.html</loc>
+    <lastmod>2022-05-10T19:39:37.726Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.org/posts/2021-09-17-fdd/index.html</loc>
-    <lastmod>2022-05-10T19:17:15.992Z</lastmod>
+    <lastmod>2022-05-10T19:39:38.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-10-07-FASEBDataWorks!Salon/index.html</loc>
+    <lastmod>2022-05-10T19:39:38.849Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-11-15-nasa-cloud-hackathon/index.html</loc>
+    <lastmod>2022-05-10T19:39:39.412Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-12-12-agu-enabling-analysis-in-the-cloud/index.html</loc>
+    <lastmod>2022-05-10T19:39:39.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-03-08-dr-dawn-wright-interview/dawn-wright.html</loc>
+    <lastmod>2022-05-10T19:39:40.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2022-04-08-qda-beth-duckles/index.html</loc>
+    <lastmod>2022-05-10T19:39:41.039Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-07-12-sortee/index.html</loc>
+    <lastmod>2022-05-10T19:39:42.167Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-12-17-agu-open-science-in-action/index.html</loc>
+    <lastmod>2022-05-10T19:39:42.761Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-09-30-rmarkdown-alison-hill/index.html</loc>
+    <lastmod>2022-05-10T19:39:43.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-06-04-nature-webcast/index.html</loc>
+    <lastmod>2022-05-10T19:39:43.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-05-07-css-champions/css.html</loc>
+    <lastmod>2022-05-10T19:39:44.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-06-30-pangeo-showcase/index.html</loc>
+    <lastmod>2022-05-10T19:39:44.816Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-09-09-sasi/index.html</loc>
+    <lastmod>2022-05-10T19:39:45.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-05-25-tara-robertson/tara-robertson.html</loc>
+    <lastmod>2022-05-10T19:39:45.805Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-12-08-nasem-accelerating-analysis-geographic-change/index.html</loc>
+    <lastmod>2022-05-10T19:39:46.286Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.org/posts/2021-09-17-nwfsc/index.html</loc>
-    <lastmod>2022-05-10T19:18:59.713Z</lastmod>
+    <lastmod>2022-05-10T19:39:46.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-05-07-coast-champions/coast.html</loc>
+    <lastmod>2022-05-10T19:39:47.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-03-12-nwfsc/index.html</loc>
+    <lastmod>2022-05-10T19:39:47.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/index.html</loc>
+    <lastmod>2022-05-10T19:39:48.377Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2022-01-21-esip-winter-2022/index.html</loc>
+    <lastmod>2022-05-10T19:39:48.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2022-06-30-sefsc/index.html</loc>
+    <lastmod>2022-05-10T19:39:49.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-06-05-cascadiar/index.html</loc>
+    <lastmod>2022-05-10T19:39:50.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/index.html</loc>
+    <lastmod>2022-05-10T19:39:50.860Z</lastmod>
   </url>
 </urlset>

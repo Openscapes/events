@@ -1,0 +1,16 @@
+{
+  "hash": "e053fb376cbeed4a904324a6f4ce3ed6",
+  "result": {
+    "markdown": "---\ntitle: \"Hello Quarto!\"\ndescription: |\n  A Quarto Chat with NASA Openscapes, co-hosted with RLadies Santa Barbara\nauthor:\n  - name: Openscapes\n    url: {}\ndate: 06-09-2022\ncategories: \n  - community call\noutput:\n  distill::distill_article:\n    self_contained: false\ndraft: true    \n---\n\n\n\n\n**Date: June 9, 2022**\\\n**Time: 3:30-5:00 PT** (UTC-7)\\\n**Where: Zoom**\\\n**Free event, [registration through eventbrite] (TODO)** <!---[**Video Recording**]() --->\n\nPlease join us for a chat about [Quarto](http://quarto.org/) - What is it? What does it look like? How do you use it, what can it do? How does it compare to RMarkdown? What does it mean for Python and Jupyter Notebooks? What about for open science, reproducibility, interoperability, and publishing?\n\nFolks from [NASA Openscapes](https://nasa-openscapes.github.io) will share their experiences using Quarto to enable data-intensive open science on the cloud, in conversation with RLadies Santa Barbara. Following an hour of conversation, demoing, and community Q&A, we'll have another 20 minutes of informal chat and breakout rooms.\n\nThis event is co-hosted by [Openscapes](https://openscapes.org) and [RLadies Santa Barbara](https://twitter.com/RLadiesSB).\n\n\n\n::: {.cell layout-align=\"center\" preview='true'}\n::: {.cell-output-display}\n![](nasa-openscapes-rladies.png){fig-align='center' width=45%}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

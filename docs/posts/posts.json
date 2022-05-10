@@ -1,5 +1,27 @@
 [
   {
+    "path": "posts/2022-06-30-sefsc/",
+    "title": "Openscapes Champions: NOAA SEFSC Cohort",
+    "description": "Openscapes Champions Cohort for the NOAA National Marine Fisheries Service (NMFS) Southeast Fisheries Science Center (SEFSC)",
+    "author": [
+      {
+        "name": "Openscapes and SEFSC",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-30",
+    "categories": [
+      "Champions Cohort",
+      "NOAA Fisheries"
+    ],
+    "contents": "\n\nContents\nProgram\noverview\nCohort\ndetails\n\nProgram overview\nThis is a professional development and leadership opportunity\nfor NOAA SEFSC research groups to explore open data science\npractices.\nOpenscapes is\nan approach for doing better science in less time1. We\nhelp research groups reimagine data analysis, develop modern skills that\nare of immediate value to them, and cultivate collaborative and\ninclusive research communities. Openscapes’ mentorship and community\nengagement approaches center on open data science as kinder science2, enabling increased efficiency and\nresilience for teams so that their work has more enduring impact.\nOpenscapes\nChampions is a remote-by-design mentorship program for\nenvironmental and Earth science research teams to explore open data\nscience practices. Participants attend as a team with their research\ngroup in a cohort with other teams, together learning how to reframe\ndata-intensive science as a collaborative effort. By discussing open\nsoftware tooling and communities enabling reproducible research\n(e.g. R/Python, GitHub, metadata), participants develop collaborative\nskills, mindsets, and habits and establish shared practices for\nincreased efficiency in their own research, while contributing to a more\ninclusive scientific culture.\nThis opportunity is funded and coordinated by NOAA Southeast\nFisheries Science Center (SEFSC).\nIt is the 6th cohort with NOAA Fisheries, and builds from a 2021\ncohort that had research teams across four Science Centers: Northwest,\nNortheast, Southeast, Alaska that was sponsored in part and coordinated\nby NOAA Northwest Fisheries Science Center (NWFSC).\nRelated blog posts:\nStrengthening\nscientific workflow and team collaboration at NOAA Fisheries\nA\nsupportive forum for continued learning and collaboration at NOAA\nFisheries Alaska\n\n\n\n\nCohort details\nOur NMFS Cohort will meet five times over two months, on\nalternating Thursdays.\nDates: June 30, Jul 14, 28, Aug 11, 25, 2022\nTimes: 1:00-2:30 pm ET\nWhere: remotely, via Zoom\nWho: Cohort of ~7 NOAA teams. We generally\nrecommend teams of 5, although team size, composition, and extent of\nshared projects can vary. There are no technical requirements to\nparticipate; we expect teams to have a range of skills and\nresponsibilities and an interest in improving shared workflows.\nExpected time commitment: The minimum expected time\ncommitment is 6hrs/month for 2 months. This includes 3 hours/month over\nZoom as a full Champions Cohort, as well as teams meeting independently\nto further discuss topics between Cohort Calls.\nLearn more about the Openscapes Champions Program\nand FAQs about forming your\nteam. Questions? Contact Openscapes: openscapes at\nnceas.ucsb.edu\nnature.com/articles/s41559-017-0160↩︎\nblogs.scientificamerican.com/observations/open-software-means-kinder-science\n\n↩︎\n",
+    "preview": "posts/2022-06-30-sefsc/NOAA_logo.png",
+    "last_modified": "2022-05-06T15:47:53-07:00",
+    "input_file": {},
+    "preview_width": 857,
+    "preview_height": 355
+  },
+  {
     "path": "posts/2022-04-08-qda-beth-duckles/",
     "title": "A Qualitative Data Analysis Chat with Beth Duckles",
     "description": "A casual conversation with Beth Duckles, PhD to discuss qualitative data analysis",
@@ -11,12 +33,11 @@
     ],
     "date": "2022-04-08",
     "categories": [
-      "community call",
-      "registration open"
+      "community call"
     ],
     "contents": "\nDate: April 8, 2022Time: 11:00-11:50am PT (UTC-7)Where: ZoomFree event, registration\nthrough eventbrite  \nPlease join us for a conversation with Beth Duckles, PhD, a research\nconsultant and social scientist who helps technologists, designers and\nscientists gather and use human-centered data. We’ll discuss qualitative\ndata analysis - what it is and how it can be used for evaluation.\n\n\n\n\n\n\n",
     "preview": "posts/2022-04-08-qda-beth-duckles/duckles.jpg",
-    "last_modified": "2022-03-21T16:13:21-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {}
   },
   {
@@ -36,7 +57,7 @@
     ],
     "contents": "\nThis is a mentorship and professional development opportunity for\nresearch teams; please see nasa-openscapes.github.io/champions\nfor details.\n\n\n\n\n\n\n\n",
     "preview": "posts/2022-03-04-nasa/nasa-openscapes.png",
-    "last_modified": "2022-02-10T11:11:09-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 894,
     "preview_height": 478
@@ -58,7 +79,7 @@
     ],
     "contents": "\nThis is a mentorship and professional development opportunity for\nresearch teams; please see openscapes.github.io/2022-noaa-afsc\nfor details.\n\n\n\n\n\n\n\n",
     "preview": "posts/2022-01-28-noaa-afsc/NOAA_logo.png",
-    "last_modified": "2022-03-06T20:16:23-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 857,
     "preview_height": 355
@@ -81,7 +102,7 @@
     ],
     "contents": "\nThis session will bring together a diverse set of leaders across the\nU.S. government to highlight open science contributions that support\ndata generation to data use and understanding and to identify a common\nagenda that the collective is moving forward. We aim to support open\npractices and community building that accelerate data-driven solutions\nand increase diversity, equity, inclusion, and belonging in science.\nResearchers and researcher support staff from NOAA Fisheries, California\nEPA, and NASA Openscapes (LP DAAC, NSIDC) will share vignettes about\nopen science in government and how we can support and connect open\nscience work sna strengthen channels for inter- and cross-agency\nlearning as we prepare for the Year of Open Science 2023.\nhttps://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science\n\n\n\n\n\n\n",
     "preview": "posts/2022-01-21-esip-winter-2022/esip-logo.png",
-    "last_modified": "2022-02-10T11:11:17-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 2400,
     "preview_height": 1246
@@ -104,7 +125,7 @@
     ],
     "contents": "\nWe will be presenting an invited paper “Open Project Design: Lessons from the NASA Openscapes Framework” virtually at the 2021 American Geophysical Union (AGU) annual conference, in a session “Open Science In Action” convened by Dr. Chelle Gentemann and colleagues.\nLearn more and register: https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122142\n\n\n\nAbstract\nOpen source software is about more than code: it’s about welcoming a broadening audience to a shared vision and planning for sustainability. We’ll cover considerations for open project design focused on inclusion, community building, web presence, and technology choices, sharing strategies from the NASA Openscapes Framework as an example. The NASA Openscapes Framework (https://nasa-openscapes.github.io) is supporting scientific researchers using NASA Earthdata from Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud. Through the Openscapes approach, which builds on collaborative open design and software from open source communities, including Mozilla, RStudio, The Carpentries, and Pangeo, we are currently working with a cross-DAAC mentor community to co-create learning resources and strengthen empathy-centered teaching practices to empower research teams through this migration to the cloud. We are focusing on building community across teams through identifying common goals and developing shared processes while also developing technical skills for contributing, review, and teaching. This session will explore open project design and lessons learned thus far through the NASA Openscapes Framework while also providing practical strategies for participants.\n\n\n\n",
     "preview": "posts/2021-12-17-agu-open-science-in-action/agu.png",
-    "last_modified": "2022-01-20T10:38:09-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 381,
     "preview_height": 132
@@ -127,7 +148,7 @@
     ],
     "contents": "\nEnabling Analysis in the Cloud Using NASA Earth Science Data, co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center (PO.DAAC), National Snow and Ice Data Center DAAC (NSIDC DAAC), Land Processes Distributed Active Archive Center (LP.DAAC), ASDC DAAC, GES DISC, IMPACT and NASA Openscapes.\nLearn more and register: https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/124026.\n\n\n\nAbstract:\nIn this workshop, representatives from NASA’s ESDS and EOSDIS DAACs (data centers) will provide an overview of the ESDS cloud vision, discuss what this means for data users, and guide participants through demonstrations highlighting data discovery, accessibility, and usability on and off the cloud. These demonstrations will include science and applications user stories, and will highlight example workflows from the atmosphere, ocean, hydrology, cryosphere, and land disciplines. In addition, the workshop will highlight ESDS efforts in the fields of artificial intelligence (AI) and machine learning (ML) and show how these techniques in novel applications can be applied to EOSDIS data. Participants will leave having a better understanding of how NASA Earthdata Cloud data and services can best be leveraged and integrated within their work across a variety of disciplines and data types.\nCome learn about ESDS’s strategic vision to develop and operate multiple components of EOSDIS in a commercial cloud environment and to support data users as they transition to cloud computing.\n\n\n\n",
     "preview": "posts/2021-12-12-agu-enabling-analysis-in-the-cloud/../2021-12-17-agu-open-science-in-action/agu.png",
-    "last_modified": "2021-12-14T08:48:59-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 381,
     "preview_height": 132
@@ -148,7 +169,7 @@
     ],
     "contents": "\nDate: December 09, 2021Time: 10:00-11:00am PT (UTC-7)Where: ZoomFree event, registration through eventbrite. Video\nRecording\nPlease join us for a conversation with Abby Cabunoc Mayes and Chad Sansing of Mozilla about\nopen leadership, the Mozilla Open Leaders program, and how it was\ndesigned and iterated. We’ll discuss ideas and lessons learned from Moz\nOL, as well as from Openscapes, Open\nLife Science, Open Post\nAcademics, and Open Hardware, and invite others to share as\nwell!\n\n\n\nAbby Cabunoc\nMayes leads Mozilla’s developer-focused trustworthy AI\nstrategy around MozFest and open source. Abby founded Mozilla Open\nLeaders and works to make openness the norm research and innovation.\nChad\nSansing is a program manager on the MozFest team at\nMozilla. He works on facilitation, leadership, and movement-building\nwith our internet health and trustworthy AI communities.\n\n\n\n",
     "preview": "posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/moz-movement-building.png",
-    "last_modified": "2022-03-21T15:28:43-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 1732,
     "preview_height": 898
@@ -170,7 +191,7 @@
     ],
     "contents": "\nDate: December 08, 2021\nWe will be presenting about the NASA Openscapes framework at NASEM’s\nmeeting co-hosted by the Mapping Sciences Committee and the Geographical\nSciences Committee. For full information, agenda, and registration,\nplease see the NASEM\nmeeting webpage.\n\n\n\nExcerpt from the NASEM meeting webpage:\n\nIn this meeting, we will discuss ways to approach and leverage novel\ngeospatial data, analytics and platforms to understand and assess rapid\nand profound geographic change. We will discuss the geospatial data\nscience, infrastructure and resource challenges, focusing on human\ndisplacement, movement and migration due to sudden and dramatic physical\nand human events.\n\n\n\n\n",
     "preview": "posts/2021-12-08-nasem-accelerating-analysis-geographic-change/nasem-geo-meeting.jpg",
-    "last_modified": "2022-03-06T20:39:53-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {}
   },
   {
@@ -190,7 +211,7 @@
     ],
     "contents": "\nDate: December 3, 2021UCSB Data Science Summit website: https://datascience.ucsb.edu/summit21\nWe will be presenting a keynote “Openscapes: Better Science for Future Us” at the 2021 inaugural UCSB Data Science Summit and are excited to learn more with/from the UCSB community!\n\n\n\nFrom the event website:\nThe Data Science Landscape at UCSB: How do you fit in? Where do we go next?\nData driven science is ubiquitous at the University of California, Santa Barbara (UCSB), but data science efforts on campus remain largely siloed, leaving many on campus wondering “How do I fit in?” Find out where you fit among the data science practitioners, researchers, and educators from across campus. This summit will identify strategies for facilitating an interdisciplinary, collaborative future for data science at UCSB.\n\n\n\n",
     "preview": "posts/2021-12-03-ucsb-ds-summit/ucsb-logo.jpg",
-    "last_modified": "2021-12-03T22:25:20-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {}
   },
   {
@@ -211,7 +232,7 @@
     ],
     "contents": "\nCloud Hackathon: Transitioning Earthdata Workflows to the Cloud, co-hosted by the NASA EOSDIS Physical Oceanography Distributed Active Archive Center (PO.DAAC), National Snow and Ice Data Center DAAC (NSIDC DAAC), Land Processes Distributed Active Archive Center (LP.DAAC), with support provided by ASDC DAAC, GES DISC, IMPACT and NASA Openscapes.\nBlog summaries:\nhttps://earthdata.nasa.gov/learn/articles/2021-cloud-hackathon\nhttps://podaac.jpl.nasa.gov/announcements/2021-12-15-The-2021-Cloud-Hackathon\n\n\n\nThe Cloud Hackathon will take place virtually from November 15-19, 2021.\nPlease see https://nasa-openscapes.github.io/2021-Cloud-Hackathon/ for all details.\n\n\n\n\n\n",
     "preview": "https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png",
-    "last_modified": "2021-12-16T10:53:11-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {}
   },
   {
@@ -232,7 +253,7 @@
     ],
     "contents": "\nDate: October 14, 2021Time: 12:00pm - 3:00pm ETWhere: onlineJoin us: Free event - sign up through NASA’s Workshop Page\nPlease join us for NASA’s Open Source Science for Data Processing and Archives Workshop on October 14 to learn about NASA’s Open Science initiatives, including the Open Source Science Initiative (OSSI) and Transform to Open Science (TOPS). We’re excited be presenting about Openscapes and the NASA-Openscapes Framework!\n\n\n\n\n\nFrom NASA’s Workshop Page:\n\nOpen science is a foundational objective of NASA’s Science Mission Directorate (SMD). Open science is an evolving paradigm that seeks to foster greater inclusivity, diversity, and participation in the scientific process while increasing transparency and reproducibility. In December of 2019, SMD released the Strategy for Data Management and Computing for Groundbreaking Science 2019-2024, which was partially based on the feedback from the 2018 data archives meeting. This strategy aims to enable transformational open science through continuous evolution of science data and computing systems for NASA’s Science Mission Directorate. We want to take this opportunity to update the community on the progress of that Strategy as well to engage with you on the next steps of the implementation of the strategy.\n\n\n\n\n",
     "preview": "posts/2021-10-14-nasa-open-source-science-workshop/nasa-science.png",
-    "last_modified": "2021-10-18T19:34:57-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 466,
     "preview_height": 164
@@ -254,7 +275,7 @@
     ],
     "contents": "\n\nDate: October 7, 2021Time: 10:00am PT (UTC-7)Where: ZoomJoin us: Free event - sign up through Zoom\nPlease join us for the inaugural FASEB DataWorks! Data Salon. It will be an interactive event highlighting our partnership with the Federation for American Societies of Experimental Biology (FASEB). We are sharing the Openscapes Mindset and participants will explore strategies to instill data-sharing practices within a research team, with the discussion informing the FASEB DataWorks! Fellows program.\n\n\n\nFASEB DataWorks! is an intentionally open and collaborative approach to promoting culture change in the biological and biomedical sciences through conversation spaces, training, peer support, and prizes. Their goal is to transform the way research is performed and recognized.\n\n\n\n",
     "preview": "posts/2021-10-07-FASEBDataWorks!Salon/faseb.png",
-    "last_modified": "2021-11-01T12:08:35-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 809,
     "preview_height": 448
@@ -276,7 +297,7 @@
     ],
     "contents": "\nView event summary and videoDate: September 30, 2021Time: 12:00pm PT (UTC-7)Where: ZoomFree event.\nPlease join us for a conversation with Dr. Alison Hill (@apreshill) about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We’ll invite others to share their R Markdown stories and questions, whether you are curious about using R Markdown for research or have examples of how you’re already using it.\n\n\n\nDr. Alison Hill is a data scientist, behavioral scientist, and award-winning educator. She works on products that make it easier and more delightful for data scientists to communicate. She is also a co-developer of the palmerpenguins, distill, and blogdown R packages, as well an author and international keynote speaker.\n\n\n\n",
     "preview": "posts/2021-09-30-rmarkdown-alison-hill/apreshill.jpg",
-    "last_modified": "2021-10-04T14:49:22-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {}
   },
   {
@@ -296,7 +317,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram overview\nCohort details\nNominate your team to\nparticipate\n\nCohort Summary\nSponsored through NOAA Fisheries Northeast Fisheries Science Center\n(NEFSC)\nand a grant from the Fisheries\nInformation System Program through an award to UMass Dartmouth-SMAST through\nCINAR.\nWebsite and participating teams:\nhttps://openscapes.github.io/2021-fdd/\nRelated blog posts:\nIdentifying\ncommon approaches and needs for fisheries dependent data\nProgram overview\nThis is a professional development and leadership opportunity\nfor FDD research groups to explore open data science\npractices.\nOpenscapes is\nan approach for doing better science in less time1. We\nhelp research groups reimagine data analysis, develop modern skills that\nare of immediate value to them, and cultivate collaborative and\ninclusive research communities. Openscapes’ mentorship and community\nengagement approaches center on open data science as kinder science2, enabling increased efficiency and\nresilience for teams so that their work has more enduring impact.\nOpenscapes\nChampions is a remote-by-design mentorship program for\nenvironmental and Earth science research teams to explore open data\nscience practices. Participants attend as a team with their research\ngroup in a cohort with other teams, together learning how to reframe\ndata-intensive science as a collaborative effort. By discussing open\nsoftware tooling and communities enabling reproducible research\n(e.g. R/Python, GitHub, metadata), participants develop collaborative\nskills, mindsets, and habits and establish shared practices for\nincreased efficiency in their own research, while contributing to a more\ninclusive scientific culture.\nFishery Dependent Data (FDD) represent a complex mix\nof information collected to facilitate managing the region’s living\nmarine resources. In the Northeast, data flow from individual businesses\nand/or scientific samplers to the region’s scientific and management\norganizations. This web of information can be difficult to access as\nmuch of the content is confidential in its raw form. Further, many of\nthe codes and systems used to store these data are poorly documented,\nand even routine analyses are not commonly shared among data users.\nCurrently, FDD are therefore difficult to integrate into scientific\nadvice for ecosystem based fisheries management. Analysts tend to be\nunfamiliar with the data or hesitant to explore their potential, and\ndata can be viewed with skepticism rather than leveraged in new and\ninnovative ways. There is a need to begin to provide access,\ndocumentation, and cultivate a community of practice that focuses on\nusing these data to their full potential.\nThis opportunity is funded through NOAA Fisheries Northeast\nFisheries Science Center (NEFSC)\nand a grant from the Fisheries\nInformation System Program through an award to UMass Dartmouth-SMAST through\nCINAR. It is coordinated by\nGavin Fay (UMassD-SMAST), Andy Jones (NOAA NEFSC), and Rachel Baum\n(UMassD Claire T. Carney Library).\n\n\n\nCohort details\nOur FDD Cohort will meet four times over two months, on\nalternating Fridays.\nDates: Sep 17, Oct 1, Oct 15, Oct 29, 2021\nTimes: 12:00-1:30 pm EDT\nWhere: remotely, via Zoom\nWho: Cohort of 7 FDD user teams (or research\ngroups). Each team consists of a team lead (PI, project supervisor, or\nfaculty, etc) and up to 4 team members of your choice (analysts,\ntechnicians, students, postdocs, etc).\nCost: Free; this opportunity is sponsored by FDD\nthrough an award to UMass\nDartmouth-SMAST through CINAR.\nExpected time commitment: The minimum expected time\ncommitment is 6hrs/month for 2 months. This includes 3 hours/month over\nZoom as a full Champions Cohort, as well as teams meeting independently\nto further discuss topics between Cohort Calls.\nNominate your team to\nparticipate\nNominate your team by filling out this Google\nForm by August 20, 2021. This opportunity is open to those\naffiliated with teams using FDD in the Northeast US. Please submit one\nnomination per team, preferably by the team lead (faculty, project\nmanager. principal investigator, etc). We will confirm participation by\nlate August 2021.\nLearn more about the Openscapes Champions Program\nand FAQs about forming your\nteam. Questions? Contact Openscapes: openscapes at\nnceas.ucsb.edu\nnature.com/articles/s41559-017-0160↩︎\nblogs.scientificamerican.com/observations/open-software-means-kinder-science\n\n↩︎\n",
     "preview": "posts/2021-09-17-fdd/fdd-logos.png",
-    "last_modified": "2022-03-06T20:46:31-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 1262,
     "preview_height": 758
@@ -318,7 +339,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram overview\nCohort details\nNominate your team to\nparticipate\n\nCohort Summary\nThis Cohort had research teams across four NOAA Fisheries Science\nCenters: Northwest, Northeast, Southeast, Alaska. Sponsored in part and\ncoordinated by NOAA Northwest Fisheries Science Center (NWFSC).\nWebsite and participating teams:\nhttps://openscapes.github.io/2021-noaa-nmfs\nRelated blog posts:\nStrengthening\nscientific workflow and team collaboration at NOAA Fisheries\nProgram overview\nThis is a professional development and leadership opportunity\nfor NOAA research groups to explore open data science\npractices.\nOpenscapes is\nan approach for doing better science in less time1. We\nhelp research groups reimagine data analysis, develop modern skills that\nare of immediate value to them, and cultivate collaborative and\ninclusive research communities. Openscapes’ mentorship and community\nengagement approaches center on open data science as kinder science2, enabling increased efficiency and\nresilience for teams so that their work has more enduring impact.\nOpenscapes\nChampions is a remote-by-design mentorship program for\nenvironmental and Earth science research teams to explore open data\nscience practices. Participants attend as a team with their research\ngroup in a cohort with other teams, together learning how to reframe\ndata-intensive science as a collaborative effort. By discussing open\nsoftware tooling and communities enabling reproducible research\n(e.g. R/Python, GitHub, metadata), participants develop collaborative\nskills, mindsets, and habits and establish shared practices for\nincreased efficiency in their own research, while contributing to a more\ninclusive scientific culture.\nThis opportunity is funded in part and coordinated by NOAA\nNorthwest Fisheries Science Center (NWFSC).\n\n\n\n\nCohort details\nOur NMFS Cohort will meet four times over two months, on\nalternating Fridays.\nDates: Sep 17, Oct 1, Oct 15, Oct 29, 2021\nTimes: 11:00-12:30 pm PST\nWhere: remotely, via Zoom\nWho: Cohort of 7 NOAA research groups. Each team\nconsists of a team lead (PI, project lead, etc) and up to 4 team members\nof your choice (analysts, technicians, students, postdocs, etc).\nCost: This opportunity is sponsored by NWFSC and\nother NOAA offices.\nExpected time commitment: The minimum expected time\ncommitment is 6hrs/month for 2 months. This includes 3 hours/month over\nZoom as a full Champions Cohort, as well as teams meeting independently\nto further discuss topics between Cohort Calls.\nNominate your team to\nparticipate\nNominate your team by filling out this Google Form by August 20,\n2021. This opportunity is open only to those affiliated with NOAA NMFS.\nPlease submit one nomination per team, preferably by the team lead (PI,\nproject lead, etc). We will confirm participation by late August\n2021.\nLearn more about the Openscapes Champions Program\nand FAQs about forming your\nteam. Questions? Contact Openscapes: openscapes at\nnceas.ucsb.edu\nnature.com/articles/s41559-017-0160↩︎\nblogs.scientificamerican.com/observations/open-software-means-kinder-science\n\n↩︎\n",
     "preview": "posts/2021-09-17-nwfsc/NOAA_logo.png",
-    "last_modified": "2022-03-06T20:09:41-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 857,
     "preview_height": 355
@@ -339,7 +360,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram Overview\n\nCohort Summary\nThis is a Cohort for the Symbiosis in Aquatic Systems Initiative (SASI),\nfunded by the Gordon and Betty Moore\nFoundation. We are co-leading with protocols.io.\nWebsite and participating teams:\nhttps://openscapes.github.io/2021-sasi\nProgram Overview\nLearn more about Openscapes and the Champions Program: https://openscapes.org.\n\n\n\n\n\n\n",
     "preview": "posts/2021-09-09-sasi/gbmf-protocols.png",
-    "last_modified": "2022-03-10T05:13:09-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 726,
     "preview_height": 426
@@ -361,7 +382,7 @@
     ],
     "contents": "\nSlides and recording Date: July 12, 2021SORTEE website: sortee.org/events\nSORTEE is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Julie Lowndes is presenting a keynote talk on July 12 at the inaugural conference and is proud to be a part of this community.\n\n\n\n\n\n\n",
     "preview": "posts/2021-07-12-sortee/sortee-logo.png",
-    "last_modified": "2021-10-04T14:47:55-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 1063,
     "preview_height": 385
@@ -383,7 +404,7 @@
     ],
     "contents": "\nDate: June 30, 2021Time: 9am PST (UTC-8)Where: on Zoom at Pangeo ShowcaseJoin us: (https://pangeo.io/pangeo-showcase.html)Slides\nPlease join us for our presentation about the NASA Openscapes Framework at the Pangeo Showcase. The Pangeo Showcase Webinar Series is part of the Pangeo Weekly Community Meeting. See the Meeting Schedule and Notes for more information on Pangeo community meetings.\n\n\n\n\n\n\n",
     "preview": "posts/2021-06-30-pangeo-showcase/images/pangeologo.png",
-    "last_modified": "2021-11-01T12:08:17-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 385,
     "preview_height": 63
@@ -405,7 +426,7 @@
     ],
     "contents": "\nDate: June 5, 2021CascadiaR website: cascadiarconf.comRegister: CascadiaR Eventbrite\nCascadiaR Conference is a regional R conference for the Pacific Northwest on June 4-5 2021. Julie Lowndes and Allison Horst will be co-presenting a keynote talk on June 5. There is a great lineup of speakers and we are excited to be a part of it!\nSlides available at openscapes.org/media.\n\n\n\nTitle: Open science as a movement and the art of Openscapes\nAbstract: The open science movement is “a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding” (Ramachandran et al 2021). We’ve felt included in this movement through the #rstats community, and argue that data science is a powerful entryway to welcome researchers to open science – one that transforms open science from an aspirational idea to a tangible daily benefit for efficiency, reproducibility, and collaboration. We will share how Openscapes is helping to onboard more research teams to the open science movement, in part through artwork to represent and develop ideas to make open science more inclusive and kind.\nJulia Stewart Lowndes @juliesquid is a marine data scientist and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS). As founding director of Openscapes (created during her Mozilla Fellowship) she champions kinder, better science in less time and empowers science teams with skillsets and mindsets for open, reproducible research. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. She is a Carpentries instructor and co-founder of Eco-Data-Science and R-Ladies Santa Barbara.\nAllison Horst @allison_horst is an Assistant Teaching Professor at the Bren School of Environmental Science and Management at UC Santa Barbara, where she has been teaching environmental data science, math and data analysis courses since 2012. Through her artwork, Allison illustrates data science concepts, R packages and functions, workflows and mindsets to welcome and support R learners, and was RStudio’s Artist-in-Residence from 2019 - 2020. She co-founded and is an active member of the UCSB TidyTuesday coding club and R-Ladies Santa Barbara. She has also created all artwork for Openscapes and was a mentee in the inaugural Champions Cohort!\n\n\n\n",
     "preview": "posts/2021-06-05-cascadiar/cascadiar_2021.png",
-    "last_modified": "2021-10-04T14:48:13-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 758,
     "preview_height": 524
@@ -426,7 +447,7 @@
     ],
     "contents": "\nDate: June 4, 2021Time: 7am PT / 10am EDT / 3pm BST / 4pm CESTRegister: nature.com/webcasts\n“This introductory webcast, from Nature Careers, will aim to help\nattendees who are interested in learning computer programming, but\naren’t sure where to start. Speakers will share tips and advice from\ntheir own careers, as well as advice to find more resources.”\nJulie Lowndes will be sharing her experience and motivation for\nOpenscapes alongside Jeff Perkel (Springer Nature) and JooYoung Seo\n(Penn State University and upcoming prof at the Illinois iSchool).\n\n\n\n\n\n\n",
     "preview": "posts/2021-06-04-nature-webcast/nature-webcast.png",
-    "last_modified": "2022-03-06T20:38:30-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 848,
     "preview_height": 236
@@ -448,7 +469,7 @@
     ],
     "contents": "\n\nView event summary & videoDate: May 25, 2021Time: 10:00am PST (UTC-7)Where: ZoomJoin us: Sign up on Eventbrite\nPlease join us for a conversation with Tara Robertson (@tararobertson) about working with Openscapes to improve approaches promoting diversity, equity, and inclusion in open data science.\nThis event is supported through the Code for Science & Society funding we received, which explicitly supports events that promote inclusion and broaden participation in open data science that drives scholarship, Erin and Julie, Openscapes co-directors, engaged Tara Robertson, a diversity, equity, and inclusion consultant, as a thought partner and teacher for us as we continue to prioritize and improve approaches to promote diversity, equity and inclusion in Openscapes.\nIn this conversation, we will reflect on what we’ve done together like creating an Openscapes lesson on psychological safety, and our lessons learned (spoiler: it’s never perfect or done).\n\n\n\nTara Robertson is a diversity, equity, and inclusion consultant working with leaders to make companies make inclusive and innovative products and services that the world needs. Tara is an intersectional feminist who uses data and research to advocate for equality and inclusion. She bring over 12 years experience leading change in open source technology communities, including 3 years leading Diversity and Inclusion at Mozilla.\n\n\n\n",
     "preview": "posts/2021-05-25-tara-robertson/tara-robertson.png",
-    "last_modified": "2021-10-04T14:45:08-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 3272,
     "preview_height": 2232
@@ -469,7 +490,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram Overview\n\nCohort Summary\nSponsored by The\nCalifornia State University Council on Ocean Affairs, Science &\nTechnology (CSU-COAST)\nParticipating teams:\nSan Francisco State University (SFSU) — Karina Nielsen’s Coastal\nEcosystems research group\nCal Poly San Luis Obispo (Cal Poly SLO) — Ben Ruttenberg’s research\ngroup\nCal Poly Pomona (CPP) — Jeremy Claisse’s research group\nCalifornia State University Monterey Bay (CSUMB) — Alison Haupt’s\nresearch group\nCalifornia State University Monterey Bay (CSUMB) — Cheryl Logan’s\nresearch group\nCalifornia State University Northridge (CSUN) — Nyssa Silbiger\nresearch group\nCalifornia State University Northridge (CSUN) — Kerry Nickol’s\nresearch group\nRelated blog posts:\nOur\nOpenscapes Cohort: CSU-COAST\nOur\nSupercharge Experience: The Logan Lab\nProgram Overview\nThis is a professional development and leadership opportunity\nfor CSU\nCOAST-affiliated research groups to explore open data science\npractices.\nOpenscapes\nhelps research groups reimagine data analysis, develop modern skills\nthat are of immediate value to them, and cultivate collaborative and\ninclusive research communities. This opportunity is funded by\nThe California State University Council on Ocean Affairs,\nScience & Technology (COAST),\nwhich supports marine and coastal research by CSU faculty members and\nstudents.\nOpenscapes Champions is a cohort-based mentorship\nprogram that empowers science teams with open data science tools and\ngrows the community of practice in the research group, institution, and\nbeyond. This two-month remote program will help you establish shared,\nreproducible practices for data analysis that help make your research\ngroup more efficient and inclusive. You will participate with others\nfrom your research group as a team, as a cohort with your peers.\nTogether, you will learn how to reframe data analysis as a collaborative\neffort rather than an individual burden, through exploring open data\nscience tools and community practices (e.g. R/RStudio, GitHub). For more\ninformation and guidance about selecting your team, please visit openscapes.org/champions.\nCohort Overview: We will meet four times over two\nmonths, on alternating Fridays in 2021.\nDates: May 7, May 21, June 4, June 18\nTimes: 12:00-1:30pm PST\nWhere: remotely, via Zoom\nWho: Cohort of 7 CSU COAST research teams. Each\nteam consists of a team lead (faculty or PI) and up to 4 team members of\nyour choice (graduate students, undergraduates, technicians, etc).\nCost: Free; this opportunity is sponsored by\nCOAST\nExpected time commitment: In addition to 3\nhours/month over Zoom as a full Champions Cohort, teams will meet to\nshare and practice concepts with their full research group. The total\nexpected time commitment is 5hrs/month over two months.\nNominate your team to participate\nNominate your team by filling out this Google\nForm by March 26, 2021. This opportunity is open only to those\naffiliated with CSU COAST. Please submit one nomination per team,\npreferably by the team lead (faculty or principal investigator). We will\nconfirm participation by early April 2021.\n\n\n\n\nThis opportunity is funded by CSU\nCOAST. \n\n\n\n",
     "preview": "posts/2021-05-07-coast-champions/COAST-white.png",
-    "last_modified": "2022-03-06T20:21:30-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 580,
     "preview_height": 354
@@ -490,7 +511,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram Overview\nCohort Details\nNominate your team to\nparticipate\n\n\nCohort Summary\nSponsored by Code for\nScience and Society (CS&S)\nParticipating teams:\nUniversity of California Davis — Kiva Oken’s research group\nKenai Watershed Forum — Benjamin Meyer, Maura Schumacher, and Galen\nHecht\nEnvironment and Climate Change Canada — Martin Jean and Alexandra\nAudet\nUniversity of South Florida — Nancy Williams’ research group\nTribes and the Exchange Network — Lydia Scheer, Angie Reed, Lisa\nGover, Melinda Ronca-Battista, and Natasha Fulton\nUniversity of Washington — Jacqueline Padilla-Gamino’s research\ngroup\nUniversity of North Carolina Chapel Hill — Janet Nye’s research\ngroup\nUniversity of British Columbia — Cole Burton’s research group\nRelated blog posts:\nCS&S\nChampions Cohort Takeaways: Seaside Chats, data access, resilient\nteams\nProgram Overview\nThis is a professional development and leadership opportunity\nfor environmental research groups to explore open data science\npractices.\nOpenscapes is\nan approach for doing better science in less time. We help research\ngroups reimagine data analysis, develop modern skills that are of\nimmediate value to them, and cultivate collaborative and inclusive\nresearch communities. This opportunity is funded by Code for Science\nand Society (CS&S), whose event fund supports events\nthat promote inclusion and broaden participation in open data science\nthat drives scholarship.\nOpenscapes Champions is a remote-by-design,\ncohort-based mentorship program that guides teams through the open data\nscience landscape, empowers them as leaders, and welcomes them as part\nof the growing open community. This two-month remote program will help\nyou establish shared, reproducible practices for data analysis that help\nmake your research group more efficient and inclusive. You will\nparticipate with others from your research group as a team, as a cohort\nwith your peers. Together, you will learn how to reframe data analysis\nas a collaborative effort rather than an individual burden, through\nexploring open data science tools and community practices\n(e.g. R/RStudio, GitHub). For more information and guidance about\nselecting your team, please visit openscapes.org/champions.\nCohort Details\nWe will meet four times over two months, on alternating Fridays in\n2021.\nDates: May 7, May 21, June 4, June 18\nTimes: 9:30-11:00am PST\nWhere: remotely, via Zoom\nWho: Cohort of 7 environmental research teams. Each\nteam consists of a team lead (faculty, lecturer, program manager, etc)\nand up to 4 team members of your choice (students, researchers,\nanalysts, etc).\nCost: Free; this opportunity is sponsored by\nCS&S\nExpected time commitment: In addition to 3\nhours/month over Zoom as a full Champions Cohort, participants will meet\nindependently to further discuss topics with their research group. The\ntotal expected time commitment is 5hrs/month for 2 months.\nNominate your team to\nparticipate\nNominate your team by filling out this Google\nForm by March 26, 2021. Please submit one nomination per team,\npreferably by the team lead (faculty, project manager. principal\ninvestigator, etc). We will confirm participation by early April\n2021.\n\n\n\nThis opportunity is funded by Code for Science and\nSociety (CS&S). \n\n\n\n",
     "preview": "posts/2021-05-07-css-champions/css-white.png",
-    "last_modified": "2022-03-06T20:17:04-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 1118,
     "preview_height": 580
@@ -512,7 +533,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram Overview\n\nCohort Summary\nSponsored by NOAA NWFSC, coordinated by Eric Ward and Mary\nHunsicker\n(National Oceanic and Atmospheric Administration Northwest Fisheries\nScience Center)\nRelated blog posts:\nNOAA\nNWFSC Openscapes Champions Cohort\nParticipating teams:\nConservation Biology division\nEnvironmental and Fisheries Science division\nFish Ecology division\nFishery Resource Analysis and Monitoring division\nProgram Overview\nThis is a professional development and leadership opportunity\nfor NWFSC researchers to explore open data science\npractices.\nOpenscapes\nChampions is a remote-by-design mentorship program for\nenvironmental and Earth science research teams to explore open data\nscience practices. Participants attend as a team with their research\ngroup in a cohort with other teams, together learning how to reframe\ndata-intensive science as a collaborative effort. By discussing open\nsoftware tooling and communities enabling reproducible research\n(e.g. R/Python, GitHub, metadata), participants develop collaborative\nskills, mindsets, and habits and establish shared practices for\nincreased efficiency in their own research, while contributing to a more\ninclusive scientific culture.\nThis opportunity is funded and coordinated by NOAA Northwest\nFisheries Science Center (NWFSC).\n\n\n\n\n\n\n",
     "preview": "posts/2021-03-12-nwfsc/NOAA_logo.png",
-    "last_modified": "2022-03-06T20:36:42-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 857,
     "preview_height": 355
@@ -534,7 +555,7 @@
     ],
     "contents": "\nView event summaryDate: March 8, 2021Time: 10:15am PST (UTC-8)Where: on Zoom at MozFest, Mozilla’s Internet FestivalJoin us: registration required (space is limited!)\nPlease join us for a conversation with Dr. Dawn Wright (@DeepSeaDawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change.\n\n\n\n\n\nDr. Wright is American geographer and oceanographer (Wikipedia). She is Chief Scientist at ESRI (the Environmental Systems Research Institute).\nDr. Wright is a role model to many in science, including us. We are so excited about this conversation, which will also launch Openscapes Community Calls. If you have questions you’d like to ask Dawn, please share them on Twitter by tagging @openscapes.\n\n\n\n",
     "preview": "posts/2021-03-08-dr-dawn-wright-interview/dr-dawn-wright.jpg",
-    "last_modified": "2021-10-04T14:48:58-07:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {}
   },
   {
@@ -554,7 +575,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram Overview\n\nCohort Summary\nSponsored by NOAA, coordinated by Scott Large and Gavin Fay\n(National Oceanic and Atmospheric Administration Northeast Fisheries\nScience Center)\nRelated blog posts:\nOur\nfirst Openscapes workshop\nOur\nOpenscapes experience: the Fay Lab\nParticipating teams:\nEcosystem Dynamics and Assessment group\nPopulation Dynamics team\nProtected Species Branch\nSocial Science Branch\nFay Lab, University of Massachusetts Dartmouth\nWHOI NES-LTER: Woods Hole Oceanographic Institution, Northeast US\nShelf Long-Term Ecological Research project\nProgram Overview\nThis is a mentorship and professional development opportunity for\nresearch teams; please see the following for details:\nOur\nfirst Openscapes workshop\nOur\nOpenscapes experience: the Fay Lab\n\n\n\n\n\n\n",
     "preview": "posts/2020-02-20-noaa-nefsc/../2021-09-17-nwfsc/NOAA_logo.png",
-    "last_modified": "2022-03-06T20:36:22-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 857,
     "preview_height": 355
@@ -575,7 +596,7 @@
     ],
     "contents": "\n\nContents\nCohort Summary\nProgram Overview\n\nCohort Summary\nSponsored by Mozilla.\nRelated blog posts & media:\nSupercharge\nyour research: a ten-week plan for open data science.\nNature, 2019. Julia S. Stewart Lowndes, Halley E. Froehlich,\nAllison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier,\nNina O. Therkildsen & Chelsea L. Wood.\nOpenscapes\nChampions incorporate open practices in their science\nOpenscapes\nsummit reflections — Becoming Champions\nOpenscapes\nsummit reflections 2 — Changing the way we do science\nWins\nfrom the inaugural Champions cohort\nChampions Summit\n2019\nParticipating teams led by:\nHalley\nFroehlich, PhD — University of California at Santa\nBarbara. A marine aquaculture & fisheries scientist\nstudying global systems.\nAllison\nHorst, PhD — University of California at Santa\nBarbara. A data science and statistics lecturer in an\nenvironmentally-focused graduate program.\nNishad\nJayasundara, PhD — University of Maine. A\nphysiologist studying organismal adaptation to their habitat &\neffects of external environmental factors.\nMalin Pinsky,\nPhD — Rutgers University. An ecologist\nstudying the impacts of climate change on ocean life.\nAdrian Stier,\nPhD — University of California at Santa\nBarbara. A marine ecologist studying recovery and resilience of\nocean ecosystems.\nNina Therkildsen,\nPhD — Cornell University. An evolutionary\nbiologist using genomic analyses to improve marine conservation and\nfisheries management.\nChelsea Wood,\nPhD — University of Washington. An\necologist studying marine and freshwater parasites and infectious\ndisease in a changing world.\n\n\n\nProgram Overview\nLearn more about Openscapes and the Champions Program: https://openscapes.org.\n\n\n\n",
     "preview": "posts/2019-01-21-inaugural/Cohort1_zoom.png",
-    "last_modified": "2022-03-06T20:35:05-08:00",
+    "last_modified": "2022-05-06T15:47:53-07:00",
     "input_file": {},
     "preview_width": 2596,
     "preview_height": 1652

@@ -2,9 +2,9 @@
 title: "A Qualitative Data Analysis Chat with Beth Duckles"
 description: |
   A casual conversation with Beth Duckles, PhD to discuss qualitative data analysis
-author:
-  - name: Openscapes
-    url: {}
+#author:
+#  - name: Openscapes
+#    url: {}
 date: "2022-04-08"
 categories: 
   - community call

@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://openscapes.org/index.html</loc>
-    <lastmod>2022-05-10T18:23:03.768Z</lastmod>
+    <lastmod>2022-05-10T18:32:04.651Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.org/posts/2022-04-08-qda-beth-duckles/index.html</loc>
-    <lastmod>2022-05-10T18:23:07.715Z</lastmod>
+    <lastmod>2022-05-10T18:32:10.349Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2022-03-04-nasa/index.html</loc>
+    <lastmod>2022-05-10T18:25:17.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.org/posts/2021-03-12-nwfsc/index.html</loc>
+    <lastmod>2022-05-10T18:29:29.707Z</lastmod>
   </url>
 </urlset>

@@ -2,8 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/myblog/posts/post-with-code/index.html",
-      "/myblog/posts/welcome/index.html",
       "/posts/2022-04-08-qda-beth-duckles/index.html",
       "/posts/2022-03-04-nasa/index.html",
       "/posts/2022-01-28-noaa-afsc/index.html",

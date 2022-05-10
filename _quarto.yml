@@ -24,7 +24,11 @@ website:
         
 format:
   html:
-    theme: ember.scss # or cosmo with black banner
+    theme: 
+      - lumen 
+      #- custom.scss
+    
+    # notes on YAML: https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/#inheriting-yaml-settings
 
 
 

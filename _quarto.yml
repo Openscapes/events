@@ -19,8 +19,7 @@ website:
         
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: ember.scss # or cosmo with black banner
 
 
 

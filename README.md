@@ -1,4 +1,4 @@
-# events
+# events  
 Openscapes events: <https://openscapes.org/events>
 
 Note: to avoid [date issues](https://github.com/rstudio/distill/issues/315), install from github: 

@@ -9,12 +9,6 @@ categories:
   - Champions Cohort
   - NOAA Fisheries
 image: "NOAA_logo.png"   
-output:
-  distill::distill_article:
-    self_contained: false
-    # toc-title: Openscapes Champions # only works in docx https://newbedev.com/what-can-i-control-with-yaml-header-options-in-pandoc
-    toc: true
-    toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}

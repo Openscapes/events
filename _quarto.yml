@@ -18,7 +18,7 @@ website:
       - text: "Home"
         href: https://openscapes.org
       - icon: github
-        href: https://github.com/opencapes/events
+        href: https://github.com/openscapes/events
       - icon: twitter
         href: https://twitter.com/openscapes
         

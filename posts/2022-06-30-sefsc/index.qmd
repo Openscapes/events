@@ -4,15 +4,11 @@ description: "Openscapes Champions Cohort for the NOAA National Marine Fisheries
 author:
   - name: Openscapes and SEFSC
     url: {}
-date: 06-30-2022
+date: 2022-06-30
 categories:
   - Champions Cohort
   - NOAA Fisheries
-output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
-    toc_depth: 3
+image: NOAA_logo.png
 ---
 
 ```{r setup, include=FALSE}

@@ -29,5 +29,5 @@ This event is co-hosted by [Openscapes](https://openscapes.org) and [R-Ladies Sa
 
 
 ```{r, out.width="45%", fig.align='center', preview=TRUE}
-knitr::include_graphics("nasa-openscapes-rladies.png")  
+knitr::include_graphics("nasa-openscapes-rladies-quarto.png")  
 ```

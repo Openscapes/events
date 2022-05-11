@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Openscapes Events"
-  site-url: https://openscapes.org
+  site-url: https://openscapes.github.io/events
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."

@@ -1,23 +1,23 @@
 ---
 title: "Hello Quarto!"
-subtitle: |
+description: |
   A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara
-author:
-  - name: Openscapes
-    url: {}
 date: "2022-06-09"
 categories: [community call]
 image: nasa-openscapes-rladies-quarto.png
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 
 **Date: June 9, 2022**\
 **Time: 3:30-5:00 PT** (UTC-7)\
 **Where: Zoom**\
 **Free event, [registration through eventbrite](https://www.eventbrite.com/e/hello-quarto-tickets-337618986477)** 
+
 <!---[**Video Recording**]() --->
 
 Please join us for a chat about [Quarto](http://quarto.org/). Quarto is an open-source scientific and technical publishing system built on Pandoc. What does it look like? How do you use it, what can it do? How does it compare to RMarkdown? What does it mean for Python and Jupyter Notebooks? What about for open science, reproducibility, interoperability, and publishing?

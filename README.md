@@ -1,40 +1,26 @@
 # events  
 Openscapes events: <https://openscapes.org/events>
 
-Note: to avoid [date issues](https://github.com/rstudio/distill/issues/315), install from github: 
+## Before you begin
 
-```r
-# install.packages("devtools")
-devtools::install_github("rstudio/distill")
-```
+Install daily releases of Quarto and RStudio
+- https://quarto.org/docs/get-started/
+- https://dailies.rstudio.com/
 
-Create an event post: 
+## Create an event post
 
-`distill::create_post(title="nwfsc", date="2021-09-17")`
+Start a new event post `/posts/yyyy-mm-dd-slug/index.qmd` by copying the most recent similar post, like a Community Call or Champions Cohort. 
 
+The thumbnail image to appear in the Events list page should be 520 x 520px. It is called in YAML `image: picture.png`.
 
-## Distill tips
+To keep a post as a draft we can:
+- set YAML `draft: true`, and remove it to publish, OR
+- if our workflow is to submit an event in a GitHub pull request (PR), set the PR as Draft and when ready, convert the PR to Ready to Review so it will be published when the PR is merged. 
 
-From <https://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/>
+Render the event post locally before making the PR.
 
-writing text and `code`
+## Quarto tips
 
-`print("hello")`
+See our own [Making open-source documents with Quarto](https://openscapes.github.io/quarto-website-tutorial/).
 
-```r
-create_post(
-  title, # mandatory
-  author = "auto",
-  slug = "auto", # generates a website slug (URL)
-  date_prefix = TRUE, # adds date for sorting
-  draft = FALSE, 
-  edit = interactive()
-)
-```
-
-```r
-install.packages("devtools")
-devtools::install_github("rstudio/rmarkdown")
-devtools::install_github("yihui/knitr")
-devtools::install_github("rstudio/distill")
-```
+Use ISO-8601 date format in YAML to avoid issues e.g. in citation.

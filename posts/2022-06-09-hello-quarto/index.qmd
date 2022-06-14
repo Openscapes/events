@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Date: June 9, 2022**\
 **Time: 3:30-5:00 PT** (UTC-7)\
 **Where: Zoom**\
-**Free event, [registration through eventbrite](https://www.eventbrite.com/e/hello-quarto-tickets-337618986477)**
+**Free event**
 
 <!---[**Video Recording**]() --->
 

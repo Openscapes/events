@@ -12,6 +12,8 @@ image: "Tidepool_PrimaryLogo_Color+copy.png"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Overview
+
 **This is a professional development and leadership opportunity for ocean professionals to make data collaboration more systematic, sustainable, and responsible.**
 
 Our increasingly datafied society provides exciting advances and at the same time has created new data asymmetries. Much of the data generated is not equally accessible to those who need it. Advancing access and reuse of data for public interest purposes requires **data collaboratives - new partnership models where data is made accessible and reciprocated** to generate insights that can help address societal challenges.
@@ -25,7 +27,9 @@ Combining the expertise of The GovLab, and Openscapes, this Studio will help par
 [**Intertidal Agency**](https://intertidal.agency/) designs at the intersection of people and planet and serves as the PI for the National Science Foundation's Convergence Accelerator grant that supports this work.
 
 
-**Program Overview:** We are offering a single 1.5-hour Studio at two different times in September 2011:
+## Details and registration
+
+We are offering a single 1.5-hour Studio at two different times in September 2011:
 
 -   [**Studio A:** September 13, 11am -12:30 pm PT](https://www.eventbrite.com/e/tidepool-digital-data-sharing-studio-a-tickets-390849129267)
 

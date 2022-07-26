@@ -2,7 +2,7 @@
 title: "rstudio::conf Keynote"
 description: |
   Publishing and Collaborating with Quarto, with Mine Çetinkaya-Rundel & Julia Stewart Lowndes
-date: "2022-07-25"
+date: "2022-07-28"
 categories: [conference]
 image: "rstudio-conf.jpg"
 ---

@@ -1,84 +1,97 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-  <meta charset="utf-8">
-  <meta name="generator" content="quarto-0.9.105">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Openscapes Events</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
 
-  <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-  <script src="site_libs/quarto-nav/headroom.min.js"></script>
-  <script src="site_libs/clipboard/clipboard.min.js"></script>
-  <meta name="quarto:offset" content="./">
-  <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-  <script src="site_libs/quarto-search/fuse.min.js"></script>
-  <script src="site_libs/quarto-search/quarto-search.js"></script>
-  <script src="site_libs/quarto-listing/list.min.js"></script>
-  <script src="site_libs/quarto-listing/quarto-listing.js"></script>
-  <script src="site_libs/quarto-html/quarto.js"></script>
-  <script src="site_libs/quarto-html/popper.min.js"></script>
-  <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-  <script src="site_libs/quarto-html/anchor.min.js"></script>
-  <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-  <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
-  <script src="site_libs/bootstrap/bootstrap.min.js"></script>
-  <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-  <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
-  <script id="quarto-search-options" type="application/json">{
-    "location": "navbar",
-    "copy-button": false,
-    "collapse-after": 2,
-    "panel-placement": "end",
-    "type": "overlay",
-    "limit": 20,
-    "language": {
-      "search-no-results-text": "No results",
-      "search-matching-documents-text": "matching documents",
-      "search-copy-link-title": "Copy link to search",
-      "search-hide-matches-text": "Hide additional matches",
-      "search-more-match-text": "more match in this document",
-      "search-more-matches-text": "more matches in this document",
-      "search-clear-button-title": "Clear",
-      "search-detached-cancel-button-title": "Cancel",
-      "search-submit-button-title": "Submit"
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Openscapes Events</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
     }
-  }</script>
-  <script>
 
-    window.document.addEventListener("DOMContentLoaded", function (_event) {
-      const listingTargetEl = window.document.querySelector('#listing-listing .list');
-      if (!listingTargetEl) {
-        // No listing discovered, do not attach.
-        return; 
-      }
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
 
-      const options = {
-        valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-        page: 25,
-      pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-        searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-      };
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
-      window['quarto-listings'] = window['quarto-listings'] || {};
-      window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
 
-      if (window['quarto-listing-loaded']) {
-        window['quarto-listing-loaded']();
-      }
-    });
-    </script>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
 </head>
-<body>
+
+<body class="nav-fixed">
+
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
@@ -120,40 +133,57 @@
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(30)</span></div><div class="category" data-category="Champions Cohort">Champions Cohort <span class="quarto-category-count">(11)</span></div><div class="category" data-category="NASA Openscapes Framework">NASA Openscapes Framework <span class="quarto-category-count">(8)</span></div><div class="category" data-category="NOAA Fisheries">NOAA Fisheries <span class="quarto-category-count">(6)</span></div><div class="category" data-category="community call">community call <span class="quarto-category-count">(6)</span></div><div class="category" data-category="community talk">community talk <span class="quarto-category-count">(3)</span></div><div class="category" data-category="conference">conference <span class="quarto-category-count">(6)</span></div><div class="category" data-category="workshop">workshop <span class="quarto-category-count">(4)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(31)</span></div><div class="category" data-category="Champions Cohort">Champions Cohort <span class="quarto-category-count">(11)</span></div><div class="category" data-category="NASA Openscapes Framework">NASA Openscapes Framework <span class="quarto-category-count">(8)</span></div><div class="category" data-category="NOAA Fisheries">NOAA Fisheries <span class="quarto-category-count">(6)</span></div><div class="category" data-category="community call">community call <span class="quarto-category-count">(6)</span></div><div class="category" data-category="community talk">community talk <span class="quarto-category-count">(3)</span></div><div class="category" data-category="conference">conference <span class="quarto-category-count">(6)</span></div><div class="category" data-category="mentorship opportunity">mentorship opportunity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="registration open">registration open <span class="quarto-category-count">(1)</span></div><div class="category" data-category="workshop">workshop <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 
 
+
+
+
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="conference" data-listing-date-sort="1658707200000" data-listing-file-modified-sort="1655228101849" data-listing-reading-time-sort="0.355">
+<div class="quarto-post image-right" data-index="0" data-categories="mentorship opportunity,registration open" data-listing-date-sort="1663027200000" data-listing-file-modified-sort="1658807292880" data-listing-reading-time-sort="1.675">
+<div class="thumbnail">
+<p><a href="./posts/2022-09-13-tidepool-digital/index.html"> <img src="./posts/2022-09-13-tidepool-digital/Tidepool_PrimaryLogo_Color+copy.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2022-09-13-tidepool-digital/index.html">
+<h3 class="no-anchor listing-title">
+Tidepool Digital Data Sharing Studio
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mentorship opportunity'); return false;">
+mentorship opportunity
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('registration open'); return false;">
+registration open
+</div>
+</div>
+<a href="./posts/2022-09-13-tidepool-digital/index.html">
+<div class="listing-description">
+<p>Building skills and community for ocean data governance and the Blue Economy</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2022-09-13-tidepool-digital/index.html">
+<div class="listing-date">
+Sep 13, 2022
+</div>
+<div class="listing-author">
+Openscapes, Openscapes and Tidepool Digital
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="conference" data-listing-date-sort="1658707200000" data-listing-file-modified-sort="1658807292880" data-listing-reading-time-sort="0.355">
 <div class="thumbnail">
 <p><a href="./posts/2022-07-25-rstudio-conf/index.html"> <img src="./posts/2022-07-25-rstudio-conf/rstudio-conf.jpg" class="thumnail-image"> </a></p>
 </div>
@@ -182,10 +212,13 @@ conference
 <div class="listing-date">
 Jul 25, 2022
 </div>
+<div class="listing-author">
+Openscapes
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1656547200000" data-listing-file-modified-sort="1655228101849" data-listing-reading-time-sort="2.27">
+<div class="quarto-post image-right" data-index="2" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1656547200000" data-listing-file-modified-sort="1658807292880" data-listing-reading-time-sort="2.27">
 <div class="thumbnail">
 <p><a href="./posts/2022-06-30-sefsc/index.html"> <img src="./posts/2022-06-30-sefsc/NOAA_logo.png" class="thumnail-image"> </a></p>
 </div>
@@ -218,12 +251,12 @@ NOAA Fisheries
 Jun 30, 2022
 </div>
 <div class="listing-author">
-Openscapes and SEFSC
+Openscapes, Openscapes and SEFSC
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="community call" data-listing-date-sort="1654732800000" data-listing-file-modified-sort="1655228101845" data-listing-reading-time-sort="1.46">
+<div class="quarto-post image-right" data-index="3" data-categories="community call" data-listing-date-sort="1654732800000" data-listing-file-modified-sort="1658807292876" data-listing-reading-time-sort="1.46">
 <div class="thumbnail">
 <p><a href="./posts/2022-06-09-hello-quarto/index.html"> <img src="./posts/2022-06-09-hello-quarto/nasa-openscapes-rladies-quarto.png" class="thumnail-image"> </a></p>
 </div>
@@ -252,10 +285,13 @@ community call
 <div class="listing-date">
 Jun 9, 2022
 </div>
+<div class="listing-author">
+Openscapes
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="community call" data-listing-date-sort="1649376000000" data-listing-file-modified-sort="1655228101845" data-listing-reading-time-sort="0.355">
+<div class="quarto-post image-right" data-index="4" data-categories="community call" data-listing-date-sort="1649376000000" data-listing-file-modified-sort="1658807292876" data-listing-reading-time-sort="0.355">
 <div class="thumbnail">
 <p><a href="./posts/2022-04-08-qda-beth-duckles/index.html"> <img src="./posts/2022-04-08-qda-beth-duckles/duckles.jpg" class="thumnail-image"> </a></p>
 </div>
@@ -284,10 +320,13 @@ community call
 <div class="listing-date">
 Apr 8, 2022
 </div>
+<div class="listing-author">
+Openscapes
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="Champions Cohort,NASA Openscapes Framework" data-listing-date-sort="1646352000000" data-listing-file-modified-sort="1655228101845" data-listing-reading-time-sort="0.125">
+<div class="quarto-post image-right" data-index="5" data-categories="Champions Cohort,NASA Openscapes Framework" data-listing-date-sort="1646352000000" data-listing-file-modified-sort="1658807292876" data-listing-reading-time-sort="0.125">
 <div class="thumbnail">
 <p><a href="./posts/2022-03-04-nasa/index.html"> <img src="./posts/2022-03-04-nasa/nasa-openscapes.png" class="thumnail-image"> </a></p>
 </div>
@@ -320,12 +359,12 @@ NASA Openscapes Framework
 Mar 4, 2022
 </div>
 <div class="listing-author">
-Openscapes and NASA
+Openscapes, Openscapes and NASA
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1643328000000" data-listing-file-modified-sort="1655228101845" data-listing-reading-time-sort="0.125">
+<div class="quarto-post image-right" data-index="6" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1643328000000" data-listing-file-modified-sort="1658807292876" data-listing-reading-time-sort="0.125">
 <div class="thumbnail">
 <p><a href="./posts/2022-01-28-noaa-afsc/index.html"> <img src="./posts/2022-01-28-noaa-afsc/NOAA_logo.png" class="thumnail-image"> </a></p>
 </div>
@@ -358,12 +397,12 @@ NOAA Fisheries
 Jan 28, 2022
 </div>
 <div class="listing-author">
-Openscapes and AFSC
+Openscapes, Openscapes and AFSC
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="conference,NASA Openscapes Framework" data-listing-date-sort="1642723200000" data-listing-file-modified-sort="1655228101845" data-listing-reading-time-sort="0.625">
+<div class="quarto-post image-right" data-index="7" data-categories="conference,NASA Openscapes Framework" data-listing-date-sort="1642723200000" data-listing-file-modified-sort="1658807292876" data-listing-reading-time-sort="0.625">
 <div class="thumbnail">
 <p><a href="./posts/2022-01-21-esip-winter-2022/index.html"> <img src="./posts/2022-01-21-esip-winter-2022/esip-logo.png" class="thumnail-image"> </a></p>
 </div>
@@ -396,12 +435,12 @@ NASA Openscapes Framework
 Jan 21, 2022
 </div>
 <div class="listing-author">
-ESIP and Openscapes
+Openscapes, ESIP and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="conference,NASA Openscapes Framework" data-listing-date-sort="1639699200000" data-listing-file-modified-sort="1655228101845" data-listing-reading-time-sort="1.135">
+<div class="quarto-post image-right" data-index="8" data-categories="conference,NASA Openscapes Framework" data-listing-date-sort="1639699200000" data-listing-file-modified-sort="1658807292876" data-listing-reading-time-sort="1.135">
 <div class="thumbnail">
 <p><a href="./posts/2021-12-17-agu-open-science-in-action/index.html"> <img src="./posts/2021-12-17-agu-open-science-in-action/agu.png" class="thumnail-image"> </a></p>
 </div>
@@ -434,12 +473,12 @@ NASA Openscapes Framework
 Dec 17, 2021
 </div>
 <div class="listing-author">
-AGU and Openscapes
+Openscapes, AGU and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1639267200000" data-listing-file-modified-sort="1655228101845" data-listing-reading-time-sort="1.105">
+<div class="quarto-post image-right" data-index="9" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1639267200000" data-listing-file-modified-sort="1658807292876" data-listing-reading-time-sort="1.105">
 <div class="thumbnail">
 <p><a href="./posts/2021-12-12-agu-enabling-analysis-in-the-cloud/index.html"> <img src="./posts/2021-12-17-agu-open-science-in-action/agu.png" class="thumnail-image"> </a></p>
 </div>
@@ -472,12 +511,12 @@ NASA Openscapes Framework
 Dec 12, 2021
 </div>
 <div class="listing-author">
-AGU and Openscapes
+Openscapes, AGU and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="community call" data-listing-date-sort="1639008000000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="0.675">
+<div class="quarto-post image-right" data-index="10" data-categories="community call" data-listing-date-sort="1639008000000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="0.675">
 <div class="thumbnail">
 <p><a href="./posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/index.html"> <img src="./posts/2021-12-09-open-leaders-cabunoc-mayes-sansing/moz-movement-building.png" class="thumnail-image"> </a></p>
 </div>
@@ -507,12 +546,12 @@ community call
 Dec 9, 2021
 </div>
 <div class="listing-author">
-Openscapes and Mozilla
+Openscapes, Openscapes and Mozilla
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1638921600000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="0.535">
+<div class="quarto-post image-right" data-index="11" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1638921600000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="0.535">
 <div class="thumbnail">
 <p><a href="./posts/2021-12-08-nasem-accelerating-analysis-geographic-change/index.html"> <img src="./posts/2021-12-08-nasem-accelerating-analysis-geographic-change/nasem-geo-meeting.jpg" class="thumnail-image"> </a></p>
 </div>
@@ -545,12 +584,12 @@ NASA Openscapes Framework
 Dec 8, 2021
 </div>
 <div class="listing-author">
-AGU and Openscapes
+Openscapes, AGU and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="conference" data-listing-date-sort="1638489600000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="0.685">
+<div class="quarto-post image-right" data-index="12" data-categories="conference" data-listing-date-sort="1638489600000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="0.685">
 <div class="thumbnail">
 <p><a href="./posts/2021-12-03-ucsb-ds-summit/ucsb-ds-summit.html"> <img src="./posts/2021-12-03-ucsb-ds-summit/ucsb-logo.jpg" class="thumnail-image"> </a></p>
 </div>
@@ -580,12 +619,12 @@ conference
 Dec 3, 2021
 </div>
 <div class="listing-author">
-Openscapes
+Openscapes, Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1636934400000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="0.375">
+<div class="quarto-post image-right" data-index="13" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1636934400000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="0.375">
 <div class="thumbnail">
 <p><a href="./posts/2021-11-15-nasa-cloud-hackathon/index.html"> <img src="https://user-images.githubusercontent.com/2915555/133525653-2a2278b1-1015-4350-b2a5-160d125aaaf7.png" class="thumnail-image"> </a></p>
 </div>
@@ -618,12 +657,12 @@ NASA Openscapes Framework
 Nov 15, 2021
 </div>
 <div class="listing-author">
-NASA Openscapes
+Openscapes, NASA Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1634169600000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="1.035">
+<div class="quarto-post image-right" data-index="14" data-categories="workshop,NASA Openscapes Framework" data-listing-date-sort="1634169600000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="1.035">
 <div class="thumbnail">
 <p><a href="./posts/2021-10-14-nasa-open-source-science-workshop/index.html"> <img src="./posts/2021-10-14-nasa-open-source-science-workshop/nasa-science.png" class="thumnail-image"> </a></p>
 </div>
@@ -656,12 +695,12 @@ NASA Openscapes Framework
 Oct 14, 2021
 </div>
 <div class="listing-author">
-NASA
+Openscapes, NASA
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="community talk" data-listing-date-sort="1633564800000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="0.635">
+<div class="quarto-post image-right" data-index="15" data-categories="community talk" data-listing-date-sort="1633564800000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="0.635">
 <div class="thumbnail">
 <p><a href="./posts/2021-10-07-FASEBDataWorks!Salon/index.html"> <img src="./posts/2021-10-07-FASEBDataWorks!Salon/faseb.png" class="thumnail-image"> </a></p>
 </div>
@@ -691,12 +730,12 @@ community talk
 Oct 7, 2021
 </div>
 <div class="listing-author">
-FASEB and Openscapes
+Openscapes, FASEB and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="community call" data-listing-date-sort="1632960000000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="0.655">
+<div class="quarto-post image-right" data-index="16" data-categories="community call" data-listing-date-sort="1632960000000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="0.655">
 <div class="thumbnail">
 <p><a href="./posts/2021-09-30-rmarkdown-alison-hill/index.html"> <img src="./posts/2021-09-30-rmarkdown-alison-hill/apreshill.jpg" class="thumnail-image"> </a></p>
 </div>
@@ -726,12 +765,12 @@ community call
 Sep 30, 2021
 </div>
 <div class="listing-author">
-Openscapes and RStudio
+Openscapes, Openscapes and RStudio
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1631836800000" data-listing-file-modified-sort="1655228101841" data-listing-reading-time-sort="2.155">
+<div class="quarto-post image-right" data-index="17" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1631836800000" data-listing-file-modified-sort="1658807292872" data-listing-reading-time-sort="2.155">
 <div class="thumbnail">
 <p><a href="./posts/2021-09-17-nwfsc/index.html"> <img src="./posts/2021-09-17-nwfsc/NOAA_logo.png" class="thumnail-image"> </a></p>
 </div>
@@ -764,12 +803,12 @@ NOAA Fisheries
 Sep 17, 2021
 </div>
 <div class="listing-author">
-Openscapes and NWFSC
+Openscapes, Openscapes and NWFSC
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1631836800000" data-listing-file-modified-sort="1655228101837" data-listing-reading-time-sort="3.16">
+<div class="quarto-post image-right" data-index="18" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1631836800000" data-listing-file-modified-sort="1658807292868" data-listing-reading-time-sort="3.16">
 <div class="thumbnail">
 <p><a href="./posts/2021-09-17-fdd/index.html"> <img src="./posts/2021-09-17-fdd/fdd-logos.png" class="thumnail-image"> </a></p>
 </div>
@@ -802,12 +841,12 @@ NOAA Fisheries
 Sep 17, 2021
 </div>
 <div class="listing-author">
-Openscapes and FDD
+Openscapes, Openscapes and FDD
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="Champions Cohort" data-listing-date-sort="1631145600000" data-listing-file-modified-sort="1655228101837" data-listing-reading-time-sort="0.245">
+<div class="quarto-post image-right" data-index="19" data-categories="Champions Cohort" data-listing-date-sort="1631145600000" data-listing-file-modified-sort="1658807292868" data-listing-reading-time-sort="0.245">
 <div class="thumbnail">
 <p><a href="./posts/2021-09-09-sasi/index.html"> <img src="./posts/2021-09-09-sasi/gbmf-protocols.png" class="thumnail-image"> </a></p>
 </div>
@@ -837,12 +876,12 @@ Champions Cohort
 Sep 9, 2021
 </div>
 <div class="listing-author">
-GBMF and Openscapes
+Openscapes, GBMF and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="conference" data-listing-date-sort="1626048000000" data-listing-file-modified-sort="1655228101837" data-listing-reading-time-sort="0.375">
+<div class="quarto-post image-right" data-index="20" data-categories="conference" data-listing-date-sort="1626048000000" data-listing-file-modified-sort="1658807292868" data-listing-reading-time-sort="0.375">
 <div class="thumbnail">
 <p><a href="./posts/2021-07-12-sortee/index.html"> <img src="./posts/2021-07-12-sortee/sortee-logo.png" class="thumnail-image"> </a></p>
 </div>
@@ -872,12 +911,12 @@ conference
 Jul 12, 2021
 </div>
 <div class="listing-author">
-SORTEE
+Openscapes, SORTEE
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="NASA Openscapes Framework,community talk" data-listing-date-sort="1625011200000" data-listing-file-modified-sort="1655228101837" data-listing-reading-time-sort="0.335">
+<div class="quarto-post image-right" data-index="21" data-categories="NASA Openscapes Framework,community talk" data-listing-date-sort="1625011200000" data-listing-file-modified-sort="1658807292868" data-listing-reading-time-sort="0.335">
 <div class="thumbnail">
 <p><a href="./posts/2021-06-30-pangeo-showcase/index.html"> <img src="./posts/2021-06-30-pangeo-showcase/images/pangeologo.png" class="thumnail-image"> </a></p>
 </div>
@@ -910,12 +949,12 @@ community talk
 Jun 30, 2021
 </div>
 <div class="listing-author">
-Pangeo and Openscapes
+Openscapes, Pangeo and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="conference" data-listing-date-sort="1622851200000" data-listing-file-modified-sort="1655228101837" data-listing-reading-time-sort="1.92">
+<div class="quarto-post image-right" data-index="22" data-categories="conference" data-listing-date-sort="1622851200000" data-listing-file-modified-sort="1658807292868" data-listing-reading-time-sort="1.92">
 <div class="thumbnail">
 <p><a href="./posts/2021-06-05-cascadiar/index.html"> <img src="./posts/2021-06-05-cascadiar/cascadiar_2021.png" class="thumnail-image"> </a></p>
 </div>
@@ -945,12 +984,12 @@ conference
 Jun 5, 2021
 </div>
 <div class="listing-author">
-CascadiaR
+Openscapes, CascadiaR
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="community talk" data-listing-date-sort="1622764800000" data-listing-file-modified-sort="1655228101833" data-listing-reading-time-sort="0.525">
+<div class="quarto-post image-right" data-index="23" data-categories="community talk" data-listing-date-sort="1622764800000" data-listing-file-modified-sort="1658807292864" data-listing-reading-time-sort="0.525">
 <div class="thumbnail">
 <p><a href="./posts/2021-06-04-nature-webcast/index.html"> <img src="./posts/2021-06-04-nature-webcast/nature-webcast.png" class="thumnail-image"> </a></p>
 </div>
@@ -980,12 +1019,12 @@ community talk
 Jun 4, 2021
 </div>
 <div class="listing-author">
-Nature
+Openscapes, Nature
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="community call" data-listing-date-sort="1621900800000" data-listing-file-modified-sort="1655228101821" data-listing-reading-time-sort="1.105">
+<div class="quarto-post image-right" data-index="24" data-categories="community call" data-listing-date-sort="1621900800000" data-listing-file-modified-sort="1658807292852" data-listing-reading-time-sort="1.105">
 <div class="thumbnail">
 <p><a href="./posts/2021-05-25-tara-robertson/tara-robertson.html"> <img src="./posts/2021-05-25-tara-robertson/tara-robertson.png" class="thumnail-image"> </a></p>
 </div>
@@ -1015,47 +1054,12 @@ community call
 May 25, 2021
 </div>
 <div class="listing-author">
-Openscapes
+Openscapes, Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="24" data-categories="Champions Cohort" data-listing-date-sort="1620345600000" data-listing-file-modified-sort="1655228101821" data-listing-reading-time-sort="2.39">
-<div class="thumbnail">
-<p><a href="./posts/2021-05-07-css-champions/css.html"> <img src="./posts/2021-05-07-css-champions/css-white.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2021-05-07-css-champions/css.html">
-<h3 class="no-anchor listing-title">
-Openscapes Champions: CS&amp;S Cohort
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Champions Cohort'); return false;">
-Champions Cohort
-</div>
-</div>
-<a href="./posts/2021-05-07-css-champions/css.html">
-<div class="listing-description">
-<p>Champions Cohort sponsored by CS&amp;S in May-June 2021</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2021-05-07-css-champions/css.html">
-<div class="listing-date">
-May 7, 2021
-</div>
-<div class="listing-author">
-Openscapes and CS&amp;S
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="25" data-categories="Champions Cohort" data-listing-date-sort="1620345600000" data-listing-file-modified-sort="1655228101821" data-listing-reading-time-sort="2.375">
+<div class="quarto-post image-right" data-index="25" data-categories="Champions Cohort" data-listing-date-sort="1620345600000" data-listing-file-modified-sort="1658807292852" data-listing-reading-time-sort="2.375">
 <div class="thumbnail">
 <p><a href="./posts/2021-05-07-coast-champions/coast.html"> <img data-src="./posts/2021-05-07-coast-champions/COAST-white.png" class="thumnail-image"> </a></p>
 </div>
@@ -1085,12 +1089,47 @@ Champions Cohort
 May 7, 2021
 </div>
 <div class="listing-author">
-Openscapes and CSU COAST
+Openscapes, Openscapes and CSU COAST
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="26" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1615507200000" data-listing-file-modified-sort="1655228101821" data-listing-reading-time-sort="0.865">
+<div class="quarto-post image-right" data-index="26" data-categories="Champions Cohort" data-listing-date-sort="1620345600000" data-listing-file-modified-sort="1658807292852" data-listing-reading-time-sort="2.39">
+<div class="thumbnail">
+<p><a href="./posts/2021-05-07-css-champions/css.html"> <img data-src="./posts/2021-05-07-css-champions/css-white.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2021-05-07-css-champions/css.html">
+<h3 class="no-anchor listing-title">
+Openscapes Champions: CS&amp;S Cohort
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Champions Cohort'); return false;">
+Champions Cohort
+</div>
+</div>
+<a href="./posts/2021-05-07-css-champions/css.html">
+<div class="listing-description">
+<p>Champions Cohort sponsored by CS&amp;S in May-June 2021</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2021-05-07-css-champions/css.html">
+<div class="listing-date">
+May 7, 2021
+</div>
+<div class="listing-author">
+Openscapes, Openscapes and CS&amp;S
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="27" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1615507200000" data-listing-file-modified-sort="1658807292852" data-listing-reading-time-sort="0.865">
 <div class="thumbnail">
 <p><a href="./posts/2021-03-12-nwfsc/index.html"> <img data-src="./posts/2021-03-12-nwfsc/NOAA_logo.png" class="thumnail-image"> </a></p>
 </div>
@@ -1123,12 +1162,12 @@ NOAA Fisheries
 Mar 12, 2021
 </div>
 <div class="listing-author">
-Openscapes and NWFSC
+Openscapes, Openscapes and NWFSC
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="27" data-categories="community call" data-listing-date-sort="1615161600000" data-listing-file-modified-sort="1655228101817" data-listing-reading-time-sort="0.67">
+<div class="quarto-post image-right" data-index="28" data-categories="community call" data-listing-date-sort="1615161600000" data-listing-file-modified-sort="1658807292848" data-listing-reading-time-sort="0.67">
 <div class="thumbnail">
 <p><a href="./posts/2021-03-08-dr-dawn-wright-interview/dawn-wright.html"> <img data-src="./posts/2021-03-08-dr-dawn-wright-interview/dr-dawn-wright.jpg" class="thumnail-image"> </a></p>
 </div>
@@ -1158,12 +1197,12 @@ community call
 Mar 8, 2021
 </div>
 <div class="listing-author">
-Mozilla and Openscapes
+Openscapes, Mozilla and Openscapes
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="28" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1582156800000" data-listing-file-modified-sort="1655228101817" data-listing-reading-time-sort="0.53">
+<div class="quarto-post image-right" data-index="29" data-categories="Champions Cohort,NOAA Fisheries" data-listing-date-sort="1582156800000" data-listing-file-modified-sort="1658807292848" data-listing-reading-time-sort="0.53">
 <div class="thumbnail">
 <p><a href="./posts/2020-02-20-noaa-nefsc/index.html"> <img data-src="./posts/2021-09-17-nwfsc/NOAA_logo.png" class="thumnail-image"> </a></p>
 </div>
@@ -1196,12 +1235,12 @@ NOAA Fisheries
 Feb 20, 2020
 </div>
 <div class="listing-author">
-Openscapes and NEFSC
+Openscapes, Openscapes and NEFSC
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="29" data-categories="Champions Cohort" data-listing-date-sort="1548028800000" data-listing-file-modified-sort="1655228101817" data-listing-reading-time-sort="1.175">
+<div class="quarto-post image-right" data-index="30" data-categories="Champions Cohort" data-listing-date-sort="1548028800000" data-listing-file-modified-sort="1658807292848" data-listing-reading-time-sort="1.175">
 <div class="thumbnail">
 <p><a href="./posts/2019-01-21-inaugural/index.html"> <img data-src="./posts/2019-01-21-inaugural/Cohort1_zoom.png" class="thumnail-image"> </a></p>
 </div>
@@ -1231,7 +1270,7 @@ Champions Cohort
 Jan 21, 2019
 </div>
 <div class="listing-author">
-Mozilla and Openscapes
+Openscapes, Mozilla and Openscapes
 </div>
 </a>
 </div>
@@ -1244,8 +1283,26 @@ No matching items
   <ul class="pagination"></ul>
 </nav>
 </div></main> <!-- /main -->
-<script type="application/javascript">
+<script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -1265,7 +1322,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.blur();
     // flash "checked"
     button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
     setTimeout(function() {
+      button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
     // clear code selection
@@ -1327,6 +1387,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
+
 
 
 </body></html>

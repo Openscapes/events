@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2022-09-13-tidepool-digital/index.html",
       "/posts/2022-07-25-rstudio-conf/index.html",
       "/posts/2022-06-30-sefsc/index.html",
       "/posts/2022-06-09-hello-quarto/index.html",
@@ -26,8 +27,8 @@
       "/posts/2021-06-05-cascadiar/index.html",
       "/posts/2021-06-04-nature-webcast/index.html",
       "/posts/2021-05-25-tara-robertson/tara-robertson.html",
-      "/posts/2021-05-07-css-champions/css.html",
       "/posts/2021-05-07-coast-champions/coast.html",
+      "/posts/2021-05-07-css-champions/css.html",
       "/posts/2021-03-12-nwfsc/index.html",
       "/posts/2021-03-08-dr-dawn-wright-interview/dawn-wright.html",
       "/posts/2020-02-20-noaa-nefsc/index.html",

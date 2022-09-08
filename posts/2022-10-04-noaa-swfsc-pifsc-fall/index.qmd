@@ -13,7 +13,7 @@ image: NOAA_logo.png
 
 ## Program overview
 
-**This is a professional development and leadership opportunity for NOAA SEFSC research groups to explore open data science practices.**
+**This is a professional development and leadership opportunity for NOAA SWFSC and PIFSC research groups to explore open data science practices.**
 
 [**Openscapes**](https://openscapes.org) is an approach for doing better science in less time[^1]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science[^2], enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 
@@ -25,7 +25,7 @@ image: NOAA_logo.png
 
 <!--# changes to "funded and coord by"? -->
 
-**This opportunity is funded and coordinated by NOAA Southeast Fisheries Science Center ([SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center)).**
+**This opportunity is funded and coordinated by NOAA Southwest Fisheries Science Center ([SWFSC](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center) and Pacific Islands Fisheries Science Center (PIFSC)[https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center]).**
 
 It is one of four NOAA Fisheries cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries cohorts.
 

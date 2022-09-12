@@ -27,7 +27,7 @@ image: NOAA_logo.png
 
 **This opportunity is funded and coordinated by NOAA Southeast Fisheries Science Center ([SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center)).**
 
-View the [Cohort website](https://github.com/Openscapes/2022-noaa-sefsc-fall) with their lesson series. This is one of four NOAA Fisheries cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries cohorts.
+View the [Cohort website](https://openscapes.github.io/2022-noaa-sefsc-fall/) with their lesson series. This is one of four NOAA Fisheries cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries cohorts.
 
 **Related blog posts**:
 

@@ -27,7 +27,7 @@ image: NOAA_logo.png
 
 **This opportunity is funded and coordinated by NOAA Southeast Fisheries Science Center ([SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center)).**
 
-It is one of four NOAA Fisheries cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries cohorts.
+View the [Cohort website](https://github.com/Openscapes/2022-noaa-sefsc-fall) with their lesson series. This is one of four NOAA Fisheries cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries cohorts.
 
 **Related blog posts**:
 
@@ -38,16 +38,6 @@ It is one of four NOAA Fisheries cohorts running concurrently in Fall 2022 with 
 
 ![](NOAA_logo.png){width="40%" fig-align="center" fig-alt="logo of NOAA Fisheries on left with NOAA Fisheries 150th Anniversary 1871-2021 on right"}
 
-<!--# omit this since nominations are closed, or include with edits? -->
+<br>
 
-## Cohort details
-
-**Our NMFS Cohort will meet five times over two months, on alternating Thursdays.**
-
--   **Dates:** June 30, Jul 14, 28, Aug 11, 25, 2022
--   **Times:** 1:00-2:30 pm ET
--   **Where:** remotely, via Zoom
--   **Who:** Cohort of \~7 NOAA teams. We generally recommend teams of 5, although team size, composition, and extent of shared projects can vary. There are no technical requirements to participate; we expect teams to have a range of skills and responsibilities and an interest in improving shared workflows.
--   **Expected time commitment:** The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.
-
-Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [FAQs about forming your team](https://openscapes.org/faq). Questions? Contact Openscapes: openscapes at nceas.ucsb.edu
+Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [FAQs about forming cohorts and teams](https://openscapes.org/faq). Questions? Contact Openscapes: openscapes at nceas.ucsb.edu

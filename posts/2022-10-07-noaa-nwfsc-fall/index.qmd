@@ -10,6 +10,7 @@ categories:
   - NOAA Fisheries
 image: NOAA_logo.png
 bibliography: references.bib
+csl: nature.csl
 ---
 
 ## Program overview

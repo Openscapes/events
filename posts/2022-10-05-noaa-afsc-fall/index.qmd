@@ -9,25 +9,21 @@ categories:
   - Champions Cohort
   - NOAA Fisheries
 image: NOAA_logo.png
+bibliography: references.bib
+csl: nature.csl
 ---
 
 ## Program overview
 
 **This is a professional development and leadership opportunity for NOAA AFSC research groups to explore open data science practices.**
 
-[**Openscapes**](https://openscapes.org) is an approach for doing better science in less time[^1]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science[^2], enabling increased efficiency and resilience for teams so that their work has more enduring impact.
-
-[^1]: [nature.com/articles/s41559-017-0160](https://nature.com/articles/s41559-017-0160)
-
-[^2]: [blogs.scientificamerican.com/observations/open-software-means-kinder-science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science)
+[**Openscapes**](https://openscapes.org) is an approach for doing better science in less time[@lowndes2017]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science[@lowndes2019], enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 
 [**Openscapes Champions**](https://www.openscapes.org/champions/) is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.
 
-<!--# changes to "funded and coord by"? -->
+**This opportunity is funded in part and coordinated by NOAA Alaska Fisheries Science Center ([AFSC](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)).**
 
-**This opportunity is funded and coordinated by NOAA Alaska Fisheries Science Center ([AFSC](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)).**
-
-View the [Cohort website](https://openscapes.github.io/2022-noaa-afsc-fall/) with their lesson series. This is one of four NOAA Fisheries cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries cohorts.
+To learn more, view the [Cohort website](https://openscapes.github.io/2022-noaa-afsc-fall/) and [nmfs-openscapes.github.io](https://nmfs-openscapes.github.io). This is one of four NOAA Fisheries Champions Cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries Cohorts.
 
 **Related blog posts**:
 
@@ -40,4 +36,4 @@ View the [Cohort website](https://openscapes.github.io/2022-noaa-afsc-fall/) wit
 
 <br>
 
-Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [FAQs about forming cohorts and teams](https://openscapes.org/faq). Questions? Contact Openscapes: openscapes at nceas.ucsb.edu
+Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [FAQs about forming cohorts and teams](https://openscapes.org/faq). Questions? Contact Openscapes: hello at openscapes.org.

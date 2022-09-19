@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Openscapes/events/sitemap.xml
+Sitemap: https://openscapes.github.io/events/sitemap.xml

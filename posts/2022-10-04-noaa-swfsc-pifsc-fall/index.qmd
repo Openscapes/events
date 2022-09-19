@@ -21,7 +21,7 @@ csl: nature.csl
 
 [**Openscapes Champions**](https://www.openscapes.org/champions/) is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.
 
-**This opportunity is funded in part and coordinated by NOAA Southwest Fisheries Science Center ([SWFSC](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center) and Pacific Islands Fisheries Science Center [PIFSC][https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center]).**
+**This opportunity is funded in part and coordinated by NOAA Southwest Fisheries Science Center ([SWFSC](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center) and Pacific Islands Fisheries Science Center [PIFSC](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center)).**
 
 To learn more, view the [Cohort website](https://openscapes.github.io/2022-noaa-swfsc-pifsc-fall/) and [nmfs-openscapes.github.io](https://nmfs-openscapes.github.io). This is one of four NOAA Fisheries Champions Cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries Cohorts.
 

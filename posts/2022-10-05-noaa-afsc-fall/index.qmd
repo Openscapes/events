@@ -23,7 +23,7 @@ csl: nature.csl
 
 **This opportunity is funded in part and coordinated by NOAA Alaska Fisheries Science Center ([AFSC](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)).**
 
-To learn more, view the [Cohort website](https://openscapes.github.io/2022-noaa-afsc-fall/) and [nmfs-openscapes.github.io](https://nmfs-openscapes.github.io). This is one of four NOAA Fisheries Champions Cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from seven prior NOAA Fisheries Cohorts.
+To learn more, view the [Cohort website](https://nmfs-openscapes.github.io/2022-noaa-afsc-fall/) and [nmfs-openscapes.github.io](https://nmfs-openscapes.github.io). This is one of four NOAA Fisheries Champions Cohorts running concurrently in Fall 2022 with research teams from Southeast, Southwest, Pacific Islands, Northwest, and Alaska Centers. These build from six prior NOAA Fisheries Cohorts.
 
 **Related blog posts**:
 

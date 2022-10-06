@@ -1,0 +1,23 @@
+---
+title: "Open Science for the Climate Movement, a chat with Monica Granados"
+description: |
+  A casual conversation with Monica Granados, PhD to discuss the Open Climate Campaign and how we can reimagine open science as part of the climate movement
+#author:
+#  - name: Openscapes
+#    url: {}
+date: "2022-12-01"
+categories: 
+  - community call
+image: monica-granados.png  
+---
+
+**Date: December 1, 2022**\
+**Time: 1:00-1:50am PT** (UTC-7)\
+**Where: Zoom**\
+**Free event. [Registration open](https://www.eventbrite.com/e/open-science-for-the-climate-movement-a-chat-with-monica-granados-tickets-424441023527) **
+<!---[**Video Recording**]() --->
+
+Please join us for a conversation with [Monica Granados](https://www.monicagranados.com/), PhD [Open Climate Campaign](https://openclimatecampaign.org/) Manager at Creative Commons, Leadership team member of [PREreview](https://www.prereview.org/), and member of the Board of Directors for the [Canadian OpenData Society](https://www.opendatasociety.ca/). Monica is an open science and data policy advisor and data scientist and a trained ecologist. We'll discuss the Open Climate Campaign and what we can all do to support open science as part of the climate movement. 
+
+![](monica-granados.png){width=200px}
+

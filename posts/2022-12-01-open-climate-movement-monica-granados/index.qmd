@@ -18,6 +18,7 @@ image: monica-granados.png
 <!---[**Video Recording**]() --->
 
 In this conversation, we want to dig into what each of us can do to connect our daily work to the climate movement. How do we connect “big problems” like climate change with "little problems" like sharing knowledge, data, different versions of files, and automating analyses & reports? We want to come away with concrete actions we can all weave into our daily work:
+
 - If climate is part of your day job, how to leverage open science
 - If open science is part of your day job, how to connect that to climate
 

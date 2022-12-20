@@ -11,7 +11,8 @@ categories:
 image: monica-granados.png  
 ---
 
-**[View event summary and video](https://www.openscapes.org/blog/2022/12/20/monica-granados/)**
+**[View event summary and video](https://www.openscapes.org/blog/2022/12/20/monica-granados/)**\
+
 **Date: December 1, 2022**\
 **Time: 1:00 - 1:50 pm PT** (UTC-7)\
 **Where: Zoom**\

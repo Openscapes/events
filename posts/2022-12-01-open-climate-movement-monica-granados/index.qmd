@@ -11,10 +11,11 @@ categories:
 image: monica-granados.png  
 ---
 
+**[View event summary and video](https://www.openscapes.org/blog/2022/12/20/monica-granados/)**
 **Date: December 1, 2022**\
 **Time: 1:00 - 1:50 pm PT** (UTC-7)\
 **Where: Zoom**\
-**Free event.** Summary and recording coming soon
+**Free event.** 
 <!---[**Video Recording**]() --->
 
 In this conversation, we want to dig into what each of us can do to connect our daily work to the climate movement. How do we connect “big problems” like climate change with "little problems" like sharing knowledge, data, different versions of files, and automating analyses & reports? We want to come away with concrete actions we can all weave into our daily work:

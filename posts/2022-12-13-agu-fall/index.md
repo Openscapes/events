@@ -24,4 +24,4 @@ We presented three posters and a plenary lightning talk at the [AGU Fall 2022 me
 
 **Curating information to guide NASA Earthdata users into the cloud with workflow diagrams and cheatsheets** - December 13, 2022 - Cassandra Nickles, Catalina Oaida Taglialatela, Julie Stewart Lowndes, Amy Steiker, Alexis Hunzinger, Aaron Friesz. Poster.
 
-\[Details\](https://nasa-openscapes.github.io/about.html#slides) with links to slides
+[Details](https://nasa-openscapes.github.io/about.html#slides) with links to slides

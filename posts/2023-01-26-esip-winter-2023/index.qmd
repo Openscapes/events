@@ -1,0 +1,26 @@
+---
+title: "ESIP 2023: Opening Doors to Open Science"
+description: |
+  "Better science for future us: Openscapes stories and approaches for the Year of Open Science"
+author:
+  - name: ESIP and Openscapes
+    url: {}
+date: 2023-01-26
+categories: 
+  - conference
+  - NASA Openscapes Framework
+  - NOAA Fisheries
+image: "esip-logo.png"
+---
+
+Building from our session at ESIP Winter 2022, this session will bring together a diverse set of leaders from across the U.S. government to highlight open science in daily work, including peer-teaching, mentoring, and learning with Openscapes. We will share stories, examples, and concrete tips for supporting each other and our colleagues with collaborative, inclusive open science approaches, with the aim of strengthening channels for inter- and cross-agency learning in the Year of Open Science 2023.
+
+How to prepare for this session: Read [our blog post from our 2022 session](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/).
+
+**Link to [our session in the ESIP schedule](https://2023januaryesipmeeting.sched.com/event/1EwXx/better-science-for-future-us-openscapes-stories-and-approaches-for-the-year-of-open-science)**
+
+Join us here and at several other ESIP sessions too:
+
+- Amy Steiker speaking in [Enabling Open Science with NASA's Earthdata in the Cloud](https://2023januaryesipmeeting.sched.com/event/1EwXE/enabling-open-science-with-nasas-earthdata-in-the-cloud)
+- Julie Lowndes speaking in [Earth and Space Science Knowledge Commons: From vision to implementation](https://2023januaryesipmeeting.sched.com/event/1EwXQ/earth-and-space-science-knowledge-commons-from-vision-to-implementation)
+- Eli Holmes in the [ESIP Research Showcase](https://2023januaryesipmeeting.sched.com/event/1EwXr/research-showcase-poster-demo-live-event) with Transforming to Open Science Workflows

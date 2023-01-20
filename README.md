@@ -1,5 +1,5 @@
 # events  
-Openscapes events: <https://openscapes.org/events>
+Openscapes events: <https://openscapes.org/events>.
 
 ## Before you begin
 

@@ -1,5 +1,5 @@
 ---
-title: "How to `kyber` your Workflow, a chat with Sean Kross"
+title: "How to `kyber` your Workflow, a chat and demo with Sean Kross"
 description: |
   A casual conversation with Sean Kross, PhD ADD TEXT HERE
 #author:
@@ -12,7 +12,7 @@ image: sean-kross.jpg
 ---
 
 **Date: March 28, 2023**\
-**Time: 10:00 - 11:50 am PT** (UTC-7)\
+**Time: 10:00 - 11:55 am PT** (UTC-7)\
 **Where: Zoom**\
 **Free event. [Registration open] ADD EVENTBRITE LINK** 
 

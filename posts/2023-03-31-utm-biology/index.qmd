@@ -11,7 +11,7 @@ image: "utm-biology.png"
 
 *Every Friday during the academic year, the University of Toronto Missisauga Department of Biology hosts an exciting seminar given by a guest speaker. Topics cover every aspect of biology, from whole organisms to molecular biology. Julie and Ileana were selected and invited by grad students.*
 
-![](utm-biology.png){fig-alt="white drawing of a tree, on black background. Brances have different biological entities and tools, like lungs, fly, molecule, DNA, microscope. Trunk of tree shaped like a neuronal synapse with bottom labeled Biology." fig-align="center" width="60%"}
+![](utm-biology.png){fig-alt="white drawing of a tree, on black background. Brances have different biological entities and tools, like lungs, fly, molecule, DNA, microscope. Trunk of tree shaped like a neuronal synapse with bottom labeled Biology." fig-align="center" width="40%"}
 
 **Abstract**: At Openscapes, we believe open science can accelerate interoperable, data-driven solutions and increase diversity, equity, inclusion, and belonging in research and beyond. Our main activity is mentoring environmental and Earth science teams in open science, and connecting and elevating them both through tech like R, Python, Quarto, and JupyterHubs and communities like RLadies, Black Women in Ecology Evolution, and Marine Science, Ladies of Landsat, and NASA. We'll share stories and approaches about supporting open science as a daily practice -- better science for future us -- and welcome you to join the movement.
 

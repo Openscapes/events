@@ -3,9 +3,9 @@ title: "2023 Reflections Program"
 description: |
   An open data science coaching program for researchers and those who support research.
 author:
-  - name: Openscapes and NASA
+  - name: Openscapes
     url: {}
-date: 2023-04-19
+date: 2023-05-08
 categories:
   - mentorship opportunity
 image: "fig-mountain-2023-square.jpg"   

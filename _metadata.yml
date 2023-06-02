@@ -1,0 +1,5 @@
+# options apply to all posts in this folder
+# https://quarto.org/docs/websites/website-blog.html#freezing-posts
+
+# freeze computational output
+freeze: true

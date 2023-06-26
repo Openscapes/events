@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Openscapes Events"
+  title: "Openscapes Events - please visit openscapes.org/events for new events as this site is deprecated"
   site-url: https://openscapes.github.io/events
   
   page-footer: 

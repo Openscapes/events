@@ -1,3 +1,5 @@
+Archiving this repo. Events are integrated in the new [Openscapes website]([url](https://openscapes.org/events), and not in this separate space.
+
 # events  
 Openscapes events: <https://openscapes.org/events>.
 
